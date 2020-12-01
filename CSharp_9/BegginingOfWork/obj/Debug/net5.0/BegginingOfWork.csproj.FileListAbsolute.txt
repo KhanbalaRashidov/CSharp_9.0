@@ -1,0 +1,16 @@
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\BegginingOfWork\bin\Debug\net5.0\BegginingOfWork.exe
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\BegginingOfWork\bin\Debug\net5.0\BegginingOfWork.deps.json
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\BegginingOfWork\bin\Debug\net5.0\BegginingOfWork.runtimeconfig.json
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\BegginingOfWork\bin\Debug\net5.0\BegginingOfWork.runtimeconfig.dev.json
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\BegginingOfWork\bin\Debug\net5.0\BegginingOfWork.dll
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\BegginingOfWork\bin\Debug\net5.0\ref\BegginingOfWork.dll
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\BegginingOfWork\bin\Debug\net5.0\BegginingOfWork.pdb
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\BegginingOfWork\obj\Debug\net5.0\BegginingOfWork.csprojAssemblyReference.cache
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\BegginingOfWork\obj\Debug\net5.0\BegginingOfWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\BegginingOfWork\obj\Debug\net5.0\BegginingOfWork.AssemblyInfoInputs.cache
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\BegginingOfWork\obj\Debug\net5.0\BegginingOfWork.AssemblyInfo.cs
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\BegginingOfWork\obj\Debug\net5.0\BegginingOfWork.csproj.CoreCompileInputs.cache
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\BegginingOfWork\obj\Debug\net5.0\BegginingOfWork.dll
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\BegginingOfWork\obj\Debug\net5.0\ref\BegginingOfWork.dll
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\BegginingOfWork\obj\Debug\net5.0\BegginingOfWork.pdb
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\BegginingOfWork\obj\Debug\net5.0\BegginingOfWork.genruntimeconfig.cache
