@@ -11,6 +11,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataTypes", "DataTypes\Data
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Literals", "Literals\Literals.csproj", "{F9B11ED5-65C1-42D8-A116-253C1270E0FA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Console_Input_Output", "Console_Input_Output\Console_Input_Output.csproj", "{DC764090-8E53-4DDB-9B11-1D637AAC4B55}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{F9B11ED5-65C1-42D8-A116-253C1270E0FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F9B11ED5-65C1-42D8-A116-253C1270E0FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F9B11ED5-65C1-42D8-A116-253C1270E0FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC764090-8E53-4DDB-9B11-1D637AAC4B55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC764090-8E53-4DDB-9B11-1D637AAC4B55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC764090-8E53-4DDB-9B11-1D637AAC4B55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC764090-8E53-4DDB-9B11-1D637AAC4B55}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
