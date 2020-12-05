@@ -98,6 +98,14 @@ namespace Arithmetic_Operators
                     int result = (num3 - (--num2)) * num1;    // num1=3  num2=4  num3=40  result=108
                     Console.WriteLine($"num1={num1}  num2={num2}  num3={num3}  result={result}");
                 }
+
+            }
+            {
+                int a = 3;
+                int b = 5;
+                int c = 40;
+                int d = c-- - b * a;    // a=3  b=5  c=39  d=25
+                Console.WriteLine($"a={a}  b={b}  c={c}  d={d}");
             }
         }
     }

@@ -1,0 +1,16 @@
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Arithmetic_Operators\bin\Debug\net5.0\Arithmetic_Operators.exe
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Arithmetic_Operators\bin\Debug\net5.0\Arithmetic_Operators.deps.json
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Arithmetic_Operators\bin\Debug\net5.0\Arithmetic_Operators.runtimeconfig.json
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Arithmetic_Operators\bin\Debug\net5.0\Arithmetic_Operators.runtimeconfig.dev.json
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Arithmetic_Operators\bin\Debug\net5.0\Arithmetic_Operators.dll
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Arithmetic_Operators\bin\Debug\net5.0\ref\Arithmetic_Operators.dll
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Arithmetic_Operators\bin\Debug\net5.0\Arithmetic_Operators.pdb
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Arithmetic_Operators\obj\Debug\net5.0\Arithmetic_Operators.csprojAssemblyReference.cache
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Arithmetic_Operators\obj\Debug\net5.0\Arithmetic_Operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Arithmetic_Operators\obj\Debug\net5.0\Arithmetic_Operators.AssemblyInfoInputs.cache
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Arithmetic_Operators\obj\Debug\net5.0\Arithmetic_Operators.AssemblyInfo.cs
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Arithmetic_Operators\obj\Debug\net5.0\Arithmetic_Operators.csproj.CoreCompileInputs.cache
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Arithmetic_Operators\obj\Debug\net5.0\Arithmetic_Operators.dll
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Arithmetic_Operators\obj\Debug\net5.0\ref\Arithmetic_Operators.dll
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Arithmetic_Operators\obj\Debug\net5.0\Arithmetic_Operators.pdb
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Arithmetic_Operators\obj\Debug\net5.0\Arithmetic_Operators.genruntimeconfig.cache
