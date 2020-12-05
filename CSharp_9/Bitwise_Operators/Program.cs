@@ -40,7 +40,27 @@ namespace Bitwise_Operators
                 int x = 12;                 // 00001100
                 Console.WriteLine(~x);      // 11110011   or -13
             }
-
+            //neqativ number
+            {
+                int x = 12;
+                int y = ~x;
+                y += 1;
+                Console.WriteLine(y);   // -12
+            }
+            //Shift Operator
+            {
+                //shift left 
+                {
+                    int x = 14 << 3;
+                    Console.WriteLine(x);
+                }
+                //shift right
+                {
+                    int x = 16 >> 1;
+                    Console.WriteLine(x);
+                }
+            }
+          
 
             Console.ReadKey();
         }
