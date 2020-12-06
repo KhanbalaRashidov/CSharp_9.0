@@ -51,7 +51,7 @@ namespace Bitwise_Operators
             {
                 //shift left 
                 {
-                    int x = 14 << 3;
+                    int x = 14 << 1;
                     Console.WriteLine(x);
                 }
                 //shift right
@@ -60,7 +60,7 @@ namespace Bitwise_Operators
                     Console.WriteLine(x);
                 }
             }
-          
+            
 
             Console.ReadKey();
         }

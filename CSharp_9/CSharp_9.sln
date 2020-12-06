@@ -13,9 +13,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Literals", "Literals\Litera
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Console_Input_Output", "Console_Input_Output\Console_Input_Output.csproj", "{DC764090-8E53-4DDB-9B11-1D637AAC4B55}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arithmetic_Operators", "Arithmetic_Operators\Arithmetic_Operators.csproj", "{B1AE0237-2285-411A-BFD5-29EAA5C84901}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Arithmetic_Operators", "Arithmetic_Operators\Arithmetic_Operators.csproj", "{B1AE0237-2285-411A-BFD5-29EAA5C84901}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bitwise_Operators", "Bitwise_Operators\Bitwise_Operators.csproj", "{0819263D-13D5-4C67-BE19-04B18D2B3271}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bitwise_Operators", "Bitwise_Operators\Bitwise_Operators.csproj", "{0819263D-13D5-4C67-BE19-04B18D2B3271}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment_Operators", "Assignment_Operators\Assignment_Operators.csproj", "{27BA9D5F-485D-4C51-89D5-B3C092C3B36F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{0819263D-13D5-4C67-BE19-04B18D2B3271}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0819263D-13D5-4C67-BE19-04B18D2B3271}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0819263D-13D5-4C67-BE19-04B18D2B3271}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27BA9D5F-485D-4C51-89D5-B3C092C3B36F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27BA9D5F-485D-4C51-89D5-B3C092C3B36F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27BA9D5F-485D-4C51-89D5-B3C092C3B36F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27BA9D5F-485D-4C51-89D5-B3C092C3B36F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
