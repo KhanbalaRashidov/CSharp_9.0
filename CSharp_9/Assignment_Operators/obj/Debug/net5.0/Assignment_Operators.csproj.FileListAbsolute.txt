@@ -1,0 +1,15 @@
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Assignment_Operators\bin\Debug\net5.0\Assignment_Operators.exe
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Assignment_Operators\bin\Debug\net5.0\Assignment_Operators.deps.json
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Assignment_Operators\bin\Debug\net5.0\Assignment_Operators.runtimeconfig.json
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Assignment_Operators\bin\Debug\net5.0\Assignment_Operators.runtimeconfig.dev.json
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Assignment_Operators\bin\Debug\net5.0\Assignment_Operators.dll
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Assignment_Operators\bin\Debug\net5.0\ref\Assignment_Operators.dll
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Assignment_Operators\bin\Debug\net5.0\Assignment_Operators.pdb
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Assignment_Operators\obj\Debug\net5.0\Assignment_Operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Assignment_Operators\obj\Debug\net5.0\Assignment_Operators.AssemblyInfoInputs.cache
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Assignment_Operators\obj\Debug\net5.0\Assignment_Operators.AssemblyInfo.cs
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Assignment_Operators\obj\Debug\net5.0\Assignment_Operators.csproj.CoreCompileInputs.cache
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Assignment_Operators\obj\Debug\net5.0\Assignment_Operators.dll
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Assignment_Operators\obj\Debug\net5.0\ref\Assignment_Operators.dll
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Assignment_Operators\obj\Debug\net5.0\Assignment_Operators.pdb
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Assignment_Operators\obj\Debug\net5.0\Assignment_Operators.genruntimeconfig.cache

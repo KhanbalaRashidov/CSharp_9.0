@@ -1,0 +1,16 @@
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Basic_DataType_Conversions\bin\Debug\net5.0\Basic_DataType_Conversions.exe
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Basic_DataType_Conversions\bin\Debug\net5.0\Basic_DataType_Conversions.deps.json
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Basic_DataType_Conversions\bin\Debug\net5.0\Basic_DataType_Conversions.runtimeconfig.json
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Basic_DataType_Conversions\bin\Debug\net5.0\Basic_DataType_Conversions.runtimeconfig.dev.json
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Basic_DataType_Conversions\bin\Debug\net5.0\Basic_DataType_Conversions.dll
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Basic_DataType_Conversions\bin\Debug\net5.0\ref\Basic_DataType_Conversions.dll
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Basic_DataType_Conversions\bin\Debug\net5.0\Basic_DataType_Conversions.pdb
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Basic_DataType_Conversions\obj\Debug\net5.0\Basic_DataType_Conversions.csprojAssemblyReference.cache
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Basic_DataType_Conversions\obj\Debug\net5.0\Basic_DataType_Conversions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Basic_DataType_Conversions\obj\Debug\net5.0\Basic_DataType_Conversions.AssemblyInfoInputs.cache
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Basic_DataType_Conversions\obj\Debug\net5.0\Basic_DataType_Conversions.AssemblyInfo.cs
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Basic_DataType_Conversions\obj\Debug\net5.0\Basic_DataType_Conversions.csproj.CoreCompileInputs.cache
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Basic_DataType_Conversions\obj\Debug\net5.0\Basic_DataType_Conversions.dll
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Basic_DataType_Conversions\obj\Debug\net5.0\ref\Basic_DataType_Conversions.dll
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Basic_DataType_Conversions\obj\Debug\net5.0\Basic_DataType_Conversions.pdb
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Basic_DataType_Conversions\obj\Debug\net5.0\Basic_DataType_Conversions.genruntimeconfig.cache
