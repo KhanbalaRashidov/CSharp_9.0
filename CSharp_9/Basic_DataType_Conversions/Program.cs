@@ -1060,6 +1060,20 @@ namespace Basic_DataType_Conversions
                     Console.WriteLine(ex.Message);
                 }
             }
+            {
+                float num1 = 10f;
+                Console.WriteLine(num1);
+                Console.WriteLine(1.65.GetType());
+                int num2 = (int)num1;
+                Console.WriteLine(num2);
+            }
+            {
+                Console.WriteLine((int)('y'));
+                Console.WriteLine(3 * 'e');
+                Console.WriteLine((int)('p'));
+                var sum = 'y' + 3 * 'e' + 'p';
+                Console.WriteLine($"sum={sum}");
+            }
             Console.ReadKey();
         }
     }

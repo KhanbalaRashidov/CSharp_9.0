@@ -1,0 +1,13 @@
+C:\Users\Xanish\source\repos\CSharp_Documentation\OOP\bin\Debug\netcoreapp3.1\OOP.exe
+C:\Users\Xanish\source\repos\CSharp_Documentation\OOP\bin\Debug\netcoreapp3.1\OOP.deps.json
+C:\Users\Xanish\source\repos\CSharp_Documentation\OOP\bin\Debug\netcoreapp3.1\OOP.runtimeconfig.json
+C:\Users\Xanish\source\repos\CSharp_Documentation\OOP\bin\Debug\netcoreapp3.1\OOP.runtimeconfig.dev.json
+C:\Users\Xanish\source\repos\CSharp_Documentation\OOP\bin\Debug\netcoreapp3.1\OOP.dll
+C:\Users\Xanish\source\repos\CSharp_Documentation\OOP\bin\Debug\netcoreapp3.1\OOP.pdb
+C:\Users\Xanish\source\repos\CSharp_Documentation\OOP\obj\Debug\netcoreapp3.1\OOP.csprojAssemblyReference.cache
+C:\Users\Xanish\source\repos\CSharp_Documentation\OOP\obj\Debug\netcoreapp3.1\OOP.AssemblyInfoInputs.cache
+C:\Users\Xanish\source\repos\CSharp_Documentation\OOP\obj\Debug\netcoreapp3.1\OOP.AssemblyInfo.cs
+C:\Users\Xanish\source\repos\CSharp_Documentation\OOP\obj\Debug\netcoreapp3.1\OOP.csproj.CoreCompileInputs.cache
+C:\Users\Xanish\source\repos\CSharp_Documentation\OOP\obj\Debug\netcoreapp3.1\OOP.dll
+C:\Users\Xanish\source\repos\CSharp_Documentation\OOP\obj\Debug\netcoreapp3.1\OOP.pdb
+C:\Users\Xanish\source\repos\CSharp_Documentation\OOP\obj\Debug\netcoreapp3.1\OOP.genruntimeconfig.cache
