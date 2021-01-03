@@ -1,0 +1,16 @@
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\TopLevelStatements\bin\Debug\net5.0\TopLevelStatements.exe
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\TopLevelStatements\bin\Debug\net5.0\TopLevelStatements.deps.json
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\TopLevelStatements\bin\Debug\net5.0\TopLevelStatements.runtimeconfig.json
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\TopLevelStatements\bin\Debug\net5.0\TopLevelStatements.runtimeconfig.dev.json
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\TopLevelStatements\bin\Debug\net5.0\TopLevelStatements.dll
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\TopLevelStatements\bin\Debug\net5.0\ref\TopLevelStatements.dll
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\TopLevelStatements\bin\Debug\net5.0\TopLevelStatements.pdb
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\TopLevelStatements\obj\Debug\net5.0\TopLevelStatements.csprojAssemblyReference.cache
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\TopLevelStatements\obj\Debug\net5.0\TopLevelStatements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\TopLevelStatements\obj\Debug\net5.0\TopLevelStatements.AssemblyInfoInputs.cache
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\TopLevelStatements\obj\Debug\net5.0\TopLevelStatements.AssemblyInfo.cs
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\TopLevelStatements\obj\Debug\net5.0\TopLevelStatements.csproj.CoreCompileInputs.cache
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\TopLevelStatements\obj\Debug\net5.0\TopLevelStatements.dll
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\TopLevelStatements\obj\Debug\net5.0\ref\TopLevelStatements.dll
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\TopLevelStatements\obj\Debug\net5.0\TopLevelStatements.pdb
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\TopLevelStatements\obj\Debug\net5.0\TopLevelStatements.genruntimeconfig.cache

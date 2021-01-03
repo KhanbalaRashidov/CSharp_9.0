@@ -71,6 +71,25 @@ namespace RecordTypes
             {
                 Console.WriteLine(item);
             }
+            //with
+            var growingDegreeDays1 = heatingDegreeDays with { };
+            Console.WriteLine(growingDegreeDays);
+
+            List<HeatingDegreeDays> movingAccumulation1 = new();
+            int rangeSize1 = (data.Length > 5) ? 5 : data.Length;
+            for (int start = 0; start < data.Length - rangeSize1; start++)
+            {
+                var fiveDayTotal = growingDegreeDays1 with { TempRecords = data[start..(start + rangeSize)] };
+                movingAccumulation1.Add(fiveDayTotal);
+            }
+            Console.WriteLine();
+            Console.WriteLine("Total degree days in the last five days");
+            foreach (var item in movingAccumulation1)
+            {
+                Console.WriteLine(item);
+            }
+
+
             Console.ReadKey();
         }
     }

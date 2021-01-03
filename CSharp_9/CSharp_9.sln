@@ -21,7 +21,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Assignment_Operators", "Ass
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Basic_DataType_Conversions", "Basic_DataType_Conversions\Basic_DataType_Conversions.csproj", "{F0EB937E-964B-48F3-9E3F-15CDF218C55C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecordTypes", "RecordTypes\RecordTypes.csproj", "{4303487B-BB7F-4DC5-94AA-E8A6D8EC903A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RecordTypes", "RecordTypes\RecordTypes.csproj", "{4303487B-BB7F-4DC5-94AA-E8A6D8EC903A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TopLevelStatements", "TopLevelStatements\TopLevelStatements.csproj", "{AF8A788C-45E8-4533-B81A-EF2797314F2A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +71,10 @@ Global
 		{4303487B-BB7F-4DC5-94AA-E8A6D8EC903A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4303487B-BB7F-4DC5-94AA-E8A6D8EC903A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4303487B-BB7F-4DC5-94AA-E8A6D8EC903A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF8A788C-45E8-4533-B81A-EF2797314F2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF8A788C-45E8-4533-B81A-EF2797314F2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF8A788C-45E8-4533-B81A-EF2797314F2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF8A788C-45E8-4533-B81A-EF2797314F2A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
