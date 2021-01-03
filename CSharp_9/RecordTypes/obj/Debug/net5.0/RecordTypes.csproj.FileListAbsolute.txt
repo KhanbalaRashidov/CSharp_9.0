@@ -1,0 +1,16 @@
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\RecordTypes\bin\Debug\net5.0\RecordTypes.exe
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\RecordTypes\bin\Debug\net5.0\RecordTypes.deps.json
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\RecordTypes\bin\Debug\net5.0\RecordTypes.runtimeconfig.json
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\RecordTypes\bin\Debug\net5.0\RecordTypes.runtimeconfig.dev.json
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\RecordTypes\bin\Debug\net5.0\RecordTypes.dll
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\RecordTypes\bin\Debug\net5.0\ref\RecordTypes.dll
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\RecordTypes\bin\Debug\net5.0\RecordTypes.pdb
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\RecordTypes\obj\Debug\net5.0\RecordTypes.csprojAssemblyReference.cache
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\RecordTypes\obj\Debug\net5.0\RecordTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\RecordTypes\obj\Debug\net5.0\RecordTypes.AssemblyInfoInputs.cache
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\RecordTypes\obj\Debug\net5.0\RecordTypes.AssemblyInfo.cs
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\RecordTypes\obj\Debug\net5.0\RecordTypes.csproj.CoreCompileInputs.cache
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\RecordTypes\obj\Debug\net5.0\RecordTypes.dll
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\RecordTypes\obj\Debug\net5.0\ref\RecordTypes.dll
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\RecordTypes\obj\Debug\net5.0\RecordTypes.pdb
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\RecordTypes\obj\Debug\net5.0\RecordTypes.genruntimeconfig.cache

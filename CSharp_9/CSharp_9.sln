@@ -17,9 +17,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Arithmetic_Operators", "Ari
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bitwise_Operators", "Bitwise_Operators\Bitwise_Operators.csproj", "{0819263D-13D5-4C67-BE19-04B18D2B3271}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment_Operators", "Assignment_Operators\Assignment_Operators.csproj", "{27BA9D5F-485D-4C51-89D5-B3C092C3B36F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Assignment_Operators", "Assignment_Operators\Assignment_Operators.csproj", "{27BA9D5F-485D-4C51-89D5-B3C092C3B36F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Basic_DataType_Conversions", "Basic_DataType_Conversions\Basic_DataType_Conversions.csproj", "{F0EB937E-964B-48F3-9E3F-15CDF218C55C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Basic_DataType_Conversions", "Basic_DataType_Conversions\Basic_DataType_Conversions.csproj", "{F0EB937E-964B-48F3-9E3F-15CDF218C55C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecordTypes", "RecordTypes\RecordTypes.csproj", "{4303487B-BB7F-4DC5-94AA-E8A6D8EC903A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{F0EB937E-964B-48F3-9E3F-15CDF218C55C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F0EB937E-964B-48F3-9E3F-15CDF218C55C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F0EB937E-964B-48F3-9E3F-15CDF218C55C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4303487B-BB7F-4DC5-94AA-E8A6D8EC903A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4303487B-BB7F-4DC5-94AA-E8A6D8EC903A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4303487B-BB7F-4DC5-94AA-E8A6D8EC903A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4303487B-BB7F-4DC5-94AA-E8A6D8EC903A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
