@@ -25,6 +25,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RecordTypes", "RecordTypes\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TopLevelStatements", "TopLevelStatements\TopLevelStatements.csproj", "{AF8A788C-45E8-4533-B81A-EF2797314F2A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PatternsInObject", "PatternsInObject\PatternsInObject.csproj", "{C044C78A-8EC2-4CEC-B0B2-DAA0799653B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Object-Oriented_Programming", "Object-Oriented_Programming\Object-Oriented_Programming.csproj", "{641927BF-AE93-4CA5-9F80-1A796D0BCA24}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +79,14 @@ Global
 		{AF8A788C-45E8-4533-B81A-EF2797314F2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AF8A788C-45E8-4533-B81A-EF2797314F2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AF8A788C-45E8-4533-B81A-EF2797314F2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C044C78A-8EC2-4CEC-B0B2-DAA0799653B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C044C78A-8EC2-4CEC-B0B2-DAA0799653B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C044C78A-8EC2-4CEC-B0B2-DAA0799653B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C044C78A-8EC2-4CEC-B0B2-DAA0799653B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{641927BF-AE93-4CA5-9F80-1A796D0BCA24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{641927BF-AE93-4CA5-9F80-1A796D0BCA24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{641927BF-AE93-4CA5-9F80-1A796D0BCA24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{641927BF-AE93-4CA5-9F80-1A796D0BCA24}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

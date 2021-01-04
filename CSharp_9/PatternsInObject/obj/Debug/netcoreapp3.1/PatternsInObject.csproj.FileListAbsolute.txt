@@ -1,0 +1,13 @@
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\PatternsInObject\bin\Debug\netcoreapp3.1\PatternsInObject.exe
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\PatternsInObject\bin\Debug\netcoreapp3.1\PatternsInObject.deps.json
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\PatternsInObject\bin\Debug\netcoreapp3.1\PatternsInObject.runtimeconfig.json
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\PatternsInObject\bin\Debug\netcoreapp3.1\PatternsInObject.runtimeconfig.dev.json
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\PatternsInObject\bin\Debug\netcoreapp3.1\PatternsInObject.dll
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\PatternsInObject\bin\Debug\netcoreapp3.1\PatternsInObject.pdb
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\PatternsInObject\obj\Debug\netcoreapp3.1\PatternsInObject.csprojAssemblyReference.cache
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\PatternsInObject\obj\Debug\netcoreapp3.1\PatternsInObject.AssemblyInfoInputs.cache
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\PatternsInObject\obj\Debug\netcoreapp3.1\PatternsInObject.AssemblyInfo.cs
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\PatternsInObject\obj\Debug\netcoreapp3.1\PatternsInObject.csproj.CoreCompileInputs.cache
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\PatternsInObject\obj\Debug\netcoreapp3.1\PatternsInObject.dll
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\PatternsInObject\obj\Debug\netcoreapp3.1\PatternsInObject.pdb
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\PatternsInObject\obj\Debug\netcoreapp3.1\PatternsInObject.genruntimeconfig.cache

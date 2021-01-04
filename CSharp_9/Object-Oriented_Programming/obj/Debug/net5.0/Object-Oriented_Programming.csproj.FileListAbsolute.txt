@@ -1,0 +1,16 @@
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Object-Oriented_Programming\bin\Debug\net5.0\Object-Oriented_Programming.exe
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Object-Oriented_Programming\bin\Debug\net5.0\Object-Oriented_Programming.deps.json
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Object-Oriented_Programming\bin\Debug\net5.0\Object-Oriented_Programming.runtimeconfig.json
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Object-Oriented_Programming\bin\Debug\net5.0\Object-Oriented_Programming.runtimeconfig.dev.json
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Object-Oriented_Programming\bin\Debug\net5.0\Object-Oriented_Programming.dll
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Object-Oriented_Programming\bin\Debug\net5.0\ref\Object-Oriented_Programming.dll
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Object-Oriented_Programming\bin\Debug\net5.0\Object-Oriented_Programming.pdb
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Object-Oriented_Programming\obj\Debug\net5.0\Object-Oriented_Programming.csprojAssemblyReference.cache
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Object-Oriented_Programming\obj\Debug\net5.0\Object-Oriented_Programming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Object-Oriented_Programming\obj\Debug\net5.0\Object-Oriented_Programming.AssemblyInfoInputs.cache
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Object-Oriented_Programming\obj\Debug\net5.0\Object-Oriented_Programming.AssemblyInfo.cs
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Object-Oriented_Programming\obj\Debug\net5.0\Object-Oriented_Programming.csproj.CoreCompileInputs.cache
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Object-Oriented_Programming\obj\Debug\net5.0\Object-Oriented_Programming.dll
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Object-Oriented_Programming\obj\Debug\net5.0\ref\Object-Oriented_Programming.dll
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Object-Oriented_Programming\obj\Debug\net5.0\Object-Oriented_Programming.pdb
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Object-Oriented_Programming\obj\Debug\net5.0\Object-Oriented_Programming.genruntimeconfig.cache
