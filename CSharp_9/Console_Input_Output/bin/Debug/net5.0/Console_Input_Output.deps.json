@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Console_Input_Output/1.0.0": {
+        "runtime": {
+          "Console_Input_Output.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Console_Input_Output/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

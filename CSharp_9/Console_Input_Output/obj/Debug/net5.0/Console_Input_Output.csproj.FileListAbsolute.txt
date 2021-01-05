@@ -1,0 +1,16 @@
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Console_Input_Output\bin\Debug\net5.0\Console_Input_Output.exe
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Console_Input_Output\bin\Debug\net5.0\Console_Input_Output.deps.json
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Console_Input_Output\bin\Debug\net5.0\Console_Input_Output.runtimeconfig.json
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Console_Input_Output\bin\Debug\net5.0\Console_Input_Output.runtimeconfig.dev.json
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Console_Input_Output\bin\Debug\net5.0\Console_Input_Output.dll
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Console_Input_Output\bin\Debug\net5.0\ref\Console_Input_Output.dll
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Console_Input_Output\bin\Debug\net5.0\Console_Input_Output.pdb
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Console_Input_Output\obj\Debug\net5.0\Console_Input_Output.csprojAssemblyReference.cache
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Console_Input_Output\obj\Debug\net5.0\Console_Input_Output.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Console_Input_Output\obj\Debug\net5.0\Console_Input_Output.AssemblyInfoInputs.cache
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Console_Input_Output\obj\Debug\net5.0\Console_Input_Output.AssemblyInfo.cs
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Console_Input_Output\obj\Debug\net5.0\Console_Input_Output.csproj.CoreCompileInputs.cache
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Console_Input_Output\obj\Debug\net5.0\Console_Input_Output.dll
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Console_Input_Output\obj\Debug\net5.0\ref\Console_Input_Output.dll
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Console_Input_Output\obj\Debug\net5.0\Console_Input_Output.pdb
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Console_Input_Output\obj\Debug\net5.0\Console_Input_Output.genruntimeconfig.cache

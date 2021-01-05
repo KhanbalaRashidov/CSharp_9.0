@@ -1,0 +1,16 @@
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\InterfaceMethod\bin\Debug\net5.0\InterfaceMethod.exe
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\InterfaceMethod\bin\Debug\net5.0\InterfaceMethod.deps.json
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\InterfaceMethod\bin\Debug\net5.0\InterfaceMethod.runtimeconfig.json
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\InterfaceMethod\bin\Debug\net5.0\InterfaceMethod.runtimeconfig.dev.json
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\InterfaceMethod\bin\Debug\net5.0\InterfaceMethod.dll
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\InterfaceMethod\bin\Debug\net5.0\ref\InterfaceMethod.dll
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\InterfaceMethod\bin\Debug\net5.0\InterfaceMethod.pdb
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\InterfaceMethod\obj\Debug\net5.0\InterfaceMethod.csprojAssemblyReference.cache
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\InterfaceMethod\obj\Debug\net5.0\InterfaceMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\InterfaceMethod\obj\Debug\net5.0\InterfaceMethod.AssemblyInfoInputs.cache
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\InterfaceMethod\obj\Debug\net5.0\InterfaceMethod.AssemblyInfo.cs
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\InterfaceMethod\obj\Debug\net5.0\InterfaceMethod.csproj.CoreCompileInputs.cache
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\InterfaceMethod\obj\Debug\net5.0\InterfaceMethod.dll
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\InterfaceMethod\obj\Debug\net5.0\ref\InterfaceMethod.dll
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\InterfaceMethod\obj\Debug\net5.0\InterfaceMethod.pdb
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\InterfaceMethod\obj\Debug\net5.0\InterfaceMethod.genruntimeconfig.cache
