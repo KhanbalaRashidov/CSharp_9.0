@@ -1074,6 +1074,46 @@ namespace Basic_DataType_Conversions
                 var sum = 'y' + 3 * 'e' + 'p';
                 Console.WriteLine($"sum={sum}");
             }
+            {
+                int a = 257;
+                byte b =unchecked((byte)a);
+                Console.WriteLine(b);
+            }
+            //Parse conversion
+            {
+               /* string StrNum = "2021";
+                int num = StrNum; //error CS0029
+               */
+                string StrNum = "2021";
+                int a = int.Parse(StrNum);
+                Console.WriteLine(a);
+             
+                double b = double.Parse(StrNum);
+                Console.WriteLine(b);
+
+                uint c = uint.Parse(StrNum);
+                Console.WriteLine(c);
+               // byte d =unchecked( byte.Parse(StrNum)); // overflow exception
+                string strNum = "255";
+                byte d = byte.Parse(strNum);
+                Console.WriteLine(d);
+            }
+            //Convert conversion
+            {
+                string strNumber = "2021";
+                int intValue = Convert.ToInt32(strNumber);
+                Console.WriteLine(intValue);
+
+                double doubleValue = Convert.ToDouble(strNumber);
+                Console.WriteLine(doubleValue);
+
+                uint uintValue = Convert.ToUInt32(strNumber);
+                Console.WriteLine(uintValue);
+              /* 
+                byte byteValue = Convert.ToByte(strNumber); //Overflow exception
+                Console.WriteLine(byteValue);
+              */
+            }
             Console.ReadKey();
         }
     }

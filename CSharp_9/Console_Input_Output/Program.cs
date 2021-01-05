@@ -85,7 +85,7 @@ namespace Console_Input_Output
 
                 Console.ReadKey();
                 Console.WriteLine($"{date:HH:mm}");
-                Console.WriteLine($"{date:yyyyy-mm-dd}");
+                Console.WriteLine($"{date:yyyy-mm-dd}");
                 Console.WriteLine($"{date:dd.MM.yyyy}");
                 Console.WriteLine($"{date:yy.mm.dd}");
             }
