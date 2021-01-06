@@ -11,18 +11,48 @@ namespace Arithmetic_Operators
                 int num1 = 3;
                 int sum = num1 + 14; //17
                 Console.WriteLine($"Number1={num1}  Sum={sum}");
+
+                long a = 3;
+                byte b = 14;
+                long c = a + b;
+                Console.WriteLine(c); //type long
+
+                short a1 = 3;
+                uint b1 = 14;
+                uint c1 = (uint)(b1 + a1); // short < uint < int 
+                Console.WriteLine(c1);
             }
             //The operation of subtracting two numbers
             {
                 int num1 = 14;
                 int subtraction = num1 - 3; //11
                 Console.WriteLine($"Number1={num1}  subtraction={subtraction}");
+
+                long a = 3;
+                byte b = 14;
+                long c = b - a;
+                Console.WriteLine(c); //type long
+
+                short a1 = 3;
+                uint b1 = 14;
+                uint c1 = (uint)(b1 - a1); // short < uint < int 
+                Console.WriteLine(c1);
             }
             //The operation of multiplying two numbers
             {
                 int num1 = 14;
                 int multiplication = num1 * 3;
                 Console.WriteLine($"Number1={num1}  multiplication={multiplication}");
+
+                long a = 3;
+                byte b = 14;
+                long c = a * b;
+                Console.WriteLine(c); //type long
+
+                short a1 = 3;
+                uint b1 = 14;
+                uint c1 = (uint)(b1 * a1); // short < uint < int 
+                Console.WriteLine(c1);
             }
             //division operation of two numbers
             {
@@ -48,12 +78,32 @@ namespace Arithmetic_Operators
 
                 double doubleRatio3 = 10.4 / 4.0; //2.5
                 Console.WriteLine($"double ration3={doubleRatio3}");
+
+                long a = 3;
+                byte b = 14;
+                long c = b / a;
+                Console.WriteLine(c); //type long
+
+                short a1 = 3;
+                uint b1 = 14;
+                uint c1 = (uint)(b1 / a1); // short < uint < int 
+                Console.WriteLine(c1);
             }
             //The operation of obtaining the remainder of an integer division of two numbers
             {
                 int num1 = 14;
                 int residual = num1 % 3; //2
                 Console.WriteLine($"residual={residual}");
+
+                long a = 3;
+                byte b = 14;
+                long c = b % a;
+                Console.WriteLine($"14/3={b / a} residual={c}"); //type long
+
+                short a1 = 3;
+                uint b1 = 14;
+                uint c1 = (uint)(b1 % a1); // short < uint < int 
+                Console.WriteLine($"14/3={(uint)(b1 / a1)} residual={c1}");
             }
             //operator increment 
             {
@@ -66,7 +116,7 @@ namespace Arithmetic_Operators
                 int num3 = 3;
                 int num4 = num3++;
                 Console.WriteLine($"num1={num3}  num3={num4}");
-                 
+
             }
             //operator decrement
             {
@@ -106,6 +156,14 @@ namespace Arithmetic_Operators
                 int c = 40;
                 int d = c-- - b * a;    // a=3  b=5  c=39  d=25
                 Console.WriteLine($"a={a}  b={b}  c={c}  d={d}");
+            }
+            {
+                int a = 3;
+                Console.WriteLine($"a={a++}");
+                Console.WriteLine($"a={++a}");
+                int b = a + a * a++ + ++a;
+                Console.WriteLine($"a + a * a++ + ++a ={b}");
+
             }
         }
     }

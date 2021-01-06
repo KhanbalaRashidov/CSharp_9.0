@@ -13,3 +13,4 @@ C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Assignment_Operato
 C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Assignment_Operators\obj\Debug\net5.0\ref\Assignment_Operators.dll
 C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Assignment_Operators\obj\Debug\net5.0\Assignment_Operators.pdb
 C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Assignment_Operators\obj\Debug\net5.0\Assignment_Operators.genruntimeconfig.cache
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Assignment_Operators\obj\Debug\net5.0\Assignment_Operators.csprojAssemblyReference.cache

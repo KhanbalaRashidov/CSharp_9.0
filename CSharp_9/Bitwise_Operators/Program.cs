@@ -60,7 +60,78 @@ namespace Bitwise_Operators
                     Console.WriteLine(x);
                 }
             }
-            
+            {
+
+                #region inversiya
+                Console.WriteLine("<--Inversiya-->");
+                bool variable1 = true;
+                bool variable2 = false;
+
+                Console.WriteLine($"variable1={variable1}  !variable1={!variable1}");
+                Console.WriteLine($"variable2={variable2}  !variable2={!variable2}");
+
+                #endregion
+                #region konyuktsiya &&
+                variable1 = true;
+                variable2 = false;
+                bool result = variable1 && variable2;
+                Console.WriteLine(result);
+                Console.WriteLine($" {true} && {true}  ={true && true}");
+                Console.WriteLine($" {true} && {false} ={true && false}");
+                Console.WriteLine($"{false} && {true}  ={false && true}");
+                Console.WriteLine($"{false} && {false} ={false && false}");
+                Console.ReadKey();
+                #endregion
+                #region disunktsiya ||
+                variable1 = true;
+                variable2 = false;
+                result = variable1 || variable2;
+                Console.WriteLine(result);
+                Console.WriteLine($" {true} || {true}  ={true || true}");
+                Console.WriteLine($" {true} || {false} ={true || false}");
+                Console.WriteLine($"{false} || {true}  ={false || true}");
+                Console.WriteLine($"{false} || {false} ={false || false}");
+                Console.ReadKey();
+                #endregion
+                #region XOR ^
+                variable1 = true;
+                variable2 = false;
+                result = variable1 ^ variable2;
+                Console.WriteLine(result);
+                Console.WriteLine($" {true} ^ {true}  ={true ^ true}");
+                Console.WriteLine($" {true} ^ {false} ={true ^ false}");
+                Console.WriteLine($"{false} ^ {true}  ={false ^ true}");
+                Console.WriteLine($"{false} ^ {false} ={false ^ false}");
+                Console.ReadKey();
+                #endregion
+                #region more operation
+                bool flag1 = 3 > 2; Console.WriteLine(flag1);
+                bool flag2 = 3 < 2; Console.WriteLine(flag2);
+                bool flag3 = 'X' == 'X'; Console.WriteLine(flag3);
+                bool flag4 = 3 == 3; Console.WriteLine(flag4);
+                bool flag5 = 3 >= 2; Console.WriteLine(flag5);
+                bool flag6 = 3 <= 3; Console.WriteLine(flag6);
+                bool flag7 = 3 != 2; Console.WriteLine(flag7);
+
+                string c = "C#";
+                bool flag8 = 3 != 2 && c == "C#"; Console.WriteLine(flag8);
+                #endregion
+                #region Math logical operation
+                int x1 = 30, x2 = 150; //coordinat rectangle point
+                int y1 = 20, y2 = 90;
+
+                int pA = 100, pB = 70; //point coordinat
+                bool check = ((pA >= x1) && (pA <= x2) && (pB >= y1) && (pB<=y2));
+                Console.WriteLine(check);
+                #region
+                Console.ReadKey();
+                pA = 50;
+                pB = 110;
+                check = ((pA >= x1) && (pA <= x2) && (pB >= y1) && (pB <= y2));
+                Console.WriteLine(check);
+                #endregion
+                #endregion
+            }
 
             Console.ReadKey();
         }

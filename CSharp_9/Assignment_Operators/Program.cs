@@ -21,57 +21,74 @@ namespace Assignment_Operators
             // += operator
             {
                 int number = 10;
+                int number2 = 9;
+                Console.WriteLine($"number={number} number+number2={number+number2}");
+                number += 10; //==> number=number+10
                 Console.WriteLine($"number={number}");
-                number += 10;
-                Console.WriteLine($"number={number}");
+
+                int num1 = 2_000_000_000;
+                int num2 = 2_000_000_000;
+                int sum1 = num1 + num2; //overflow
+                Console.WriteLine($"sum1={sum1}");
             }
             // -= operator
             {
                 int number = 10;
+                int number2 = 9;
+                Console.WriteLine($"number={number} number-number2={number-number2}");
+                number -= 5; //==> number=number-5
                 Console.WriteLine($"number={number}");
-                number -= 5;
-                Console.WriteLine($"number={number}");
+                int num1 = 2_000_000_000;
+                int num2 = -2_000_000_000;
+                int sum1 = num2 - num1;
+                Console.WriteLine($"-sum1={sum1}");
             }
             // *= operator
             {
                 int number = 10;
-                Console.WriteLine($"number={number}");
-                number *= 3;
+                int number2 = 9;
+                Console.WriteLine($"number={number} number * number2 ={number*number2}");
+                number *= 3; //==> number=number*3
                 Console.WriteLine($"number={number}");
             }
             // /= operator
             {
                 int number = 10;
-                Console.WriteLine($"number={number}");
-                number /= 5;
+                int number2 = 9;
+                Console.WriteLine($"number={number} number/number2={number/number2}");
+                number /= 5; //==> number=number/5
                 Console.WriteLine($"number={number}");
             }
             // %= operator
             {
                 int number = 10;
-                Console.WriteLine($"number={number}");
-                number %= 3;
+                int number2 = 9;
+                Console.WriteLine($"number={number} number%number2={number%number2}");
+                number %= 3; //==>number=number%3
                 Console.WriteLine($"number={number}");
             }
             // &= operator
             {
                 int number = 10;
-                Console.WriteLine($"number={number}");
-                number &= 5;
+                int number2 = 9;
+                Console.WriteLine($"number={number} number&number2={number&number2}");
+                number &= 5; //==>number=number&5
                 Console.WriteLine($"number={number}");
             }
             // |= operator
             {
                 int number = 10;
-                Console.WriteLine($"number={number}");
-                number |= 5;
+                int number2=9;
+                Console.WriteLine($"number={number} number|number2={number|number2}");
+                number |= 5; //==> number=number|5
                 Console.WriteLine($"number={number}");
             }
             // ^= operator
             {
                 int number = 10;
-                Console.WriteLine($"number={number}");
-                number ^= 2;
+                int number2 = 9;
+                Console.WriteLine($"number={number} number^number2={number^number2}");
+                number ^= 2; //==>number=number^2
                 Console.WriteLine($"number={number}");
             }
 
