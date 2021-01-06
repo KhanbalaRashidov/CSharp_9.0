@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interpolation", "Interpolat
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeWork2", "HomeWork2\HomeWork2.csproj", "{0C14A501-76C2-44E0-9CD7-EA0504AF65F6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RandomClass", "RandomClass\RandomClass.csproj", "{4B5DB2C7-846C-46FE-96A0-88621E071542}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{0C14A501-76C2-44E0-9CD7-EA0504AF65F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0C14A501-76C2-44E0-9CD7-EA0504AF65F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0C14A501-76C2-44E0-9CD7-EA0504AF65F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B5DB2C7-846C-46FE-96A0-88621E071542}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B5DB2C7-846C-46FE-96A0-88621E071542}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B5DB2C7-846C-46FE-96A0-88621E071542}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B5DB2C7-846C-46FE-96A0-88621E071542}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

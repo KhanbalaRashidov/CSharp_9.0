@@ -1,0 +1,13 @@
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\RandomClass\bin\Debug\netcoreapp3.1\RandomClass.exe
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\RandomClass\bin\Debug\netcoreapp3.1\RandomClass.deps.json
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\RandomClass\bin\Debug\netcoreapp3.1\RandomClass.runtimeconfig.json
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\RandomClass\bin\Debug\netcoreapp3.1\RandomClass.runtimeconfig.dev.json
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\RandomClass\bin\Debug\netcoreapp3.1\RandomClass.dll
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\RandomClass\bin\Debug\netcoreapp3.1\RandomClass.pdb
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\RandomClass\obj\Debug\netcoreapp3.1\RandomClass.csprojAssemblyReference.cache
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\RandomClass\obj\Debug\netcoreapp3.1\RandomClass.AssemblyInfoInputs.cache
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\RandomClass\obj\Debug\netcoreapp3.1\RandomClass.AssemblyInfo.cs
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\RandomClass\obj\Debug\netcoreapp3.1\RandomClass.csproj.CoreCompileInputs.cache
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\RandomClass\obj\Debug\netcoreapp3.1\RandomClass.dll
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\RandomClass\obj\Debug\netcoreapp3.1\RandomClass.pdb
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\RandomClass\obj\Debug\netcoreapp3.1\RandomClass.genruntimeconfig.cache

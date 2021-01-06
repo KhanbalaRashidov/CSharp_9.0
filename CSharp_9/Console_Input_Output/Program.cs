@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace Console_Input_Output
 {
@@ -8,6 +9,10 @@ namespace Console_Input_Output
         {
             //WriteLine part1
             {
+                Dictionary<string, string> keyValues = new Dictionary<string, string>();
+                keyValues.Add("Xan", "Bala");
+                keyValues.Add("Khan", "Bala");
+                Console.WriteLine(keyValues.Keys);
                 string name = "Khanbala";
                 int age = 20;
                 double height = 1.7;
