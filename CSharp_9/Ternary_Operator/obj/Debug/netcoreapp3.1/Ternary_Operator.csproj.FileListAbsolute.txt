@@ -1,0 +1,13 @@
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Ternary_Operator\bin\Debug\netcoreapp3.1\Ternary_Operator.exe
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Ternary_Operator\bin\Debug\netcoreapp3.1\Ternary_Operator.deps.json
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Ternary_Operator\bin\Debug\netcoreapp3.1\Ternary_Operator.runtimeconfig.json
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Ternary_Operator\bin\Debug\netcoreapp3.1\Ternary_Operator.runtimeconfig.dev.json
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Ternary_Operator\bin\Debug\netcoreapp3.1\Ternary_Operator.dll
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Ternary_Operator\bin\Debug\netcoreapp3.1\Ternary_Operator.pdb
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Ternary_Operator\obj\Debug\netcoreapp3.1\Ternary_Operator.csprojAssemblyReference.cache
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Ternary_Operator\obj\Debug\netcoreapp3.1\Ternary_Operator.AssemblyInfoInputs.cache
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Ternary_Operator\obj\Debug\netcoreapp3.1\Ternary_Operator.AssemblyInfo.cs
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Ternary_Operator\obj\Debug\netcoreapp3.1\Ternary_Operator.csproj.CoreCompileInputs.cache
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Ternary_Operator\obj\Debug\netcoreapp3.1\Ternary_Operator.dll
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Ternary_Operator\obj\Debug\netcoreapp3.1\Ternary_Operator.pdb
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Ternary_Operator\obj\Debug\netcoreapp3.1\Ternary_Operator.genruntimeconfig.cache
