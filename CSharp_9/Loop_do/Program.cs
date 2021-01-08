@@ -1,100 +1,102 @@
 ﻿using System;
 
-namespace Loop_While
+namespace Loop_do
 {
     class Program
     {
         static void Main(string[] args)
         {
             bool condition = false;
-            while (condition)
+            do
             {
 
-            }
+            } while (condition);
+
             Console.WriteLine("Output value 0-10");
             int i = 0;
-            while (i<=10)
+            do
             {
                 Console.Write($"{i}  ");
                 i++;
-            }
+            } while (i<10);
 
             Console.WriteLine("\nOutput value -10-10");
             i = -10;
-            while (i<=10)
+            do
             {
-                Console.Write($"{i}   ");
+                Console.Write($"{i}  ");
                 i++;
-            }
+            } while (i<10);
 
             Console.WriteLine("\nOutput value 10-0");
             i = 0;
-            while (i<=10)
+            do
             {
-                Console.Write($"{10-i}  ");
+                Console.Write($"{10 - i}  ");
                 i++;
-            }
+            } while (i<10);
+
             Console.WriteLine("\nOutput value 10-0");
             i = 10;
-            while (i>=0)
+            do
             {
-                Console.Write($"{i}  ");
+                Console.Write($"{i} ");
                 i--;
-            }
+            } while (i>0);
 
             Console.WriteLine("\n3 step numbers between 1 and 50");
             int counter = 1;
-            while (counter>=50)
+            do
             {
-                Console.Write($"{counter}   ");
+                Console.Write($"{counter}  ");
                 counter += 3;
-            }
+            } while (counter<50);
 
             Console.WriteLine("\n0.125 step numbers between -1 and 1");
             double j = -1;
-            while (j<=1)
+            do
             {
                 Console.Write($"{j:F3}  ");
                 j += 0.125;
-            }
+            } while (j <= 1);
 
             Console.WriteLine("\n-0.25 step numbers between 1 and -1");
             j = 1;
-            while (j>=-1)
+            do
             {
                 Console.Write($"{j:F2}  ");
-                j-= 0.25;
-            }
+                j -= 0.25;
+            } while (j>=-1);
 
             Console.WriteLine("\nEnter the number...");
             int startNum = Convert.ToInt32(Console.ReadLine());
             int endNum = startNum + 20;
-            while (startNum<=endNum)
+            do
             {
                 Console.WriteLine($"{startNum,5}^2={startNum * startNum }");
                 startNum++;
-            }
+            } while (startNum>endNum);
 
             Console.WriteLine("Enter the start:");
             int start = int.Parse(Console.ReadLine());
             Console.WriteLine("Enter the end:");
             int end = Convert.ToInt32(Console.ReadLine());
-            while (start<=end)
+            do
             {
                 Console.WriteLine($"{start,4}^2={start * i}");
                 start++;
-            }
+            } while (start<end);
 
             Console.WriteLine("Numerical average");
             double value, average = 0;
             int k = 0;
-            while (k<10)
+            do
             {
                 Console.WriteLine("Enter the value");
                 value = double.Parse(Console.ReadLine());
                 average += value;
                 k++;
-            }
+            } while (k<10);
             Console.WriteLine($"The numerical middle of 10 numbers: {average / 10}");
 
             Console.WriteLine("Enter the numerator");
@@ -106,7 +108,7 @@ namespace Loop_While
             double a = numerator, b = donominator;
             int count = 0;
             k = 0;
-            while (k<=10000)
+            do
             {
                 if (a != b)
                 {
@@ -114,13 +116,15 @@ namespace Loop_While
                     Console.WriteLine($"a={a}  b={b}");
                     count++;
                     k++;
-                    
+
                 }
                 else
                 {
                     break;
                 }
-            }
+
+            } while (k<10000);
+
             Console.WriteLine($"count={count}");
             Console.WriteLine(a);
             Console.WriteLine($"{numerator / a} / {donominator / a} ");
@@ -130,7 +134,7 @@ namespace Loop_While
             int randNumber = rand.Next(1, 80);
             int stepCount = 0;
             int userNumber;
-            while (true)
+            do
             {
                 Console.WriteLine("Enter number");
                 stepCount++;
@@ -150,15 +154,14 @@ namespace Loop_While
                     Console.ReadKey();
                     break;
                 }
-            }
+
+            } while (true);
+
             int r = 0;
-            while (r<10)
+            do
             {
-                Console.Write($"{rand.Next(1,11)}  ");
-                r++;
-            }
-
-
+                Console.Write($"{rand.Next(1,11)}");
+            } while (r<10);
         }
     }
 }

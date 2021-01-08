@@ -23,31 +23,33 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Basic_DataType_Conversions"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RecordTypes", "RecordTypes\RecordTypes.csproj", "{4303487B-BB7F-4DC5-94AA-E8A6D8EC903A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TopLevelStatements", "TopLevelStatements\TopLevelStatements.csproj", "{AF8A788C-45E8-4533-B81A-EF2797314F2A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TopLevelStatements", "TopLevelStatements\TopLevelStatements.csproj", "{AF8A788C-45E8-4533-B81A-EF2797314F2A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PatternsInObject", "PatternsInObject\PatternsInObject.csproj", "{C044C78A-8EC2-4CEC-B0B2-DAA0799653B9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PatternsInObject", "PatternsInObject\PatternsInObject.csproj", "{C044C78A-8EC2-4CEC-B0B2-DAA0799653B9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Object-Oriented_Programming", "Object-Oriented_Programming\Object-Oriented_Programming.csproj", "{641927BF-AE93-4CA5-9F80-1A796D0BCA24}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Object-Oriented_Programming", "Object-Oriented_Programming\Object-Oriented_Programming.csproj", "{641927BF-AE93-4CA5-9F80-1A796D0BCA24}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interpolation", "Interpolation\Interpolation.csproj", "{B2E09273-EFE3-4604-BD6A-F0E9900517F5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Interpolation", "Interpolation\Interpolation.csproj", "{B2E09273-EFE3-4604-BD6A-F0E9900517F5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeWork2", "HomeWork2\HomeWork2.csproj", "{0C14A501-76C2-44E0-9CD7-EA0504AF65F6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HomeWork2", "HomeWork2\HomeWork2.csproj", "{0C14A501-76C2-44E0-9CD7-EA0504AF65F6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RandomClass", "RandomClass\RandomClass.csproj", "{4B5DB2C7-846C-46FE-96A0-88621E071542}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RandomClass", "RandomClass\RandomClass.csproj", "{4B5DB2C7-846C-46FE-96A0-88621E071542}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "if_else_if", "Condition\if_else_if.csproj", "{386B7924-EEEF-4AB0-AFC0-F3F5560BF30A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "if_else_if", "Condition\if_else_if.csproj", "{386B7924-EEEF-4AB0-AFC0-F3F5560BF30A}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "condution", "condution", "{21A47690-E020-4CBE-874D-899514B93831}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ternary_Operator", "Ternary_Operator\Ternary_Operator.csproj", "{C39B3FBD-E594-4264-ACE6-C07BFBB69419}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ternary_Operator", "Ternary_Operator\Ternary_Operator.csproj", "{C39B3FBD-E594-4264-ACE6-C07BFBB69419}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Switch", "Switch\Switch.csproj", "{0F113018-2968-49B6-B11F-80B3ECE0F874}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Switch", "Switch\Switch.csproj", "{0F113018-2968-49B6-B11F-80B3ECE0F874}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "loop", "loop", "{89D41EBD-6D55-4F51-BEFF-145DA61B11C0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loop_For", "Loop_For\Loop_For.csproj", "{6A0BA798-5F47-4556-B2A2-548BAF08E44A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Loop_For", "Loop_For\Loop_For.csproj", "{6A0BA798-5F47-4556-B2A2-548BAF08E44A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loop_While", "Loop_While\Loop_While.csproj", "{864218AC-C5F4-4514-BE2E-B38714F7F1FD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Loop_While", "Loop_While\Loop_While.csproj", "{864218AC-C5F4-4514-BE2E-B38714F7F1FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loop_do", "Loop_do\Loop_do.csproj", "{1794A3CE-A6C2-4B6B-9E83-F4ACCE676726}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -139,6 +141,10 @@ Global
 		{864218AC-C5F4-4514-BE2E-B38714F7F1FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{864218AC-C5F4-4514-BE2E-B38714F7F1FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{864218AC-C5F4-4514-BE2E-B38714F7F1FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1794A3CE-A6C2-4B6B-9E83-F4ACCE676726}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1794A3CE-A6C2-4B6B-9E83-F4ACCE676726}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1794A3CE-A6C2-4B6B-9E83-F4ACCE676726}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1794A3CE-A6C2-4B6B-9E83-F4ACCE676726}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -149,6 +155,7 @@ Global
 		{0F113018-2968-49B6-B11F-80B3ECE0F874} = {21A47690-E020-4CBE-874D-899514B93831}
 		{6A0BA798-5F47-4556-B2A2-548BAF08E44A} = {89D41EBD-6D55-4F51-BEFF-145DA61B11C0}
 		{864218AC-C5F4-4514-BE2E-B38714F7F1FD} = {89D41EBD-6D55-4F51-BEFF-145DA61B11C0}
+		{1794A3CE-A6C2-4B6B-9E83-F4ACCE676726} = {89D41EBD-6D55-4F51-BEFF-145DA61B11C0}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {BC1AAF87-0C90-4FC0-88E2-732C9417AB94}
