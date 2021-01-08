@@ -1,88 +1,99 @@
 ﻿using System;
 
-namespace Loop_For
+namespace Loop_While
 {
     class Program
     {
         static void Main(string[] args)
         {
-
-            for (int i = 0; i < 10; i++)
+            bool condition = false;
+            while (condition)
             {
-                //Empaty operation
-            }
 
-            // 0 between 10
+            }
             Console.WriteLine("Output value 0-10");
-            for (int i = 0; i <= 10; i++)
+            int i = 0;
+            while (i<=10)
             {
-                Console.WriteLine($"{i}");
+                Console.Write($"{i}  ");
+                i++;
             }
 
-            Console.WriteLine("Output value -10-10");
-            for (int i = -10; i <= 10; i++)
+            Console.WriteLine("\nOutput value -10-10");
+            i = -10;
+            while (i<=10)
             {
-                Console.Write($"{i} ");
+                Console.Write($"{i}   ");
+                i++;
             }
 
-            Console.WriteLine("Output value 10-0");
-            for (int j = 0; j <= 10; j++)
+            Console.WriteLine("\nOutput value 10-0");
+            i = 0;
+            while (i<=10)
             {
-                Console.Write($"{10 - j} ");
+                Console.Write($"{10-i}  ");
+                i++;
+            }
+            Console.WriteLine("\nOutput value 10-0");
+            i = 10;
+            while (i>=0)
+            {
+                Console.Write($"{i}  ");
+                i--;
             }
 
-            Console.WriteLine("Output vale 10-0");
-            for (int i = 10; i <= 0; i--)
+            Console.WriteLine("\n3 step numbers between 1 and 50");
+            int counter = 1;
+            while (counter>=50)
             {
-                Console.Write($"{i} ");
+                Console.Write($"{counter}   ");
+                counter += 3;
             }
 
-            Console.WriteLine("3 step numbers between 1 and 50");
-            for (int counter = 1; counter < 50; counter += 3)
+            Console.WriteLine("\n0.125 step numbers between -1 and 1");
+            double j = -1;
+            while (j<=1)
             {
-                Console.Write($"{counter}  ");
+                Console.Write($"{j:F3}  ");
+                j += 0.125;
             }
 
-            Console.WriteLine("0.125 step numbers between -1 and 1");
-            for (double step = -1; step <= 1; step += 0.125)
+            Console.WriteLine("\n-0.25 step numbers between 1 and -1");
+            j = 1;
+            while (j>=-1)
             {
-                Console.Write($"{step:F3}  ");
-            }
-
-            Console.WriteLine("-0.25 step numbers between 1 and -1");
-            for (double step = 1; step >= -1; step -= 0.25)
-            {
-                Console.Write($"{step:F2}  ");
+                Console.Write($"{j:F2}  ");
+                j-= 0.25;
             }
 
             Console.WriteLine("\nEnter the number...");
             int startNum = Convert.ToInt32(Console.ReadLine());
-            for (int i = startNum; i < startNum + 20; i++)
+            int endNum = startNum + 20;
+            while (startNum<=endNum)
             {
-                Console.WriteLine($"{i,5}^2={i * i}");
-            }
-            Console.WriteLine();
-            for (int i = startNum; i < startNum + 20; i++)
-            {
-                Console.WriteLine($"{i,5}^3={i * i * i}");
+                Console.WriteLine($"{startNum,5}^2={startNum * startNum }");
+                startNum++;
             }
 
             Console.WriteLine("Enter the start:");
             int start = int.Parse(Console.ReadLine());
             Console.WriteLine("Enter the end:");
             int end = Convert.ToInt32(Console.ReadLine());
-            for (int i = start; i < end; i++)
+            while (start<=end)
             {
-                Console.WriteLine($"{i,4}^2={i * i}");
+                Console.WriteLine($"{start,4}^2={start * i}");
+                start++;
             }
 
             Console.WriteLine("Numerical average");
             double value, average = 0;
-            for (int i = 0; i < 10; i++)
+            int k = 0;
+            while (k<10)
             {
                 Console.WriteLine("Enter the value");
                 value = double.Parse(Console.ReadLine());
                 average += value;
+                k++;
             }
             Console.WriteLine($"The numerical middle of 10 numbers: {average / 10}");
 
@@ -94,26 +105,28 @@ namespace Loop_For
 
             double a = numerator, b = donominator;
             int count = 0;
-            for (int i = 0; i < 100000; i++)
+            k = 0;
+            while (k<=10000)
             {
                 if (a != b)
                 {
                     if (a > b) a -= b; else b -= a;
                     Console.WriteLine($"a={a}  b={b}");
                     count++;
-                    //break;
+                    k++;
+                    break;
                 }
             }
             Console.WriteLine($"count={count}");
             Console.WriteLine(a);
-            Console.WriteLine($"{numerator/a} / {donominator/a} ");
+            Console.WriteLine($"{numerator / a} / {donominator / a} ");
 
             Console.WriteLine("Start game");
             Random rand = new Random();
             int randNumber = rand.Next(1, 80);
             int stepCount = 0;
             int userNumber;
-            for(; ; )
+            while (true)
             {
                 Console.WriteLine("Enter number");
                 stepCount++;
@@ -121,9 +134,9 @@ namespace Loop_For
                 if (userNumber > randNumber)
                 {
                     Console.WriteLine("The numbers you enter are large. Please re-enter");
-                    
+
                 }
-                else if (randNumber>userNumber)
+                else if (randNumber > userNumber)
                 {
                     Console.WriteLine("The number you entered is small. Please re-enter");
                 }
@@ -135,7 +148,7 @@ namespace Loop_For
                 }
             }
 
-           
+
         }
     }
 }
