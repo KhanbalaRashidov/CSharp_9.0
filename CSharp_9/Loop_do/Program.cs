@@ -161,6 +161,7 @@ namespace Loop_do
             do
             {
                 Console.Write($"{rand.Next(1,11)}");
+                r++;
             } while (r<10);
         }
     }

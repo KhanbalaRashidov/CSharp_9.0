@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Example_Loop": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}
