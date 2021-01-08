@@ -1,0 +1,16 @@
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Lesson_array\bin\Debug\net5.0\Lesson_array.exe
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Lesson_array\bin\Debug\net5.0\Lesson_array.deps.json
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Lesson_array\bin\Debug\net5.0\Lesson_array.runtimeconfig.json
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Lesson_array\bin\Debug\net5.0\Lesson_array.runtimeconfig.dev.json
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Lesson_array\bin\Debug\net5.0\Lesson_array.dll
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Lesson_array\bin\Debug\net5.0\ref\Lesson_array.dll
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Lesson_array\bin\Debug\net5.0\Lesson_array.pdb
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Lesson_array\obj\Debug\net5.0\Lesson_array.csprojAssemblyReference.cache
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Lesson_array\obj\Debug\net5.0\Lesson_array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Lesson_array\obj\Debug\net5.0\Lesson_array.AssemblyInfoInputs.cache
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Lesson_array\obj\Debug\net5.0\Lesson_array.AssemblyInfo.cs
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Lesson_array\obj\Debug\net5.0\Lesson_array.csproj.CoreCompileInputs.cache
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Lesson_array\obj\Debug\net5.0\Lesson_array.dll
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Lesson_array\obj\Debug\net5.0\ref\Lesson_array.dll
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Lesson_array\obj\Debug\net5.0\Lesson_array.pdb
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Lesson_array\obj\Debug\net5.0\Lesson_array.genruntimeconfig.cache

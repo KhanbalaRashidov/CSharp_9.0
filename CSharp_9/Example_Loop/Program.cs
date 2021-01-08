@@ -17,6 +17,11 @@ namespace Example_Loop
                    
 
                 }
+                else
+                {
+                    Debug.Write("<<<");
+                    Debug.Write($"{i}");
+                }
             }
 
         }
