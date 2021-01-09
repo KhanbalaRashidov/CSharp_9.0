@@ -1,0 +1,16 @@
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Break_and_continue\bin\Debug\net5.0\Break_and_continue.exe
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Break_and_continue\bin\Debug\net5.0\Break_and_continue.deps.json
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Break_and_continue\bin\Debug\net5.0\Break_and_continue.runtimeconfig.json
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Break_and_continue\bin\Debug\net5.0\Break_and_continue.runtimeconfig.dev.json
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Break_and_continue\bin\Debug\net5.0\Break_and_continue.dll
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Break_and_continue\bin\Debug\net5.0\ref\Break_and_continue.dll
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Break_and_continue\bin\Debug\net5.0\Break_and_continue.pdb
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Break_and_continue\obj\Debug\net5.0\Break_and_continue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Break_and_continue\obj\Debug\net5.0\Break_and_continue.AssemblyInfoInputs.cache
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Break_and_continue\obj\Debug\net5.0\Break_and_continue.AssemblyInfo.cs
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Break_and_continue\obj\Debug\net5.0\Break_and_continue.csproj.CoreCompileInputs.cache
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Break_and_continue\obj\Debug\net5.0\Break_and_continue.dll
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Break_and_continue\obj\Debug\net5.0\ref\Break_and_continue.dll
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Break_and_continue\obj\Debug\net5.0\Break_and_continue.pdb
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Break_and_continue\obj\Debug\net5.0\Break_and_continue.genruntimeconfig.cache
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Break_and_continue\obj\Debug\net5.0\Break_and_continue.csprojAssemblyReference.cache
