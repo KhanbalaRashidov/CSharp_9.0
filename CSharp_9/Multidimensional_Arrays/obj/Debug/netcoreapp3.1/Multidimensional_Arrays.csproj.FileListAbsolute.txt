@@ -1,0 +1,13 @@
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Multidimensional_Arrays\bin\Debug\netcoreapp3.1\Multidimensional_Arrays.exe
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Multidimensional_Arrays\bin\Debug\netcoreapp3.1\Multidimensional_Arrays.deps.json
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Multidimensional_Arrays\bin\Debug\netcoreapp3.1\Multidimensional_Arrays.runtimeconfig.json
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Multidimensional_Arrays\bin\Debug\netcoreapp3.1\Multidimensional_Arrays.runtimeconfig.dev.json
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Multidimensional_Arrays\bin\Debug\netcoreapp3.1\Multidimensional_Arrays.dll
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Multidimensional_Arrays\bin\Debug\netcoreapp3.1\Multidimensional_Arrays.pdb
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Multidimensional_Arrays\obj\Debug\netcoreapp3.1\Multidimensional_Arrays.csprojAssemblyReference.cache
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Multidimensional_Arrays\obj\Debug\netcoreapp3.1\Multidimensional_Arrays.AssemblyInfoInputs.cache
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Multidimensional_Arrays\obj\Debug\netcoreapp3.1\Multidimensional_Arrays.AssemblyInfo.cs
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Multidimensional_Arrays\obj\Debug\netcoreapp3.1\Multidimensional_Arrays.csproj.CoreCompileInputs.cache
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Multidimensional_Arrays\obj\Debug\netcoreapp3.1\Multidimensional_Arrays.dll
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Multidimensional_Arrays\obj\Debug\netcoreapp3.1\Multidimensional_Arrays.pdb
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Multidimensional_Arrays\obj\Debug\netcoreapp3.1\Multidimensional_Arrays.genruntimeconfig.cache
