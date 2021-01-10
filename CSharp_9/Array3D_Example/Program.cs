@@ -58,6 +58,75 @@ namespace Array3D_Example
                 Console.WriteLine("\n");
             }
 
+            Console.WriteLine("\n\n");
+            int[,,,,] matrix5D = new int[3, 4, 5, 6,7];
+            Console.WriteLine($"matrix5D.Rank={matrix5D.Rank}");
+
+            Console.WriteLine($"matrix5D.Length={matrix5D.Length}");
+            Console.WriteLine($"matrix5D.GetLangth(0)={matrix5D.GetLength(0)}");
+            Console.WriteLine($"matrix5D.GetLangth(1)={matrix5D.GetLength(1)}");
+            Console.WriteLine($"matrix5D.GetLangth(2)={matrix5D.GetLength(2)}");
+            Console.WriteLine($"matrix5D.GetLangth(3)={matrix5D.GetLength(3)}");
+
+            Console.WriteLine("\n<--- matrix5D --->");
+            for (int i = 0; i < matrix5D.GetLength(0); i++)
+            {
+                for (int j = 0; j < matrix5D.GetLength(1); j++)
+                {
+                    for (int k = 0; k < matrix5D.GetLength(2); k++)
+                    {
+                        for (int m = 0; m < matrix5D.GetLength(3); m++)
+                        {
+                            for (int l = 0; l < matrix5D.GetLength(4); l++)
+                            {
+                                matrix5D[i, j, k, m,l] = random.Next(1, 10);
+                                Console.Write($"{matrix5D[i, j, k, m,l]}\t");
+                            }
+                            Console.WriteLine("\n");
+                        }
+                        Console.WriteLine("\n");
+                    }
+                    Console.WriteLine("\n");
+                }
+                Console.WriteLine("\n");
+            }
+
+            Console.WriteLine("\n\n");
+            int[,,,,,] matrix6D = new int[3, 4, 5, 6, 7,8];
+            Console.WriteLine($"matrix6D.Rank={matrix6D.Rank}");
+
+            Console.WriteLine($"matrix6D.Length={matrix6D.Length}");
+            Console.WriteLine($"matrix6D.GetLangth(0)={matrix6D.GetLength(0)}");
+            Console.WriteLine($"matrix6D.GetLangth(1)={matrix6D.GetLength(1)}");
+            Console.WriteLine($"matrix6D.GetLangth(2)={matrix6D.GetLength(2)}");
+            Console.WriteLine($"matrix6D.GetLangth(3)={matrix6D.GetLength(3)}");
+
+            Console.WriteLine("\n<--- matrix6D --->");
+            for (int i = 0; i < matrix6D.GetLength(0); i++)
+            {
+                for (int j = 0; j < matrix6D.GetLength(1); j++)
+                {
+                    for (int k = 0; k < matrix6D.GetLength(2); k++)
+                    {
+                        for (int m = 0; m < matrix6D.GetLength(3); m++)
+                        {
+                            for (int l = 0; l < matrix6D.GetLength(4); l++)
+                            {
+                                for (int n = 0; n < matrix6D.GetLength(5); n++)
+                                {
+                                    matrix6D[i, j, k, m, l,n] = random.Next(1, 10);
+                                    Console.Write($"{matrix6D[i, j, k, m, l,n]}\t");
+                                }
+                                Console.WriteLine("\n");
+                            }
+                            Console.WriteLine("\n");
+                        }
+                        Console.WriteLine("\n");
+                    }
+                    Console.WriteLine("\n");
+                }
+                Console.WriteLine("\n");
+            }
         }
     }
 }
