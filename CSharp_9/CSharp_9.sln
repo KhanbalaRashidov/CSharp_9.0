@@ -65,6 +65,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Break_and_continue", "Break
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multidimensional_Arrays", "Multidimensional_Arrays\Multidimensional_Arrays.csproj", "{F6CF85E8-6C8F-46B7-BEC4-FEF8BDE3E100}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array2D_Example", "Array2D_Example\Array2D_Example.csproj", "{AB67BE05-D9D3-4AFB-B0F6-E1E42E6845BD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -183,6 +185,10 @@ Global
 		{F6CF85E8-6C8F-46B7-BEC4-FEF8BDE3E100}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F6CF85E8-6C8F-46B7-BEC4-FEF8BDE3E100}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F6CF85E8-6C8F-46B7-BEC4-FEF8BDE3E100}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB67BE05-D9D3-4AFB-B0F6-E1E42E6845BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB67BE05-D9D3-4AFB-B0F6-E1E42E6845BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB67BE05-D9D3-4AFB-B0F6-E1E42E6845BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB67BE05-D9D3-4AFB-B0F6-E1E42E6845BD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -200,6 +206,7 @@ Global
 		{E704AE4B-8F1A-451D-9623-B981B2695B7B} = {C2E1537F-753F-4D3D-825D-B3B1E86EC15B}
 		{F2C259D8-AB06-41A0-A81D-3B37E619439E} = {C2E1537F-753F-4D3D-825D-B3B1E86EC15B}
 		{F6CF85E8-6C8F-46B7-BEC4-FEF8BDE3E100} = {C2E1537F-753F-4D3D-825D-B3B1E86EC15B}
+		{AB67BE05-D9D3-4AFB-B0F6-E1E42E6845BD} = {C2E1537F-753F-4D3D-825D-B3B1E86EC15B}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {BC1AAF87-0C90-4FC0-88E2-732C9417AB94}

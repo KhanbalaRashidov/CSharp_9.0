@@ -1,0 +1,16 @@
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Array2D_Example\bin\Debug\net5.0\Array2D_Example.exe
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Array2D_Example\bin\Debug\net5.0\Array2D_Example.deps.json
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Array2D_Example\bin\Debug\net5.0\Array2D_Example.runtimeconfig.json
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Array2D_Example\bin\Debug\net5.0\Array2D_Example.runtimeconfig.dev.json
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Array2D_Example\bin\Debug\net5.0\Array2D_Example.dll
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Array2D_Example\bin\Debug\net5.0\ref\Array2D_Example.dll
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Array2D_Example\bin\Debug\net5.0\Array2D_Example.pdb
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Array2D_Example\obj\Debug\net5.0\Array2D_Example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Array2D_Example\obj\Debug\net5.0\Array2D_Example.AssemblyInfoInputs.cache
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Array2D_Example\obj\Debug\net5.0\Array2D_Example.AssemblyInfo.cs
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Array2D_Example\obj\Debug\net5.0\Array2D_Example.csproj.CoreCompileInputs.cache
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Array2D_Example\obj\Debug\net5.0\Array2D_Example.dll
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Array2D_Example\obj\Debug\net5.0\ref\Array2D_Example.dll
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Array2D_Example\obj\Debug\net5.0\Array2D_Example.pdb
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Array2D_Example\obj\Debug\net5.0\Array2D_Example.genruntimeconfig.cache
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Array2D_Example\obj\Debug\net5.0\Array2D_Example.csprojAssemblyReference.cache
