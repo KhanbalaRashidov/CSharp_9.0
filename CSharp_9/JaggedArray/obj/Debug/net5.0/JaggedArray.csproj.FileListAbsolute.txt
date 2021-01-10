@@ -1,0 +1,16 @@
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\JaggedArray\bin\Debug\net5.0\JaggedArray.exe
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\JaggedArray\bin\Debug\net5.0\JaggedArray.deps.json
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\JaggedArray\bin\Debug\net5.0\JaggedArray.runtimeconfig.json
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\JaggedArray\bin\Debug\net5.0\JaggedArray.runtimeconfig.dev.json
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\JaggedArray\bin\Debug\net5.0\JaggedArray.dll
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\JaggedArray\bin\Debug\net5.0\ref\JaggedArray.dll
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\JaggedArray\bin\Debug\net5.0\JaggedArray.pdb
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\JaggedArray\obj\Debug\net5.0\JaggedArray.csprojAssemblyReference.cache
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\JaggedArray\obj\Debug\net5.0\JaggedArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\JaggedArray\obj\Debug\net5.0\JaggedArray.AssemblyInfoInputs.cache
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\JaggedArray\obj\Debug\net5.0\JaggedArray.AssemblyInfo.cs
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\JaggedArray\obj\Debug\net5.0\JaggedArray.csproj.CoreCompileInputs.cache
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\JaggedArray\obj\Debug\net5.0\JaggedArray.dll
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\JaggedArray\obj\Debug\net5.0\ref\JaggedArray.dll
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\JaggedArray\obj\Debug\net5.0\JaggedArray.pdb
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\JaggedArray\obj\Debug\net5.0\JaggedArray.genruntimeconfig.cache
