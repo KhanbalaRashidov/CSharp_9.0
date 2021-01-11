@@ -106,7 +106,7 @@ namespace Array_Example
                     else tail--;
                 }
 
-                if (array[head]==1 && array[tail]==0)
+                if (array[head] == 1 && array[tail] == 0)
                 {
                     int temp = array[head];
                     array[head] = array[tail];
@@ -123,6 +123,29 @@ namespace Array_Example
             {
                 Console.Write($"{array[i]} ");
             }
+            #endregion
+            #region .. and ^
+            Console.WriteLine("\nindices and ranges...");
+            string[] words = new string[]
+            {
+                          // index from start    index from end
+              "The",      // 0                   ^9
+              "quick",    // 1                   ^8
+              "brown",    // 2                   ^7
+              "fox",      // 3                   ^6
+              "jumped",   // 4                   ^5
+              "over",     // 5                   ^4
+              "the",      // 6                   ^3
+              "lazy",     // 7                   ^2
+              "dog"       // 8                   ^1
+            };            // 9 (or words.Length) ^0
+
+            for (int i = 1; i <=words.Length; i++)
+            {
+                Console.ForegroundColor = ConsoleColor.Cyan;
+                Console.WriteLine($"{words[^i]}\t");
+            }
+            Console.ForegroundColor = ConsoleColor.Green;
             #endregion
         }
     }

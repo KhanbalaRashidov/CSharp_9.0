@@ -64,7 +64,40 @@ namespace Loop_Foreach
                 Console.Write($"{item} ");
             }
             #endregion
-           
+            #region string
+            string[] words = { "soz0", "soz1", "soz2", "soz3", "soz4", "soz5", "soz6", "soz7", "soz8", "soz9" };
+            /*
+             soz0 soz1 soz2 soz3
+             soz1 soz4 soz5 soz6
+             soz2 soz5 soz7 soz8
+             soz3 soz6 soz8 soz9
+             
+             
+             */
+            Console.WriteLine("\nSozler");
+            int k = 1;
+            for (int i = 0; i <4; i++)
+            {
+                if (i<2)
+                {
+
+                    Console.Write($"{words[i]} {words[k++]} {words[k++]} {words[k++]}\t");
+                    Console.WriteLine();
+                }
+                else if(i==2) 
+                {
+                    int m = k - 2;
+                    Console.Write($"{words[i]} {words[m]} {words[k++]} {words[k++]}\t");
+                    Console.WriteLine();
+                }
+                else
+                {
+                    int m = k - 3;
+                    Console.Write($"{words[i]} {words[m]} {words[k-1]} {words[k]}");
+                }
+                
+            }
+            #endregion
         }
     }
 }
