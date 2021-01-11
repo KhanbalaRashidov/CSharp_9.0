@@ -52,6 +52,27 @@ namespace JaggedArray_example
             }
             Console.ForegroundColor = ConsoleColor.Green;
             #endregion
+            #region
+            Console.ReadKey(); Console.Clear();
+            int[][] jaggedDataTime = new int[24][];
+            for (int j = 0; j < jaggedDataTime.Length; j++)
+            {
+                jaggedDataTime[j] = (j >= 9 && j < 21) ? new int[12] : new int[4];
+            }
+            Console.ForegroundColor = ConsoleColor.Red;
+            Console.WriteLine("jaggedDatatime[][]");
+            Console.ForegroundColor = ConsoleColor.Cyan;
+            for (int i = 0; i < jaggedDataTime.Length; i++)
+            {
+                for (int j = 0; j < jaggedDataTime[i].Length; j++)
+                {
+                    jaggedDataTime[i][j] = random.Next(20);
+                    Console.Write($"{jaggedDataTime[i][j]}\t");
+                }
+                Console.WriteLine();
+            }
+            #endregion
+
         }
     }
 }
