@@ -1,0 +1,16 @@
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\JaggedArray_example\bin\Debug\net5.0\JaggedArray_example.exe
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\JaggedArray_example\bin\Debug\net5.0\JaggedArray_example.deps.json
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\JaggedArray_example\bin\Debug\net5.0\JaggedArray_example.runtimeconfig.json
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\JaggedArray_example\bin\Debug\net5.0\JaggedArray_example.runtimeconfig.dev.json
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\JaggedArray_example\bin\Debug\net5.0\JaggedArray_example.dll
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\JaggedArray_example\bin\Debug\net5.0\ref\JaggedArray_example.dll
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\JaggedArray_example\bin\Debug\net5.0\JaggedArray_example.pdb
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\JaggedArray_example\obj\Debug\net5.0\JaggedArray_example.csprojAssemblyReference.cache
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\JaggedArray_example\obj\Debug\net5.0\JaggedArray_example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\JaggedArray_example\obj\Debug\net5.0\JaggedArray_example.AssemblyInfoInputs.cache
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\JaggedArray_example\obj\Debug\net5.0\JaggedArray_example.AssemblyInfo.cs
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\JaggedArray_example\obj\Debug\net5.0\JaggedArray_example.csproj.CoreCompileInputs.cache
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\JaggedArray_example\obj\Debug\net5.0\JaggedArray_example.dll
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\JaggedArray_example\obj\Debug\net5.0\ref\JaggedArray_example.dll
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\JaggedArray_example\obj\Debug\net5.0\JaggedArray_example.pdb
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\JaggedArray_example\obj\Debug\net5.0\JaggedArray_example.genruntimeconfig.cache

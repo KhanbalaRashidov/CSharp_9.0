@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "JaggedArray_example/1.0.0": {
+        "runtime": {
+          "JaggedArray_example.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "JaggedArray_example/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
