@@ -1,0 +1,16 @@
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Loop_Foreach\bin\Debug\net5.0\Loop_Foreach.exe
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Loop_Foreach\bin\Debug\net5.0\Loop_Foreach.deps.json
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Loop_Foreach\bin\Debug\net5.0\Loop_Foreach.runtimeconfig.json
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Loop_Foreach\bin\Debug\net5.0\Loop_Foreach.runtimeconfig.dev.json
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Loop_Foreach\bin\Debug\net5.0\Loop_Foreach.dll
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Loop_Foreach\bin\Debug\net5.0\ref\Loop_Foreach.dll
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Loop_Foreach\bin\Debug\net5.0\Loop_Foreach.pdb
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Loop_Foreach\obj\Debug\net5.0\Loop_Foreach.csprojAssemblyReference.cache
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Loop_Foreach\obj\Debug\net5.0\Loop_Foreach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Loop_Foreach\obj\Debug\net5.0\Loop_Foreach.AssemblyInfoInputs.cache
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Loop_Foreach\obj\Debug\net5.0\Loop_Foreach.AssemblyInfo.cs
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Loop_Foreach\obj\Debug\net5.0\Loop_Foreach.csproj.CoreCompileInputs.cache
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Loop_Foreach\obj\Debug\net5.0\Loop_Foreach.dll
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Loop_Foreach\obj\Debug\net5.0\ref\Loop_Foreach.dll
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Loop_Foreach\obj\Debug\net5.0\Loop_Foreach.pdb
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Loop_Foreach\obj\Debug\net5.0\Loop_Foreach.genruntimeconfig.cache
