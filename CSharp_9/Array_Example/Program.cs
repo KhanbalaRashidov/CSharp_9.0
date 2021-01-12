@@ -140,7 +140,7 @@ namespace Array_Example
               "dog"       // 8                   ^1
             };            // 9 (or words.Length) ^0
 
-            for (int i = 1; i <=words.Length; i++)
+            for (int i = 1; i <= words.Length; i++)
             {
                 Console.ForegroundColor = ConsoleColor.Cyan;
                 Console.WriteLine($"{words[^i]}\t");
@@ -178,6 +178,45 @@ namespace Array_Example
             foreach (var word in text)
                 Console.Write($"< {word} >");
             Console.WriteLine();
+            #endregion
+            #region
+            int size = rand.Next(10);
+            int[] arr = new int[size];
+            int[] brr = new int[size];
+            for (int i = 0; i < size; i++)
+            {
+                arr[i] = rand.Next(10);
+                brr[i] = rand.Next(10);
+            }
+            int maxArr = arr[0];
+            int minArr = arr[0];
+            int maxBrr = brr[0];
+            int minBrr = brr[0];
+
+            for (int i = 0; i < size; i++)
+            {
+                if (maxArr < arr[i]) maxArr = arr[i];
+                if (minArr > arr[i]) minArr = arr[i];
+
+                if (maxBrr < brr[i]) maxBrr = brr[i];
+                if (minBrr > brr[i]) minBrr = brr[i];
+            }
+            Console.WriteLine("array arr");
+            for (int i = 0; i < size; i++)
+            {
+                Console.Write($"{arr[i]}\t");
+            }
+            Console.WriteLine();
+            Console.WriteLine($"maxArr={maxArr}  minArr={minArr}");
+            Console.WriteLine();
+
+            Console.WriteLine("array brr");
+            for (int i = 0; i < size; i++)
+            {
+                Console.Write($"{brr[i]}\t");
+            }
+            Console.WriteLine();
+            Console.WriteLine($"maxBrr={maxBrr}  minBrr={minBrr}");
             #endregion
         }
     }
