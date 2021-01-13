@@ -1,0 +1,13 @@
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Method_Example\bin\Debug\netcoreapp3.1\Method_Example.exe
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Method_Example\bin\Debug\netcoreapp3.1\Method_Example.deps.json
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Method_Example\bin\Debug\netcoreapp3.1\Method_Example.runtimeconfig.json
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Method_Example\bin\Debug\netcoreapp3.1\Method_Example.runtimeconfig.dev.json
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Method_Example\bin\Debug\netcoreapp3.1\Method_Example.dll
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Method_Example\bin\Debug\netcoreapp3.1\Method_Example.pdb
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Method_Example\obj\Debug\netcoreapp3.1\Method_Example.csprojAssemblyReference.cache
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Method_Example\obj\Debug\netcoreapp3.1\Method_Example.AssemblyInfoInputs.cache
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Method_Example\obj\Debug\netcoreapp3.1\Method_Example.AssemblyInfo.cs
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Method_Example\obj\Debug\netcoreapp3.1\Method_Example.csproj.CoreCompileInputs.cache
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Method_Example\obj\Debug\netcoreapp3.1\Method_Example.dll
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Method_Example\obj\Debug\netcoreapp3.1\Method_Example.pdb
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Method_Example\obj\Debug\netcoreapp3.1\Method_Example.genruntimeconfig.cache
