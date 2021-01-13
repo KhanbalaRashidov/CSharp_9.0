@@ -49,37 +49,39 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Loop_For", "Loop_For\Loop_F
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Loop_While", "Loop_While\Loop_While.csproj", "{864218AC-C5F4-4514-BE2E-B38714F7F1FD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loop_do", "Loop_do\Loop_do.csproj", "{1794A3CE-A6C2-4B6B-9E83-F4ACCE676726}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Loop_do", "Loop_do\Loop_do.csproj", "{1794A3CE-A6C2-4B6B-9E83-F4ACCE676726}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example_Loop", "Example_Loop\Example_Loop.csproj", "{F3AC34BE-CFD4-4579-81F0-56236E9EA493}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Example_Loop", "Example_Loop\Example_Loop.csproj", "{F3AC34BE-CFD4-4579-81F0-56236E9EA493}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "array", "array", "{C2E1537F-753F-4D3D-825D-B3B1E86EC15B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson_array", "Lesson_array\Lesson_array.csproj", "{6E9A7E6E-16DF-44B3-82D1-03B573055458}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson_array", "Lesson_array\Lesson_array.csproj", "{6E9A7E6E-16DF-44B3-82D1-03B573055458}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array_Example", "Array_Example\Array_Example.csproj", "{40CBBE4F-9F00-4C28-9790-F40C50629B1E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Array_Example", "Array_Example\Array_Example.csproj", "{40CBBE4F-9F00-4C28-9790-F40C50629B1E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array_Method", "Array_Method\Array_Method.csproj", "{E704AE4B-8F1A-451D-9623-B981B2695B7B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Array_Method", "Array_Method\Array_Method.csproj", "{E704AE4B-8F1A-451D-9623-B981B2695B7B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Break_and_continue", "Break_and_continue\Break_and_continue.csproj", "{F2C259D8-AB06-41A0-A81D-3B37E619439E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Break_and_continue", "Break_and_continue\Break_and_continue.csproj", "{F2C259D8-AB06-41A0-A81D-3B37E619439E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multidimensional_Arrays", "Multidimensional_Arrays\Multidimensional_Arrays.csproj", "{F6CF85E8-6C8F-46B7-BEC4-FEF8BDE3E100}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Multidimensional_Arrays", "Multidimensional_Arrays\Multidimensional_Arrays.csproj", "{F6CF85E8-6C8F-46B7-BEC4-FEF8BDE3E100}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array2D_Example", "Array2D_Example\Array2D_Example.csproj", "{AB67BE05-D9D3-4AFB-B0F6-E1E42E6845BD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Array2D_Example", "Array2D_Example\Array2D_Example.csproj", "{AB67BE05-D9D3-4AFB-B0F6-E1E42E6845BD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array3D_Example", "Array3D_Example\Array3D_Example.csproj", "{DE7CA471-6902-4F93-A509-B7BAC1BABCA7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Array3D_Example", "Array3D_Example\Array3D_Example.csproj", "{DE7CA471-6902-4F93-A509-B7BAC1BABCA7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JaggedArray", "JaggedArray\JaggedArray.csproj", "{277A9E55-94DF-40D6-9BBF-5AC724E30288}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JaggedArray", "JaggedArray\JaggedArray.csproj", "{277A9E55-94DF-40D6-9BBF-5AC724E30288}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JaggedArray_example", "JaggedArray_example\JaggedArray_example.csproj", "{842AB3AA-FAD1-45B5-9678-65EFB6065663}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JaggedArray_example", "JaggedArray_example\JaggedArray_example.csproj", "{842AB3AA-FAD1-45B5-9678-65EFB6065663}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loop_Foreach", "Loop_Foreach\Loop_Foreach.csproj", "{FF60B0F7-55A3-4A17-9AB0-3C2D4254D759}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Loop_Foreach", "Loop_Foreach\Loop_Foreach.csproj", "{FF60B0F7-55A3-4A17-9AB0-3C2D4254D759}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "method", "method", "{6BD7B28D-F608-41B9-9181-D075371A03AE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Methods", "Methods\Methods.csproj", "{340B2DED-BE27-4BB2-908E-7FD567059A01}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Methods", "Methods\Methods.csproj", "{340B2DED-BE27-4BB2-908E-7FD567059A01}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Method_Example", "Method_Example\Method_Example.csproj", "{8F225136-1C56-4E0F-A0F9-2F07B1E98F7D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Method_Example", "Method_Example\Method_Example.csproj", "{8F225136-1C56-4E0F-A0F9-2F07B1E98F7D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Method_returnType", "Method_returnType\Method_returnType.csproj", "{E1B455E4-9E82-4839-B4EA-4A77CE49B4DC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -227,6 +229,10 @@ Global
 		{8F225136-1C56-4E0F-A0F9-2F07B1E98F7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8F225136-1C56-4E0F-A0F9-2F07B1E98F7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8F225136-1C56-4E0F-A0F9-2F07B1E98F7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1B455E4-9E82-4839-B4EA-4A77CE49B4DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1B455E4-9E82-4839-B4EA-4A77CE49B4DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1B455E4-9E82-4839-B4EA-4A77CE49B4DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1B455E4-9E82-4839-B4EA-4A77CE49B4DC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -251,6 +257,7 @@ Global
 		{FF60B0F7-55A3-4A17-9AB0-3C2D4254D759} = {89D41EBD-6D55-4F51-BEFF-145DA61B11C0}
 		{340B2DED-BE27-4BB2-908E-7FD567059A01} = {6BD7B28D-F608-41B9-9181-D075371A03AE}
 		{8F225136-1C56-4E0F-A0F9-2F07B1E98F7D} = {6BD7B28D-F608-41B9-9181-D075371A03AE}
+		{E1B455E4-9E82-4839-B4EA-4A77CE49B4DC} = {6BD7B28D-F608-41B9-9181-D075371A03AE}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {BC1AAF87-0C90-4FC0-88E2-732C9417AB94}

@@ -1,0 +1,15 @@
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Method_returnType\bin\Debug\net5.0\Method_returnType.exe
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Method_returnType\bin\Debug\net5.0\Method_returnType.deps.json
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Method_returnType\bin\Debug\net5.0\Method_returnType.runtimeconfig.json
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Method_returnType\bin\Debug\net5.0\Method_returnType.runtimeconfig.dev.json
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Method_returnType\bin\Debug\net5.0\Method_returnType.dll
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Method_returnType\bin\Debug\net5.0\ref\Method_returnType.dll
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Method_returnType\bin\Debug\net5.0\Method_returnType.pdb
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Method_returnType\obj\Debug\net5.0\Method_returnType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Method_returnType\obj\Debug\net5.0\Method_returnType.AssemblyInfoInputs.cache
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Method_returnType\obj\Debug\net5.0\Method_returnType.AssemblyInfo.cs
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Method_returnType\obj\Debug\net5.0\Method_returnType.csproj.CoreCompileInputs.cache
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Method_returnType\obj\Debug\net5.0\Method_returnType.dll
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Method_returnType\obj\Debug\net5.0\ref\Method_returnType.dll
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Method_returnType\obj\Debug\net5.0\Method_returnType.pdb
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Method_returnType\obj\Debug\net5.0\Method_returnType.genruntimeconfig.cache

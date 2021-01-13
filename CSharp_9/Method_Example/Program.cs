@@ -45,9 +45,9 @@ namespace Method_Example
         }
         static void Main(string[] args)
         {
-            //Hi();
-            //ApplauseAndOvations();
-            //Pause();
+            Hi();
+            ApplauseAndOvations();
+            Pause();
 
             Hi("Khanbala");
             ApplauseAndOvations("Yess", "Ouuu", 16);
