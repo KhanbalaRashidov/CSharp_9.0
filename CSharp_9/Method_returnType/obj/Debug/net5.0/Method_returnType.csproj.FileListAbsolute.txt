@@ -13,3 +13,4 @@ C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Method_returnType\
 C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Method_returnType\obj\Debug\net5.0\ref\Method_returnType.dll
 C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Method_returnType\obj\Debug\net5.0\Method_returnType.pdb
 C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Method_returnType\obj\Debug\net5.0\Method_returnType.genruntimeconfig.cache
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Method_returnType\obj\Debug\net5.0\Method_returnType.csprojAssemblyReference.cache
