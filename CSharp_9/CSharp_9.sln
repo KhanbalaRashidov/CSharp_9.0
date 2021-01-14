@@ -89,6 +89,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Method_Overloading", "Metho
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Method_Overloading_Example", "Method_Overloading_Example\Method_Overloading_Example.csproj", "{018AC46D-8E66-45BF-BB47-4F4C7ADFF7FD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Method_Paramater_params", "Method_Paramater_params\Method_Paramater_params.csproj", "{650BBED8-2B29-47EC-B6F5-5A29DE22DC9C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -251,6 +253,10 @@ Global
 		{018AC46D-8E66-45BF-BB47-4F4C7ADFF7FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{018AC46D-8E66-45BF-BB47-4F4C7ADFF7FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{018AC46D-8E66-45BF-BB47-4F4C7ADFF7FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{650BBED8-2B29-47EC-B6F5-5A29DE22DC9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{650BBED8-2B29-47EC-B6F5-5A29DE22DC9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{650BBED8-2B29-47EC-B6F5-5A29DE22DC9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{650BBED8-2B29-47EC-B6F5-5A29DE22DC9C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -279,6 +285,7 @@ Global
 		{4D5B3E91-2F67-43D4-A2F7-1CAB6E29D084} = {6BD7B28D-F608-41B9-9181-D075371A03AE}
 		{D00A1590-F79D-4533-AB90-F80EF5C4A5C5} = {6BD7B28D-F608-41B9-9181-D075371A03AE}
 		{018AC46D-8E66-45BF-BB47-4F4C7ADFF7FD} = {6BD7B28D-F608-41B9-9181-D075371A03AE}
+		{650BBED8-2B29-47EC-B6F5-5A29DE22DC9C} = {6BD7B28D-F608-41B9-9181-D075371A03AE}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {BC1AAF87-0C90-4FC0-88E2-732C9417AB94}

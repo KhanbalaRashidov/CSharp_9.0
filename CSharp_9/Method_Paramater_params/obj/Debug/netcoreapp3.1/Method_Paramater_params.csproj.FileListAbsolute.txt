@@ -1,0 +1,13 @@
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Method_Paramater_params\bin\Debug\netcoreapp3.1\Method_Paramater_params.exe
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Method_Paramater_params\bin\Debug\netcoreapp3.1\Method_Paramater_params.deps.json
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Method_Paramater_params\bin\Debug\netcoreapp3.1\Method_Paramater_params.runtimeconfig.json
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Method_Paramater_params\bin\Debug\netcoreapp3.1\Method_Paramater_params.runtimeconfig.dev.json
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Method_Paramater_params\bin\Debug\netcoreapp3.1\Method_Paramater_params.dll
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Method_Paramater_params\bin\Debug\netcoreapp3.1\Method_Paramater_params.pdb
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Method_Paramater_params\obj\Debug\netcoreapp3.1\Method_Paramater_params.csprojAssemblyReference.cache
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Method_Paramater_params\obj\Debug\netcoreapp3.1\Method_Paramater_params.AssemblyInfoInputs.cache
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Method_Paramater_params\obj\Debug\netcoreapp3.1\Method_Paramater_params.AssemblyInfo.cs
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Method_Paramater_params\obj\Debug\netcoreapp3.1\Method_Paramater_params.csproj.CoreCompileInputs.cache
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Method_Paramater_params\obj\Debug\netcoreapp3.1\Method_Paramater_params.dll
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Method_Paramater_params\obj\Debug\netcoreapp3.1\Method_Paramater_params.pdb
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Method_Paramater_params\obj\Debug\netcoreapp3.1\Method_Paramater_params.genruntimeconfig.cache

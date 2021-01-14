@@ -57,6 +57,10 @@ namespace Method_Overloading_Example
             int[] arr = { 1, 2, 3, 4, 5, 6, 7, 8, 9 };
             res = Sum(arr);
             Console.WriteLine($"res={res}");
+            res = Sum(new int[] { 1, 2, 3, 4, 5 });
+            Console.WriteLine($"Sum(new int [])   res={res}");
+            res = Sum(new int[] { 2, 4, 6, 8, 10 });
+            Console.WriteLine($"Sum(new int [])   res={res}");
             Console.WriteLine("\n\n");
             float result = Sum(1f);
             Console.WriteLine($"result={result}");
