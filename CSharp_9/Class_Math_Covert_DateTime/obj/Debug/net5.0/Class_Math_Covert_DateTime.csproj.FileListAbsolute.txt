@@ -1,0 +1,16 @@
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Class_Math_Covert_DateTime\bin\Debug\net5.0\Class_Math_Covert_DateTime.exe
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Class_Math_Covert_DateTime\bin\Debug\net5.0\Class_Math_Covert_DateTime.deps.json
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Class_Math_Covert_DateTime\bin\Debug\net5.0\Class_Math_Covert_DateTime.runtimeconfig.json
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Class_Math_Covert_DateTime\bin\Debug\net5.0\Class_Math_Covert_DateTime.runtimeconfig.dev.json
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Class_Math_Covert_DateTime\bin\Debug\net5.0\Class_Math_Covert_DateTime.dll
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Class_Math_Covert_DateTime\bin\Debug\net5.0\ref\Class_Math_Covert_DateTime.dll
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Class_Math_Covert_DateTime\bin\Debug\net5.0\Class_Math_Covert_DateTime.pdb
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Class_Math_Covert_DateTime\obj\Debug\net5.0\Class_Math_Covert_DateTime.csprojAssemblyReference.cache
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Class_Math_Covert_DateTime\obj\Debug\net5.0\Class_Math_Covert_DateTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Class_Math_Covert_DateTime\obj\Debug\net5.0\Class_Math_Covert_DateTime.AssemblyInfoInputs.cache
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Class_Math_Covert_DateTime\obj\Debug\net5.0\Class_Math_Covert_DateTime.AssemblyInfo.cs
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Class_Math_Covert_DateTime\obj\Debug\net5.0\Class_Math_Covert_DateTime.csproj.CoreCompileInputs.cache
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Class_Math_Covert_DateTime\obj\Debug\net5.0\Class_Math_Covert_DateTime.dll
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Class_Math_Covert_DateTime\obj\Debug\net5.0\ref\Class_Math_Covert_DateTime.dll
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Class_Math_Covert_DateTime\obj\Debug\net5.0\Class_Math_Covert_DateTime.pdb
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Class_Math_Covert_DateTime\obj\Debug\net5.0\Class_Math_Covert_DateTime.genruntimeconfig.cache
