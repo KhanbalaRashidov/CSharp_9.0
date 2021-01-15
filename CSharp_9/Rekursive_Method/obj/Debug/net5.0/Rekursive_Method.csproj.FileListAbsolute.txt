@@ -1,0 +1,16 @@
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Rekursive_Method\bin\Debug\net5.0\Rekursive_Method.exe
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Rekursive_Method\bin\Debug\net5.0\Rekursive_Method.deps.json
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Rekursive_Method\bin\Debug\net5.0\Rekursive_Method.runtimeconfig.json
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Rekursive_Method\bin\Debug\net5.0\Rekursive_Method.runtimeconfig.dev.json
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Rekursive_Method\bin\Debug\net5.0\Rekursive_Method.dll
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Rekursive_Method\bin\Debug\net5.0\ref\Rekursive_Method.dll
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Rekursive_Method\bin\Debug\net5.0\Rekursive_Method.pdb
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Rekursive_Method\obj\Debug\net5.0\Rekursive_Method.csprojAssemblyReference.cache
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Rekursive_Method\obj\Debug\net5.0\Rekursive_Method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Rekursive_Method\obj\Debug\net5.0\Rekursive_Method.AssemblyInfoInputs.cache
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Rekursive_Method\obj\Debug\net5.0\Rekursive_Method.AssemblyInfo.cs
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Rekursive_Method\obj\Debug\net5.0\Rekursive_Method.csproj.CoreCompileInputs.cache
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Rekursive_Method\obj\Debug\net5.0\Rekursive_Method.dll
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Rekursive_Method\obj\Debug\net5.0\ref\Rekursive_Method.dll
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Rekursive_Method\obj\Debug\net5.0\Rekursive_Method.pdb
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Rekursive_Method\obj\Debug\net5.0\Rekursive_Method.genruntimeconfig.cache

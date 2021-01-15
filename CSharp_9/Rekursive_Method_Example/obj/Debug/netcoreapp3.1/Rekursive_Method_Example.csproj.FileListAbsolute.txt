@@ -1,0 +1,13 @@
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Rekursive_Method_Example\bin\Debug\netcoreapp3.1\Rekursive_Method_Example.exe
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Rekursive_Method_Example\bin\Debug\netcoreapp3.1\Rekursive_Method_Example.deps.json
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Rekursive_Method_Example\bin\Debug\netcoreapp3.1\Rekursive_Method_Example.runtimeconfig.json
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Rekursive_Method_Example\bin\Debug\netcoreapp3.1\Rekursive_Method_Example.runtimeconfig.dev.json
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Rekursive_Method_Example\bin\Debug\netcoreapp3.1\Rekursive_Method_Example.dll
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Rekursive_Method_Example\bin\Debug\netcoreapp3.1\Rekursive_Method_Example.pdb
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Rekursive_Method_Example\obj\Debug\netcoreapp3.1\Rekursive_Method_Example.csprojAssemblyReference.cache
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Rekursive_Method_Example\obj\Debug\netcoreapp3.1\Rekursive_Method_Example.AssemblyInfoInputs.cache
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Rekursive_Method_Example\obj\Debug\netcoreapp3.1\Rekursive_Method_Example.AssemblyInfo.cs
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Rekursive_Method_Example\obj\Debug\netcoreapp3.1\Rekursive_Method_Example.csproj.CoreCompileInputs.cache
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Rekursive_Method_Example\obj\Debug\netcoreapp3.1\Rekursive_Method_Example.dll
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Rekursive_Method_Example\obj\Debug\netcoreapp3.1\Rekursive_Method_Example.pdb
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Rekursive_Method_Example\obj\Debug\netcoreapp3.1\Rekursive_Method_Example.genruntimeconfig.cache
