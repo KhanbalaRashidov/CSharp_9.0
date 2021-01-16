@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Xanish\\Desktop\\Khanbala_Rashidov\\CSharp_9.0\\CSharp_9\\String_Method1\\String_Method1.csproj",
-      "projectName": "String_Method1",
-      "projectPath": "C:\\Users\\Xanish\\Desktop\\Khanbala_Rashidov\\CSharp_9.0\\CSharp_9\\String_Method1\\String_Method1.csproj",
+      "projectUniqueName": "C:\\Users\\Xanish\\Desktop\\Khanbala_Rashidov\\CSharp_9.0\\CSharp_9\\String_Method1\\String_Method.csproj",
+      "projectName": "String_Method",
+      "projectPath": "C:\\Users\\Xanish\\Desktop\\Khanbala_Rashidov\\CSharp_9.0\\CSharp_9\\String_Method1\\String_Method.csproj",
       "packagesPath": "C:\\Users\\Xanish\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Xanish\\Desktop\\Khanbala_Rashidov\\CSharp_9.0\\CSharp_9\\String_Method1\\obj\\",
       "projectStyle": "PackageReference",

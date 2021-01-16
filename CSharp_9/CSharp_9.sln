@@ -99,7 +99,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "file", "file", "{A4CAC554-7
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class_Math_Covert_DateTime", "Class_Math_Covert_DateTime\Class_Math_Covert_DateTime.csproj", "{7DBAEB02-73D0-41A5-8712-FEE0DE7133F9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "String_Method1", "String_Method1\String_Method1.csproj", "{2D661868-56E2-493D-9FCF-031225380290}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "String_Method", "String_Method1\String_Method.csproj", "{2D661868-56E2-493D-9FCF-031225380290}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

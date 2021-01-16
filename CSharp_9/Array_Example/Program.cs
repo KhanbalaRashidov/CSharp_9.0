@@ -218,6 +218,35 @@ namespace Array_Example
             Console.WriteLine();
             Console.WriteLine($"maxBrr={maxBrr}  minBrr={minBrr}");
             #endregion
+
+            #region
+            Console.WriteLine("Array-->");
+            int[] arrAy = new int[10];
+            for (int i = 0; i < arrAy.Length; i++)
+            {
+                arrAy[i] = rand.Next(10);
+                Console.Write($"{arrAy[i]}\t");
+            }
+
+            Console.WriteLine("\nSort Array");
+            int temp1;
+            for (int i = 0; i < arrAy.Length; i++)
+            {
+                for (int j = i+1; j < arrAy.Length; j++)
+                {
+                    if (arrAy[i]>arrAy[j])
+                    {
+                        temp1 = arrAy[i];
+                        arrAy[i] = arrAy[j];
+                        arrAy[j] = temp1;
+                    }
+                }
+            }
+            for (int i = 0; i < arrAy.Length; i++)
+            {
+                Console.Write($"{arrAy[i]}\t");
+            }
+            #endregion
         }
     }
 }
