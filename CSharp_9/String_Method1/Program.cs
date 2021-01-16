@@ -7,7 +7,7 @@ namespace String_Method1
         static void Main(string[] args)
         {
 
-            string str = "Visual alusiV";
+            string str = "Visual programming language ";
             Console.WriteLine($"str = {str} ");
           
             //str.IndexOf method
@@ -21,7 +21,7 @@ namespace String_Method1
             Console.WriteLine($"str.LastIndexOf('z') = {str.LastIndexOf('z')}");
 
            
-            string s = str.Insert(str.IndexOf(' ') + 1, "C# ");
+            string s = str.Insert(str.IndexOf(' ') + 1, "C# 9.0 ");
             Console.WriteLine($"s = {s}");
 
             //str.Remove method
@@ -32,6 +32,8 @@ namespace String_Method1
             //str.Replace method
             Console.WriteLine($"str.Replace('a','z') = {str.Replace('a', 'z')}");
 
+            string str2 = "Hello";
+            Console.WriteLine($"str2.Concat(str2,str)={String.Concat(str2," ",str)}");
 
            //str.Substring method
             Console.WriteLine($"str.Substring(4) = {str.Substring(4)}");
@@ -43,13 +45,20 @@ namespace String_Method1
 
 
             //str.Trim();    
-            //str.TrimEnd();    
-            //str.TrimStart();  
+            Console.WriteLine($"str.Trim()={str.Trim()}");
+            //str.TrimEnd();  
+            Console.WriteLine($"str.TrimEnd()={str.TrimEnd()}");
+            //str.TrimStart(); 
+            Console.WriteLine($"str.TrimStart()={str.TrimStart()}");
 
             // Разбивает строку на подстроки в зависимости от символов в массиве.
-            string[] array = "1 2 3 4,5 6;7 8 9;10".Split(' ', ',', ';');
-
-
+            string[] array ="1 2 3 4,5 6;7 8 9;10".Split(' ', ',', ';');
+            
+            foreach (var item in array)
+            {
+                Console.Write(item);
+            }
+            Console.WriteLine();
             string test = null;
             //String.IsNullOrEmpty method
             Console.WriteLine($"String.IsNullOrEmpty(test) = {String.IsNullOrEmpty(test)}");    // True
@@ -60,6 +69,9 @@ namespace String_Method1
 
             test = "Skill";
             Console.WriteLine($"String.IsNullOrEmpty(test) = {String.IsNullOrEmpty(test)}");    // False
+
+
+           
 
         }
     }
