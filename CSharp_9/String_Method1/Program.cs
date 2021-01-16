@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace String_Method
+namespace String_Method1
 {
     class Program
     {
