@@ -105,6 +105,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Char_Method", "Char_Method\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Files", "Files\Files.csproj", "{887CD442-CD61-4612-B028-154CC32AA12E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DriveInfos", "DriveInfo\DriveInfos.csproj", "{6E91C973-748E-4700-AE28-7095A48666DE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -295,6 +297,10 @@ Global
 		{887CD442-CD61-4612-B028-154CC32AA12E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{887CD442-CD61-4612-B028-154CC32AA12E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{887CD442-CD61-4612-B028-154CC32AA12E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E91C973-748E-4700-AE28-7095A48666DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E91C973-748E-4700-AE28-7095A48666DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E91C973-748E-4700-AE28-7095A48666DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E91C973-748E-4700-AE28-7095A48666DE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -330,6 +336,7 @@ Global
 		{2D661868-56E2-493D-9FCF-031225380290} = {A4CAC554-7121-4E7E-B991-0AD296E409DB}
 		{A48DC0CF-35A2-4F4D-B415-01386CC73F54} = {A4CAC554-7121-4E7E-B991-0AD296E409DB}
 		{887CD442-CD61-4612-B028-154CC32AA12E} = {A4CAC554-7121-4E7E-B991-0AD296E409DB}
+		{6E91C973-748E-4700-AE28-7095A48666DE} = {A4CAC554-7121-4E7E-B991-0AD296E409DB}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {BC1AAF87-0C90-4FC0-88E2-732C9417AB94}

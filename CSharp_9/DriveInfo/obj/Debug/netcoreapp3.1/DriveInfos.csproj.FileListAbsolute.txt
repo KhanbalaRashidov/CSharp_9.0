@@ -1,0 +1,13 @@
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\DriveInfo\bin\Debug\netcoreapp3.1\DriveInfos.exe
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\DriveInfo\bin\Debug\netcoreapp3.1\DriveInfos.deps.json
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\DriveInfo\bin\Debug\netcoreapp3.1\DriveInfos.runtimeconfig.json
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\DriveInfo\bin\Debug\netcoreapp3.1\DriveInfos.runtimeconfig.dev.json
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\DriveInfo\bin\Debug\netcoreapp3.1\DriveInfos.dll
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\DriveInfo\bin\Debug\netcoreapp3.1\DriveInfos.pdb
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\DriveInfo\obj\Debug\netcoreapp3.1\DriveInfos.csprojAssemblyReference.cache
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\DriveInfo\obj\Debug\netcoreapp3.1\DriveInfos.AssemblyInfoInputs.cache
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\DriveInfo\obj\Debug\netcoreapp3.1\DriveInfos.AssemblyInfo.cs
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\DriveInfo\obj\Debug\netcoreapp3.1\DriveInfos.csproj.CoreCompileInputs.cache
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\DriveInfo\obj\Debug\netcoreapp3.1\DriveInfos.dll
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\DriveInfo\obj\Debug\netcoreapp3.1\DriveInfos.pdb
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\DriveInfo\obj\Debug\netcoreapp3.1\DriveInfos.genruntimeconfig.cache

@@ -37,18 +37,7 @@ namespace Files
             //File.Delete(@"C:\Users\Xanish\Desktop\test3.txt");
             Console.WriteLine(File.Exists(@"C:\Users\Xanish\Desktop\test3.txt"));
             //File.Move(path, @"C:\Users\Xanish\Desktop\test3.txt");
-            DriveInfo[] driveInfos = DriveInfo.GetDrives();
-            foreach (var item in driveInfos)
-            {
-                Console.WriteLine(item.Name);
-                Console.WriteLine(item.DriveType);
-                if (item.IsReady)
-                {
-                    Console.WriteLine(item.TotalSize);
-                    Console.WriteLine(item.TotalFreeSpace);
-                    Console.WriteLine(item.RootDirectory);
-                }
-            }
+           
         }
     }
 }
