@@ -6,7 +6,7 @@ namespace Char_Method
     {
         static void Main(string[] args)
         {
-            char x = '\u000d';
+            char x = 'x';
             Console.WriteLine($"x={x}");
             Console.WriteLine($"Char.IsDigit(x)={Char.IsDigit(x)}"); //false
             Console.WriteLine($"Char.IsLetter(x)={Char.IsLetter(x)}"); //true
@@ -34,6 +34,14 @@ namespace Char_Method
             Console.WriteLine($"Char.IsLetter(s,2)={Char.IsLetter(s,2)}"); //true
             Console.WriteLine($"Char.IsUpper(s,2)={Char.IsUpper(s,2)}"); //false
             Console.WriteLine($"Char.IsLower(s,2)={Char.IsLower(s,2)}"); //true
+            int count = 0;
+            for (int i = 1; ;)
+            {
+                count++;
+                if (++i == 3) continue;
+                if (i == 7) break;
+            }
+            Console.WriteLine(count);
         }
     }
 }
