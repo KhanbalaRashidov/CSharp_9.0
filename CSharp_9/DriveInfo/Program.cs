@@ -8,17 +8,42 @@ namespace DriveInfos
         static void Main(string[] args)
         {
             DriveInfo[] driveInfos = DriveInfo.GetDrives();
-            foreach (var item in driveInfos)
+
+            int length = driveInfos.Length;
+            Console.WriteLine(length);
+            Console.ReadKey();
+            for (int i = 0; i <length; i++)
             {
-                Console.WriteLine(item.Name);
-                Console.WriteLine(item.DriveType);
-                if (item.IsReady)
-                {
-                    Console.WriteLine(item.TotalSize);
-                    Console.WriteLine(item.TotalFreeSpace);
-                    Console.WriteLine(item.RootDirectory);
-                }
+                //gets the drive name
+                Console.WriteLine($"Name={driveInfos[i].Name}");
+
+                //is the disc ready (for example, the DVD may not be inserted in the drive)
+                Console.WriteLine($"IsReady={driveInfos[i].IsReady}");
+
+                //total disk size in bytes
+                Console.WriteLine($"TotalSize={driveInfos[i].TotalSize}");
+
+                //indicates the amount of free disk space available in bytes
+                Console.WriteLine($"AvialableFreeSpace={driveInfos[i].AvailableFreeSpace}");
+
+
+                //gets the total amount of free disk space in bytes
+                Console.WriteLine($"TotalFreeSpace={driveInfos[i].TotalFreeSpace}");
+
+                //represents the disc type
+                Console.WriteLine($"DriveType={driveInfos[i].DriveType}");
+
+                //gets the name of the filesystem
+                Console.WriteLine($"DriveFormat={driveInfos[i].DriveFormat}");
+
+                //Gets the root directory of a drive.
+                Console.WriteLine($"RootDirectory={driveInfos[i].RootDirectory}");
+
+                //Gets or sets the volume label of a drive.
+                Console.WriteLine($"VolumeLabel={driveInfos[i].VolumeLabel}");
             }
+            
+            
         }
     }
 }
