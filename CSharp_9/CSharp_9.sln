@@ -81,31 +81,33 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Methods", "Methods\Methods.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Method_Example", "Method_Example\Method_Example.csproj", "{8F225136-1C56-4E0F-A0F9-2F07B1E98F7D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Method_returnType", "Method_returnType\Method_returnType.csproj", "{E1B455E4-9E82-4839-B4EA-4A77CE49B4DC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Method_returnType", "Method_returnType\Method_returnType.csproj", "{E1B455E4-9E82-4839-B4EA-4A77CE49B4DC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Method_returnType_Example", "Method_returnType_Example\Method_returnType_Example.csproj", "{4D5B3E91-2F67-43D4-A2F7-1CAB6E29D084}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Method_returnType_Example", "Method_returnType_Example\Method_returnType_Example.csproj", "{4D5B3E91-2F67-43D4-A2F7-1CAB6E29D084}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Method_Overloading", "Method_Overloading\Method_Overloading.csproj", "{D00A1590-F79D-4533-AB90-F80EF5C4A5C5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Method_Overloading", "Method_Overloading\Method_Overloading.csproj", "{D00A1590-F79D-4533-AB90-F80EF5C4A5C5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Method_Overloading_Example", "Method_Overloading_Example\Method_Overloading_Example.csproj", "{018AC46D-8E66-45BF-BB47-4F4C7ADFF7FD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Method_Overloading_Example", "Method_Overloading_Example\Method_Overloading_Example.csproj", "{018AC46D-8E66-45BF-BB47-4F4C7ADFF7FD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Method_Paramater_params", "Method_Paramater_params\Method_Paramater_params.csproj", "{650BBED8-2B29-47EC-B6F5-5A29DE22DC9C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Method_Paramater_params", "Method_Paramater_params\Method_Paramater_params.csproj", "{650BBED8-2B29-47EC-B6F5-5A29DE22DC9C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rekursive_Method", "Rekursive_Method\Rekursive_Method.csproj", "{7D063823-DE8D-47E1-BFA2-B1E2052D89CA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Rekursive_Method", "Rekursive_Method\Rekursive_Method.csproj", "{7D063823-DE8D-47E1-BFA2-B1E2052D89CA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rekursive_Method_Example", "Rekursive_Method_Example\Rekursive_Method_Example.csproj", "{356FA235-944A-402B-8847-DA452052FBDC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Rekursive_Method_Example", "Rekursive_Method_Example\Rekursive_Method_Example.csproj", "{356FA235-944A-402B-8847-DA452052FBDC}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "file", "file", "{A4CAC554-7121-4E7E-B991-0AD296E409DB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class_Math_Covert_DateTime", "Class_Math_Covert_DateTime\Class_Math_Covert_DateTime.csproj", "{7DBAEB02-73D0-41A5-8712-FEE0DE7133F9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Class_Math_Covert_DateTime", "Class_Math_Covert_DateTime\Class_Math_Covert_DateTime.csproj", "{7DBAEB02-73D0-41A5-8712-FEE0DE7133F9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "String_Method", "String_Method1\String_Method.csproj", "{2D661868-56E2-493D-9FCF-031225380290}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "String_Method", "String_Method1\String_Method.csproj", "{2D661868-56E2-493D-9FCF-031225380290}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Char_Method", "Char_Method\Char_Method.csproj", "{A48DC0CF-35A2-4F4D-B415-01386CC73F54}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Char_Method", "Char_Method\Char_Method.csproj", "{A48DC0CF-35A2-4F4D-B415-01386CC73F54}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Files", "Files\Files.csproj", "{887CD442-CD61-4612-B028-154CC32AA12E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Files", "Files\Files.csproj", "{887CD442-CD61-4612-B028-154CC32AA12E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DriveInfos", "DriveInfo\DriveInfos.csproj", "{6E91C973-748E-4700-AE28-7095A48666DE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DriveInfos", "DriveInfo\DriveInfos.csproj", "{6E91C973-748E-4700-AE28-7095A48666DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileInfo_class", "FileInfo_class\FileInfo_class.csproj", "{AC353793-4D56-4DFF-B80A-CD9C57A8A0C6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -301,6 +303,10 @@ Global
 		{6E91C973-748E-4700-AE28-7095A48666DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6E91C973-748E-4700-AE28-7095A48666DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6E91C973-748E-4700-AE28-7095A48666DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC353793-4D56-4DFF-B80A-CD9C57A8A0C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC353793-4D56-4DFF-B80A-CD9C57A8A0C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC353793-4D56-4DFF-B80A-CD9C57A8A0C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC353793-4D56-4DFF-B80A-CD9C57A8A0C6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -337,6 +343,7 @@ Global
 		{A48DC0CF-35A2-4F4D-B415-01386CC73F54} = {A4CAC554-7121-4E7E-B991-0AD296E409DB}
 		{887CD442-CD61-4612-B028-154CC32AA12E} = {A4CAC554-7121-4E7E-B991-0AD296E409DB}
 		{6E91C973-748E-4700-AE28-7095A48666DE} = {A4CAC554-7121-4E7E-B991-0AD296E409DB}
+		{AC353793-4D56-4DFF-B80A-CD9C57A8A0C6} = {A4CAC554-7121-4E7E-B991-0AD296E409DB}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {BC1AAF87-0C90-4FC0-88E2-732C9417AB94}
