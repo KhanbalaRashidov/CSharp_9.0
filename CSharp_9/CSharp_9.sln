@@ -109,6 +109,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DriveInfos", "DriveInfo\Dri
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileInfo_class", "FileInfo_class\FileInfo_class.csproj", "{AC353793-4D56-4DFF-B80A-CD9C57A8A0C6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Directory_class", "Directory_class\Directory_class.csproj", "{04385C83-F278-4878-9C85-A547D752EA49}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -307,6 +309,10 @@ Global
 		{AC353793-4D56-4DFF-B80A-CD9C57A8A0C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AC353793-4D56-4DFF-B80A-CD9C57A8A0C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AC353793-4D56-4DFF-B80A-CD9C57A8A0C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04385C83-F278-4878-9C85-A547D752EA49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04385C83-F278-4878-9C85-A547D752EA49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04385C83-F278-4878-9C85-A547D752EA49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04385C83-F278-4878-9C85-A547D752EA49}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -344,6 +350,7 @@ Global
 		{887CD442-CD61-4612-B028-154CC32AA12E} = {A4CAC554-7121-4E7E-B991-0AD296E409DB}
 		{6E91C973-748E-4700-AE28-7095A48666DE} = {A4CAC554-7121-4E7E-B991-0AD296E409DB}
 		{AC353793-4D56-4DFF-B80A-CD9C57A8A0C6} = {A4CAC554-7121-4E7E-B991-0AD296E409DB}
+		{04385C83-F278-4878-9C85-A547D752EA49} = {A4CAC554-7121-4E7E-B991-0AD296E409DB}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {BC1AAF87-0C90-4FC0-88E2-732C9417AB94}
