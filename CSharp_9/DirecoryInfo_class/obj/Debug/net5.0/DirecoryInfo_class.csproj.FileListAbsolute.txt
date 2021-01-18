@@ -1,0 +1,16 @@
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\DirecoryInfo_class\bin\Debug\net5.0\DirecoryInfo_class.exe
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\DirecoryInfo_class\bin\Debug\net5.0\DirecoryInfo_class.deps.json
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\DirecoryInfo_class\bin\Debug\net5.0\DirecoryInfo_class.runtimeconfig.json
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\DirecoryInfo_class\bin\Debug\net5.0\DirecoryInfo_class.runtimeconfig.dev.json
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\DirecoryInfo_class\bin\Debug\net5.0\DirecoryInfo_class.dll
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\DirecoryInfo_class\bin\Debug\net5.0\ref\DirecoryInfo_class.dll
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\DirecoryInfo_class\bin\Debug\net5.0\DirecoryInfo_class.pdb
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\DirecoryInfo_class\obj\Debug\net5.0\DirecoryInfo_class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\DirecoryInfo_class\obj\Debug\net5.0\DirecoryInfo_class.AssemblyInfoInputs.cache
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\DirecoryInfo_class\obj\Debug\net5.0\DirecoryInfo_class.AssemblyInfo.cs
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\DirecoryInfo_class\obj\Debug\net5.0\DirecoryInfo_class.csproj.CoreCompileInputs.cache
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\DirecoryInfo_class\obj\Debug\net5.0\DirecoryInfo_class.dll
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\DirecoryInfo_class\obj\Debug\net5.0\ref\DirecoryInfo_class.dll
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\DirecoryInfo_class\obj\Debug\net5.0\DirecoryInfo_class.pdb
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\DirecoryInfo_class\obj\Debug\net5.0\DirecoryInfo_class.genruntimeconfig.cache
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\DirecoryInfo_class\obj\Debug\net5.0\DirecoryInfo_class.csprojAssemblyReference.cache
