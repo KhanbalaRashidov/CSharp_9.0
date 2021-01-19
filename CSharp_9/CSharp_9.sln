@@ -115,6 +115,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DirecoryInfo_class", "Direc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Streams", "Streams\Streams.csproj", "{2DD86B5B-5017-4F6D-B554-EF581E0579EB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Catalogs", "Catalogs\Catalogs.csproj", "{F2559423-B8EB-44A0-AE02-453933677486}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -325,6 +327,10 @@ Global
 		{2DD86B5B-5017-4F6D-B554-EF581E0579EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2DD86B5B-5017-4F6D-B554-EF581E0579EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2DD86B5B-5017-4F6D-B554-EF581E0579EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2559423-B8EB-44A0-AE02-453933677486}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2559423-B8EB-44A0-AE02-453933677486}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2559423-B8EB-44A0-AE02-453933677486}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2559423-B8EB-44A0-AE02-453933677486}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -365,6 +371,7 @@ Global
 		{04385C83-F278-4878-9C85-A547D752EA49} = {A4CAC554-7121-4E7E-B991-0AD296E409DB}
 		{CC8EC90B-4B50-470F-8B6F-0D0FFC90F54A} = {A4CAC554-7121-4E7E-B991-0AD296E409DB}
 		{2DD86B5B-5017-4F6D-B554-EF581E0579EB} = {A4CAC554-7121-4E7E-B991-0AD296E409DB}
+		{F2559423-B8EB-44A0-AE02-453933677486} = {A4CAC554-7121-4E7E-B991-0AD296E409DB}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {BC1AAF87-0C90-4FC0-88E2-732C9417AB94}

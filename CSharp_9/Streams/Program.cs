@@ -60,6 +60,7 @@ namespace Streams
             }
             Console.ReadKey();
             Console.WriteLine();
+            //Read method --> Reads the next character or next set of characters from the input stream.
             using (StreamReader sr = new StreamReader(@"C:\Test_File\cDirs.txt"))
             {
                 while (!sr.EndOfStream)
