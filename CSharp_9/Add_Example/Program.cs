@@ -44,7 +44,28 @@ namespace Add_Example
                     Console.WriteLine(name);
                 }
             }
-            
+
+            #endregion
+
+            #region FileStream
+            Console.ReadKey(); Console.Clear();
+            Console.Write("Enter the text:");
+          
+            string text = Console.ReadLine();
+            using (FileStream fileStream=new FileStream(@"note.txt",FileMode.Create))
+            {
+                byte[] array = Encoding.Default.GetBytes(text);
+                fileStream.Write(array, 0, array.Length);
+            }
+            Console.WriteLine();
+
+            using (FileStream fileRead =File.OpenRead(@"note.txt"))
+            {
+                byte[] array = new byte[fileRead.Length];
+                fileRead.Read(array, 0, array.Length);
+                text = Encoding.Default.GetString(array);
+                Console.WriteLine($"text={text}");
+            }
             #endregion
         }
     }
