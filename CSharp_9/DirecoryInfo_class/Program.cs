@@ -36,7 +36,7 @@ namespace DirecoryInfo_class
             Console.WriteLine($"\n{path+"test"} created subdirectory");
 
             //Delete method --> Deletes a DirectoryInfo and its contents from a path.
-            directoryInfo.Delete(true);
+           // directoryInfo.Delete(true);
             Console.WriteLine($"\n{subPath}  subdiercory deleted");
 
             //Exists prop --> Gets a value indicating whether the directory exists.
@@ -68,13 +68,16 @@ namespace DirecoryInfo_class
             Console.WriteLine($"GetDirectories()={getDirectories}");
 
             //GetFiles() method --> Returns a file list from the current directory.
-            string getFiles = directoryInfo.GetFiles().ToString();
-            Console.WriteLine($"GetFiles()={getFiles}");
-
+            FileInfo[] getFiles = directoryInfo.GetFiles();
+            foreach (var file in getFiles)
+            {
+                Console.WriteLine($"Name{file.Name} DirectoryName={file.DirectoryName}");
+            }
             //MoveTo() method -->Moves a DirectoryInfo instance and its contents to a new path.
-            string movePath = "newTest";
+            string movePath = "Test33";
             directoryInfo.MoveTo(movePath);
             Console.WriteLine($"{path} moved was to {movePath}");
+          
 
         }
     }
