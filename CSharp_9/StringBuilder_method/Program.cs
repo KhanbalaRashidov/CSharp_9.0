@@ -60,7 +60,7 @@ namespace StringBuilder_method
 
             //AppendLine method --> Appends the default line terminator, or a copy of a specified string and the default line terminator, to the end of this instance.
             //Appends the default line terminator to the end of the current StringBuilder object.
-            //sb2.AppendLine();
+            sb2.AppendLine();
             Console.WriteLine($"sb2={sb2} sb2.Length={sb2.Length} sb2.Capacity={sb2.Capacity}");
 
             //AppendLine(String) --> Appends a copy of the specified string followed by the default line terminator to the end of the current StringBuilder object.
@@ -98,6 +98,16 @@ namespace StringBuilder_method
             sb2.Replace("Four", "four", 3, 3);
             Console.WriteLine($"sb2={sb2}");
 
+            #endregion
+
+            #region Recommendations for use
+
+            // String StringBuilder
+            // A small number of operations and changes to line elements
+            // When a search is required, such as IndexOf, that is, StringBuilder has no such methods.
+
+            //
+            // If you do not know the number of operations that will be performed on lines during the program
             #endregion
         }
     }

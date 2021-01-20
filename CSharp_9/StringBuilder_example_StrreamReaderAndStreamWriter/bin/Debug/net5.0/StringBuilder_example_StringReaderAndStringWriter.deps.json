@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "StringBuilder_example_StringReaderAndStringWriter/1.0.0": {
+        "runtime": {
+          "StringBuilder_example_StringReaderAndStringWriter.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "StringBuilder_example_StringReaderAndStringWriter/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
