@@ -17,11 +17,13 @@ namespace StringBuilder_example_StringReaderAndStringWriter
             }
             Console.WriteLine(sb);
 
-            using (StringReader sr=new StringReader(s))
+            using (StringReader sr = new StringReader(s))
             {
                 char[] bufer = new char[5];
                 sr.ReadBlock(bufer, 0, bufer.Length);
             }
+
+           
         }
     }
 }

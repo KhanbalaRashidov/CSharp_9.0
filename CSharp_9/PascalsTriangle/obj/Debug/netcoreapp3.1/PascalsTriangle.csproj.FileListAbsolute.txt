@@ -1,0 +1,13 @@
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\PascalsTriangle\bin\Debug\netcoreapp3.1\PascalsTriangle.exe
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\PascalsTriangle\bin\Debug\netcoreapp3.1\PascalsTriangle.deps.json
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\PascalsTriangle\bin\Debug\netcoreapp3.1\PascalsTriangle.runtimeconfig.json
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\PascalsTriangle\bin\Debug\netcoreapp3.1\PascalsTriangle.runtimeconfig.dev.json
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\PascalsTriangle\bin\Debug\netcoreapp3.1\PascalsTriangle.dll
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\PascalsTriangle\bin\Debug\netcoreapp3.1\PascalsTriangle.pdb
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\PascalsTriangle\obj\Debug\netcoreapp3.1\PascalsTriangle.csprojAssemblyReference.cache
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\PascalsTriangle\obj\Debug\netcoreapp3.1\PascalsTriangle.AssemblyInfoInputs.cache
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\PascalsTriangle\obj\Debug\netcoreapp3.1\PascalsTriangle.AssemblyInfo.cs
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\PascalsTriangle\obj\Debug\netcoreapp3.1\PascalsTriangle.csproj.CoreCompileInputs.cache
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\PascalsTriangle\obj\Debug\netcoreapp3.1\PascalsTriangle.dll
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\PascalsTriangle\obj\Debug\netcoreapp3.1\PascalsTriangle.pdb
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\PascalsTriangle\obj\Debug\netcoreapp3.1\PascalsTriangle.genruntimeconfig.cache

@@ -119,11 +119,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Catalogs", "Catalogs\Catalo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Add_Example", "Add_Example\Add_Example.csproj", "{7123D292-068C-4117-8AD4-FB572B0CBC15}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Okay", "Okay\Okay.csproj", "{D89AF372-4B25-4920-9E33-A1C5D6CEAE49}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Okay", "Okay\Okay.csproj", "{D89AF372-4B25-4920-9E33-A1C5D6CEAE49}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringBuilder_method", "StringBuilder_method\StringBuilder_method.csproj", "{AAADD6D4-A9A9-424A-8301-C65DAE81188D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StringBuilder_method", "StringBuilder_method\StringBuilder_method.csproj", "{AAADD6D4-A9A9-424A-8301-C65DAE81188D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringBuilder_example_StringReaderAndStringWriter", "StringBuilder_example_StrreamReaderAndStreamWriter\StringBuilder_example_StringReaderAndStringWriter.csproj", "{B42AE696-C637-454F-B525-A4E59E7756DA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StringBuilder_example_StringReaderAndStringWriter", "StringBuilder_example_StrreamReaderAndStreamWriter\StringBuilder_example_StringReaderAndStringWriter.csproj", "{B42AE696-C637-454F-B525-A4E59E7756DA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
