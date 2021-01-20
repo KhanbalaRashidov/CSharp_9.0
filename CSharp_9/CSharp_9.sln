@@ -107,17 +107,21 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Files", "Files\Files.csproj
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DriveInfos", "DriveInfo\DriveInfos.csproj", "{6E91C973-748E-4700-AE28-7095A48666DE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileInfo_class", "FileInfo_class\FileInfo_class.csproj", "{AC353793-4D56-4DFF-B80A-CD9C57A8A0C6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FileInfo_class", "FileInfo_class\FileInfo_class.csproj", "{AC353793-4D56-4DFF-B80A-CD9C57A8A0C6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Directory_class", "Directory_class\Directory_class.csproj", "{04385C83-F278-4878-9C85-A547D752EA49}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Directory_class", "Directory_class\Directory_class.csproj", "{04385C83-F278-4878-9C85-A547D752EA49}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DirecoryInfo_class", "DirecoryInfo_class\DirecoryInfo_class.csproj", "{CC8EC90B-4B50-470F-8B6F-0D0FFC90F54A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DirecoryInfo_class", "DirecoryInfo_class\DirecoryInfo_class.csproj", "{CC8EC90B-4B50-470F-8B6F-0D0FFC90F54A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Streams", "Streams\Streams.csproj", "{2DD86B5B-5017-4F6D-B554-EF581E0579EB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Streams", "Streams\Streams.csproj", "{2DD86B5B-5017-4F6D-B554-EF581E0579EB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Catalogs", "Catalogs\Catalogs.csproj", "{F2559423-B8EB-44A0-AE02-453933677486}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Catalogs", "Catalogs\Catalogs.csproj", "{F2559423-B8EB-44A0-AE02-453933677486}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Add_Example", "Add_Example\Add_Example.csproj", "{7123D292-068C-4117-8AD4-FB572B0CBC15}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Add_Example", "Add_Example\Add_Example.csproj", "{7123D292-068C-4117-8AD4-FB572B0CBC15}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Okay", "Okay\Okay.csproj", "{D89AF372-4B25-4920-9E33-A1C5D6CEAE49}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringBuilder_method", "StringBuilder_method\StringBuilder_method.csproj", "{AAADD6D4-A9A9-424A-8301-C65DAE81188D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -337,6 +341,14 @@ Global
 		{7123D292-068C-4117-8AD4-FB572B0CBC15}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7123D292-068C-4117-8AD4-FB572B0CBC15}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7123D292-068C-4117-8AD4-FB572B0CBC15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D89AF372-4B25-4920-9E33-A1C5D6CEAE49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D89AF372-4B25-4920-9E33-A1C5D6CEAE49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D89AF372-4B25-4920-9E33-A1C5D6CEAE49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D89AF372-4B25-4920-9E33-A1C5D6CEAE49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAADD6D4-A9A9-424A-8301-C65DAE81188D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAADD6D4-A9A9-424A-8301-C65DAE81188D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAADD6D4-A9A9-424A-8301-C65DAE81188D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAADD6D4-A9A9-424A-8301-C65DAE81188D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -379,6 +391,8 @@ Global
 		{2DD86B5B-5017-4F6D-B554-EF581E0579EB} = {A4CAC554-7121-4E7E-B991-0AD296E409DB}
 		{F2559423-B8EB-44A0-AE02-453933677486} = {A4CAC554-7121-4E7E-B991-0AD296E409DB}
 		{7123D292-068C-4117-8AD4-FB572B0CBC15} = {A4CAC554-7121-4E7E-B991-0AD296E409DB}
+		{D89AF372-4B25-4920-9E33-A1C5D6CEAE49} = {C2E1537F-753F-4D3D-825D-B3B1E86EC15B}
+		{AAADD6D4-A9A9-424A-8301-C65DAE81188D} = {A4CAC554-7121-4E7E-B991-0AD296E409DB}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {BC1AAF87-0C90-4FC0-88E2-732C9417AB94}

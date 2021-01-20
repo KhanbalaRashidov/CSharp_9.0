@@ -1,0 +1,13 @@
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Okay\bin\Debug\netcoreapp3.1\Okay.exe
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Okay\bin\Debug\netcoreapp3.1\Okay.deps.json
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Okay\bin\Debug\netcoreapp3.1\Okay.runtimeconfig.json
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Okay\bin\Debug\netcoreapp3.1\Okay.runtimeconfig.dev.json
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Okay\bin\Debug\netcoreapp3.1\Okay.dll
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Okay\bin\Debug\netcoreapp3.1\Okay.pdb
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Okay\obj\Debug\netcoreapp3.1\Okay.csprojAssemblyReference.cache
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Okay\obj\Debug\netcoreapp3.1\Okay.AssemblyInfoInputs.cache
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Okay\obj\Debug\netcoreapp3.1\Okay.AssemblyInfo.cs
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Okay\obj\Debug\netcoreapp3.1\Okay.csproj.CoreCompileInputs.cache
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Okay\obj\Debug\netcoreapp3.1\Okay.dll
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Okay\obj\Debug\netcoreapp3.1\Okay.pdb
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Okay\obj\Debug\netcoreapp3.1\Okay.genruntimeconfig.cache

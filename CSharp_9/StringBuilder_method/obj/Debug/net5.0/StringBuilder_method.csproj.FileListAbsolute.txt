@@ -1,0 +1,16 @@
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\StringBuilder_method\bin\Debug\net5.0\StringBuilder_method.exe
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\StringBuilder_method\bin\Debug\net5.0\StringBuilder_method.deps.json
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\StringBuilder_method\bin\Debug\net5.0\StringBuilder_method.runtimeconfig.json
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\StringBuilder_method\bin\Debug\net5.0\StringBuilder_method.runtimeconfig.dev.json
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\StringBuilder_method\bin\Debug\net5.0\StringBuilder_method.dll
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\StringBuilder_method\bin\Debug\net5.0\ref\StringBuilder_method.dll
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\StringBuilder_method\bin\Debug\net5.0\StringBuilder_method.pdb
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\StringBuilder_method\obj\Debug\net5.0\StringBuilder_method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\StringBuilder_method\obj\Debug\net5.0\StringBuilder_method.AssemblyInfoInputs.cache
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\StringBuilder_method\obj\Debug\net5.0\StringBuilder_method.AssemblyInfo.cs
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\StringBuilder_method\obj\Debug\net5.0\StringBuilder_method.csproj.CoreCompileInputs.cache
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\StringBuilder_method\obj\Debug\net5.0\StringBuilder_method.dll
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\StringBuilder_method\obj\Debug\net5.0\ref\StringBuilder_method.dll
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\StringBuilder_method\obj\Debug\net5.0\StringBuilder_method.pdb
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\StringBuilder_method\obj\Debug\net5.0\StringBuilder_method.genruntimeconfig.cache
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\StringBuilder_method\obj\Debug\net5.0\StringBuilder_method.csprojAssemblyReference.cache

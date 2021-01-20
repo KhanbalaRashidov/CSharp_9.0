@@ -8,19 +8,19 @@ namespace Add_Example
     {
         static void Main(string[] args)
         {
-            //using (StreamReader sr = new StreamReader(@"C:\Test_File\Test2.txt",Encoding.Default))
-            //{
-            //    while (!sr.EndOfStream)
-            //    {
-            //        var ch = sr.Read();
-            //        Console.WriteLine($"{ch} - {(char)ch}");
-            //    }
-            //}
-            //Console.WriteLine();
-            //using (StreamReader sr = new StreamReader(@"C:\Test_File\Test2.txt", Encoding.Default))
-            //{
-            //    Console.WriteLine(sr.ReadToEnd());
-            //}
+            using (StreamReader sr = new StreamReader(@"C:\Test_File\Test2.txt", Encoding.Default))
+            {
+                while (!sr.EndOfStream)
+                {
+                    var ch = sr.Read();
+                    Console.WriteLine($"{ch} - {(char)ch}");
+                }
+            }
+            Console.WriteLine();
+            using (StreamReader sr = new StreamReader(@"C:\Test_File\Test2.txt", Encoding.Default))
+            {
+                Console.WriteLine(sr.ReadToEnd());
+            }
 
             #region BinaryStream
             Console.WriteLine("Press Enter to continue \n");
@@ -103,7 +103,7 @@ namespace Add_Example
                     }
                 }
             }
-
+         
 
 
             #endregion
