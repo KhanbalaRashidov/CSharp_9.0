@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Structure_OOP
 {
-    struct Worker
+    public struct Worker
     {
         public string Position;
 

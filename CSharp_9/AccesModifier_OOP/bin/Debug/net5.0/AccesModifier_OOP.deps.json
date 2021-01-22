@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "AccesModifier_OOP/1.0.0": {
+        "dependencies": {
+          "Structure_OOP": "1.0.0"
+        },
+        "runtime": {
+          "AccesModifier_OOP.dll": {}
+        }
+      },
+      "Structure_OOP/1.0.0": {
+        "runtime": {
+          "Structure_OOP.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AccesModifier_OOP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Structure_OOP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
