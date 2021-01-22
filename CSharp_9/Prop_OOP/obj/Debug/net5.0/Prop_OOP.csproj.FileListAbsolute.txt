@@ -1,0 +1,16 @@
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Prop_OOP\bin\Debug\net5.0\Prop_OOP.exe
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Prop_OOP\bin\Debug\net5.0\Prop_OOP.deps.json
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Prop_OOP\bin\Debug\net5.0\Prop_OOP.runtimeconfig.json
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Prop_OOP\bin\Debug\net5.0\Prop_OOP.runtimeconfig.dev.json
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Prop_OOP\bin\Debug\net5.0\Prop_OOP.dll
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Prop_OOP\bin\Debug\net5.0\ref\Prop_OOP.dll
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Prop_OOP\bin\Debug\net5.0\Prop_OOP.pdb
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Prop_OOP\obj\Debug\net5.0\Prop_OOP.csprojAssemblyReference.cache
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Prop_OOP\obj\Debug\net5.0\Prop_OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Prop_OOP\obj\Debug\net5.0\Prop_OOP.AssemblyInfoInputs.cache
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Prop_OOP\obj\Debug\net5.0\Prop_OOP.AssemblyInfo.cs
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Prop_OOP\obj\Debug\net5.0\Prop_OOP.csproj.CoreCompileInputs.cache
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Prop_OOP\obj\Debug\net5.0\Prop_OOP.dll
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Prop_OOP\obj\Debug\net5.0\ref\Prop_OOP.dll
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Prop_OOP\obj\Debug\net5.0\Prop_OOP.pdb
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Prop_OOP\obj\Debug\net5.0\Prop_OOP.genruntimeconfig.cache
