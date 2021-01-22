@@ -6,7 +6,25 @@ using System.Threading.Tasks;
 
 namespace Prop_OOP
 {
-    class Account2
+    struct Account2
     {
+
+        public string Login;
+
+
+        private string Password;
+
+
+        public void SetPassword(string NewPassword)
+        {
+            this.Password = NewPassword;
+        }
+
+
+        public Account2(string Login, string Password)
+        {
+            this.Login = Login;
+            this.Password = Password;
+        }
     }
 }

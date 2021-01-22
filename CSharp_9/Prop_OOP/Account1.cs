@@ -8,5 +8,12 @@ namespace Prop_OOP
 {
     class Account1
     {
+        public string UserName;
+        public string Password;
+        public Account1(string UserName,string Password)
+        {
+            this.UserName = UserName;
+            this.Password = Password;
+        }
     }
 }
