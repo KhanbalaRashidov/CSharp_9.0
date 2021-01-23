@@ -1,0 +1,16 @@
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Indexer_OOP\obj\Debug\net5.0\Indexer_OOP.csprojAssemblyReference.cache
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Indexer_OOP\obj\Debug\net5.0\Indexer_OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Indexer_OOP\obj\Debug\net5.0\Indexer_OOP.AssemblyInfoInputs.cache
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Indexer_OOP\obj\Debug\net5.0\Indexer_OOP.AssemblyInfo.cs
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Indexer_OOP\obj\Debug\net5.0\Indexer_OOP.csproj.CoreCompileInputs.cache
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Indexer_OOP\bin\Debug\net5.0\Indexer_OOP.exe
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Indexer_OOP\bin\Debug\net5.0\Indexer_OOP.deps.json
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Indexer_OOP\bin\Debug\net5.0\Indexer_OOP.runtimeconfig.json
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Indexer_OOP\bin\Debug\net5.0\Indexer_OOP.runtimeconfig.dev.json
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Indexer_OOP\bin\Debug\net5.0\Indexer_OOP.dll
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Indexer_OOP\bin\Debug\net5.0\ref\Indexer_OOP.dll
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Indexer_OOP\bin\Debug\net5.0\Indexer_OOP.pdb
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Indexer_OOP\obj\Debug\net5.0\Indexer_OOP.dll
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Indexer_OOP\obj\Debug\net5.0\ref\Indexer_OOP.dll
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Indexer_OOP\obj\Debug\net5.0\Indexer_OOP.pdb
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Indexer_OOP\obj\Debug\net5.0\Indexer_OOP.genruntimeconfig.cache
