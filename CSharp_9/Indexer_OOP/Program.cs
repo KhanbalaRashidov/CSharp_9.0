@@ -75,7 +75,7 @@ namespace Indexer_OOP
             #endregion
             #region Matrix
             Console.ReadKey();
-            Console.WriteLine("Matrix with indexer\t");
+            Console.WriteLine("\nMatrix with indexer\t");
 
             int[] arr = { 1, 2, 3, 4, 5, 6, 7, 8, 9 };
             Matrix matrix = new Matrix(arr);
