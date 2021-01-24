@@ -1,0 +1,16 @@
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\MethodParametr_Class_and_Struct\bin\Debug\net5.0\MethodParametr_Class_and_Struct.exe
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\MethodParametr_Class_and_Struct\bin\Debug\net5.0\MethodParametr_Class_and_Struct.deps.json
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\MethodParametr_Class_and_Struct\bin\Debug\net5.0\MethodParametr_Class_and_Struct.runtimeconfig.json
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\MethodParametr_Class_and_Struct\bin\Debug\net5.0\MethodParametr_Class_and_Struct.runtimeconfig.dev.json
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\MethodParametr_Class_and_Struct\bin\Debug\net5.0\MethodParametr_Class_and_Struct.dll
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\MethodParametr_Class_and_Struct\bin\Debug\net5.0\ref\MethodParametr_Class_and_Struct.dll
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\MethodParametr_Class_and_Struct\bin\Debug\net5.0\MethodParametr_Class_and_Struct.pdb
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\MethodParametr_Class_and_Struct\obj\Debug\net5.0\MethodParametr_Class_and_Struct.csprojAssemblyReference.cache
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\MethodParametr_Class_and_Struct\obj\Debug\net5.0\MethodParametr_Class_and_Struct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\MethodParametr_Class_and_Struct\obj\Debug\net5.0\MethodParametr_Class_and_Struct.AssemblyInfoInputs.cache
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\MethodParametr_Class_and_Struct\obj\Debug\net5.0\MethodParametr_Class_and_Struct.AssemblyInfo.cs
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\MethodParametr_Class_and_Struct\obj\Debug\net5.0\MethodParametr_Class_and_Struct.csproj.CoreCompileInputs.cache
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\MethodParametr_Class_and_Struct\obj\Debug\net5.0\MethodParametr_Class_and_Struct.dll
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\MethodParametr_Class_and_Struct\obj\Debug\net5.0\ref\MethodParametr_Class_and_Struct.dll
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\MethodParametr_Class_and_Struct\obj\Debug\net5.0\MethodParametr_Class_and_Struct.pdb
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\MethodParametr_Class_and_Struct\obj\Debug\net5.0\MethodParametr_Class_and_Struct.genruntimeconfig.cache

@@ -19,22 +19,22 @@ namespace Encapsulation_OOP
         #region Method Open/Close
 
        
-        private void ActivationBIOS() { Console.WriteLine($"{this.Title} | Activation BIOS..."); }
+        private void ActivationBIOS() => Console.WriteLine($"{this.Title} |.\\. Activation BIOS...");
 
-        
-        private void ActivationOS() { Console.WriteLine($"\n{this.Title} | Activation OS..."); }
 
-       
-        private void Greeting() { Console.WriteLine($"\n{this.Title} | Hello..."); }
+        private void ActivationOS() => Console.WriteLine($"\n{this.Title} |.\\. Activation OS...");
 
-        
-        private void DeactivationBIOS() { Console.WriteLine($"{this.Title} | Deactivation BIOS..."); }
 
-      
-        public void DeactivationOS() { Console.WriteLine($"{this.Title} | Deactivation OS..."); }
+        private void Greeting() => Console.WriteLine($"\n{this.Title} |.\\.| Hello...");
 
-        
-        private void Parting() { Console.WriteLine($"\n{this.Title} | Bye..."); }
+
+        private void DeactivationBIOS() => Console.WriteLine($"{this.Title} |.\\.| Deactivation BIOS...");
+
+
+        public void DeactivationOS() => Console.WriteLine($"{this.Title} |.\\.| Deactivation OS...");
+
+
+        private void Parting() => Console.WriteLine($"\n{this.Title} |.\\.| Bye...");
 
         #endregion
 
@@ -53,12 +53,8 @@ namespace Encapsulation_OOP
             this.DeactivationBIOS();
         }
 
+        private void Calculation() => Console.WriteLine($"\n{this.Title} |.\\.| Calculation...\n");
 
-       
-        private void Calculation()
-        {
-            Console.WriteLine($"\n{this.Title} | Calculation...\n");
-        }
 
     }
 }

@@ -9,7 +9,7 @@ namespace Encapsulation_OOP
             Console.WriteLine("Welcome Encapsulation\n");
 
             #region Computer1
-            
+
             Computer1 computer1 = new Computer1("Computer_1");
             computer1.ActivationBIOS();
             computer1.ActivationOS();
@@ -27,13 +27,17 @@ namespace Encapsulation_OOP
             #endregion
 
             #region Computer3
-            Console.ReadKey();Console.Clear();
+            Console.ReadKey(); Console.Clear();
             Computer3 computer3 = new Computer3("Computer_3");
             for (int i = 0; i < 5; i++)
             {
                 computer3.Power();
+                Console.WriteLine(computer3.Indicator);
+                Console.ReadKey();
             }
+
             #endregion
         }
     }
+    
 }
