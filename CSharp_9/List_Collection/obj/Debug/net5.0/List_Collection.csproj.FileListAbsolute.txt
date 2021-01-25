@@ -1,0 +1,16 @@
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\List_Collection\bin\Debug\net5.0\List_Collection.exe
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\List_Collection\bin\Debug\net5.0\List_Collection.deps.json
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\List_Collection\bin\Debug\net5.0\List_Collection.runtimeconfig.json
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\List_Collection\bin\Debug\net5.0\List_Collection.runtimeconfig.dev.json
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\List_Collection\bin\Debug\net5.0\List_Collection.dll
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\List_Collection\bin\Debug\net5.0\ref\List_Collection.dll
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\List_Collection\bin\Debug\net5.0\List_Collection.pdb
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\List_Collection\obj\Debug\net5.0\List_Collection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\List_Collection\obj\Debug\net5.0\List_Collection.AssemblyInfoInputs.cache
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\List_Collection\obj\Debug\net5.0\List_Collection.AssemblyInfo.cs
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\List_Collection\obj\Debug\net5.0\List_Collection.csproj.CoreCompileInputs.cache
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\List_Collection\obj\Debug\net5.0\List_Collection.dll
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\List_Collection\obj\Debug\net5.0\ref\List_Collection.dll
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\List_Collection\obj\Debug\net5.0\List_Collection.pdb
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\List_Collection\obj\Debug\net5.0\List_Collection.genruntimeconfig.cache
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\List_Collection\obj\Debug\net5.0\List_Collection.csprojAssemblyReference.cache

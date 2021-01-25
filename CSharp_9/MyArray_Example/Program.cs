@@ -18,6 +18,7 @@ namespace MyArray_Example
             Console.WriteLine(myArray.Print("Test4: "));
 
             Console.WriteLine($"Count ={myArray.Count}");
+
             Console.WriteLine($"index=0:{myArray[0]}");
         }
     }
