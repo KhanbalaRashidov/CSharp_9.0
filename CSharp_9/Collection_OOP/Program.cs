@@ -34,7 +34,6 @@ namespace Collection_OOP
             return result;
         }
 
-
         static void Main(string[] args)
         {
             Console.WriteLine("Welcome Collection\n");
