@@ -143,6 +143,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Encapsulation_OOP", "Encaps
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodParametr_Class_and_Struct", "MethodParametr_Class_and_Struct\MethodParametr_Class_and_Struct.csproj", "{4AFF30E5-540F-4838-A710-1F5E362DAB35}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Collection_OOP", "Collection_OOP\Collection_OOP.csproj", "{F759CFE3-E4E4-4CE7-AD5E-3B22311398B9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -405,6 +407,10 @@ Global
 		{4AFF30E5-540F-4838-A710-1F5E362DAB35}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4AFF30E5-540F-4838-A710-1F5E362DAB35}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4AFF30E5-540F-4838-A710-1F5E362DAB35}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F759CFE3-E4E4-4CE7-AD5E-3B22311398B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F759CFE3-E4E4-4CE7-AD5E-3B22311398B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F759CFE3-E4E4-4CE7-AD5E-3B22311398B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F759CFE3-E4E4-4CE7-AD5E-3B22311398B9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -458,6 +464,7 @@ Global
 		{6B1C0322-11CF-41CB-9E55-C52C901D8DF5} = {6EF18532-956A-4A8A-B73F-1B9F9BCBB189}
 		{28470C43-C1E0-462D-ABFF-30AB8D5FAD70} = {6EF18532-956A-4A8A-B73F-1B9F9BCBB189}
 		{4AFF30E5-540F-4838-A710-1F5E362DAB35} = {6BD7B28D-F608-41B9-9181-D075371A03AE}
+		{F759CFE3-E4E4-4CE7-AD5E-3B22311398B9} = {6EF18532-956A-4A8A-B73F-1B9F9BCBB189}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {BC1AAF87-0C90-4FC0-88E2-732C9417AB94}

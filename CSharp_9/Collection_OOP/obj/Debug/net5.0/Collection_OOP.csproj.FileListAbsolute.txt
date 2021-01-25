@@ -1,0 +1,16 @@
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Collection_OOP\bin\Debug\net5.0\Collection_OOP.exe
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Collection_OOP\bin\Debug\net5.0\Collection_OOP.deps.json
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Collection_OOP\bin\Debug\net5.0\Collection_OOP.runtimeconfig.json
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Collection_OOP\bin\Debug\net5.0\Collection_OOP.runtimeconfig.dev.json
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Collection_OOP\bin\Debug\net5.0\Collection_OOP.dll
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Collection_OOP\bin\Debug\net5.0\ref\Collection_OOP.dll
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Collection_OOP\bin\Debug\net5.0\Collection_OOP.pdb
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Collection_OOP\obj\Debug\net5.0\Collection_OOP.csprojAssemblyReference.cache
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Collection_OOP\obj\Debug\net5.0\Collection_OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Collection_OOP\obj\Debug\net5.0\Collection_OOP.AssemblyInfoInputs.cache
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Collection_OOP\obj\Debug\net5.0\Collection_OOP.AssemblyInfo.cs
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Collection_OOP\obj\Debug\net5.0\Collection_OOP.csproj.CoreCompileInputs.cache
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Collection_OOP\obj\Debug\net5.0\Collection_OOP.dll
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Collection_OOP\obj\Debug\net5.0\ref\Collection_OOP.dll
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Collection_OOP\obj\Debug\net5.0\Collection_OOP.pdb
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Collection_OOP\obj\Debug\net5.0\Collection_OOP.genruntimeconfig.cache
