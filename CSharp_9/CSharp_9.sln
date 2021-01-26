@@ -155,6 +155,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "List_Example", "List_Exampl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dictionary_Collection", "Dictionary_Collection\Dictionary_Collection.csproj", "{054CC8AC-4FA2-4E70-B83D-776EB8E7D1E5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stack_Collection", "Stack_Collection\Stack_Collection.csproj", "{FFAD4272-2013-444E-824A-F726DC7E9CCB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -437,6 +439,10 @@ Global
 		{054CC8AC-4FA2-4E70-B83D-776EB8E7D1E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{054CC8AC-4FA2-4E70-B83D-776EB8E7D1E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{054CC8AC-4FA2-4E70-B83D-776EB8E7D1E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFAD4272-2013-444E-824A-F726DC7E9CCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFAD4272-2013-444E-824A-F726DC7E9CCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFAD4272-2013-444E-824A-F726DC7E9CCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFAD4272-2013-444E-824A-F726DC7E9CCB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -496,6 +502,7 @@ Global
 		{2EBF4C02-3BFD-45A3-B540-B47C7ED89C42} = {67F1F836-60F6-4997-A4C9-B7BCFD320C2D}
 		{1623CE75-152D-493F-AC25-CDB700F09CFB} = {67F1F836-60F6-4997-A4C9-B7BCFD320C2D}
 		{054CC8AC-4FA2-4E70-B83D-776EB8E7D1E5} = {67F1F836-60F6-4997-A4C9-B7BCFD320C2D}
+		{FFAD4272-2013-444E-824A-F726DC7E9CCB} = {67F1F836-60F6-4997-A4C9-B7BCFD320C2D}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {BC1AAF87-0C90-4FC0-88E2-732C9417AB94}

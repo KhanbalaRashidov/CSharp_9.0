@@ -46,7 +46,7 @@ namespace Dictionary_Collection
             Console.WriteLine("\n");
 
             //Prop Count -->  Gets the number of key/value pairs contained in the Dictionary<TKey,TValue>.
-            Console.WriteLine($"Элементов в словаре: {pairs.Count}"); // 3
+            Console.WriteLine($"Elements in the dictionary: {pairs.Count}"); // 3
             
             //Method Clear --> Removes all keys and values from the Dictionary<TKey,TValue>.
             pairs.Clear();             // Clear dictionary
