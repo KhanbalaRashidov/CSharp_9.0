@@ -10,16 +10,21 @@ namespace Dictionary_Collection
             Console.WriteLine("Welcome Dictionary\n");
 
             //Represents a collection of keys and values.
-            Dictionary<string, string> pairs = new Dictionary<string, string>();
-            //Method  Add -->  Adds the specified key and value to the dictionary.
-            pairs.Add("Muellim", "Teacher");
-            pairs.Add("Yoxla", "Check");
-            pairs.Add("Komputer", "Computer");
-            pairs.Add("Avtomobil", "Car");
+            Dictionary<string, string> pairs = new Dictionary<string, string>()
+            {
+                ["Insan"] = "Person",
+                ["Shagird"]="Student"
+            };
 
+            #region Struct
             //Struct KeyValuePair<string, string> -> Defines a key/value pair that can be set or retrieved.
             Console.WriteLine("\npairs");
             foreach (KeyValuePair<string, string> e in pairs) Console.WriteLine($"{e} ");      // Output of all pairs      
+            #endregion
+
+            #region Properties
+            //Prop Count -->  Gets the number of key/value pairs contained in the Dictionary<TKey,TValue>.
+            Console.WriteLine($"Elements in the dictionary: {pairs.Count}"); // 3
 
             //Prop [] --> Gets or sets the value associated with the specified key.
             Console.WriteLine($"\n\npairs[\"Muellim\"] = {pairs["Muellim"]}"); // Teacher
@@ -31,6 +36,13 @@ namespace Dictionary_Collection
             //Prop Values --> Gets a collection containing the values in the Dictionary<TKey,TValue>.
             Console.WriteLine("\n\npairs.Values");
             foreach (var e in pairs.Values) Console.Write($"{e} ");      // Outputting all keys
+            #endregion
+            #region Method 
+            //Method  Add -->  Adds the specified key and value to the dictionary.
+            pairs.Add("Muellim", "Teacher");
+            pairs.Add("Yoxla", "Check");
+            pairs.Add("Komputer", "Computer");
+            pairs.Add("Avtomobil", "Car");
 
             //Method ContainsKey --> Determines whether the Dictionary<TKey,TValue> contains the specified key.
             Console.WriteLine(pairs.ContainsKey("Muellim"));
@@ -45,13 +57,13 @@ namespace Dictionary_Collection
 
             Console.WriteLine("\n");
 
-            //Prop Count -->  Gets the number of key/value pairs contained in the Dictionary<TKey,TValue>.
-            Console.WriteLine($"Elements in the dictionary: {pairs.Count}"); // 3
+           
             
             //Method Clear --> Removes all keys and values from the Dictionary<TKey,TValue>.
             pairs.Clear();             // Clear dictionary
             Console.WriteLine("pairs.Clear(); completed");
             Console.WriteLine($"Elements in the dictionary: {pairs.Count}"); // 0
+            #endregion
         }
     }
 }

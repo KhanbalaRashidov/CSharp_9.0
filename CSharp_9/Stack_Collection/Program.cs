@@ -22,6 +22,12 @@ namespace Stack_Collection
                 Console.Write($"{number}\t");
             }
 
+            #region Property
+            //Prop Count --> Gets the number of elements contained in the Stack<T>.
+            Console.WriteLine($"Count={stack.Count}\n");
+            #endregion
+
+            #region Method 
             //Method Pop --> Removes and returns the object at the top of the Stack<T>.
             stack.Pop();
             Console.WriteLine("\nMethod Pop");
@@ -50,6 +56,7 @@ namespace Stack_Collection
             {
                 Console.Write($"{number}\t");
             }
+            #endregion
         }
     }
 }

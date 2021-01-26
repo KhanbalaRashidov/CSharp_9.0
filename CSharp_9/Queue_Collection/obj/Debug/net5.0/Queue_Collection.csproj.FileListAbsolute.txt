@@ -1,0 +1,15 @@
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Queue_Collection\bin\Debug\net5.0\Queue_Collection.exe
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Queue_Collection\bin\Debug\net5.0\Queue_Collection.deps.json
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Queue_Collection\bin\Debug\net5.0\Queue_Collection.runtimeconfig.json
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Queue_Collection\bin\Debug\net5.0\Queue_Collection.runtimeconfig.dev.json
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Queue_Collection\bin\Debug\net5.0\Queue_Collection.dll
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Queue_Collection\bin\Debug\net5.0\ref\Queue_Collection.dll
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Queue_Collection\bin\Debug\net5.0\Queue_Collection.pdb
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Queue_Collection\obj\Debug\net5.0\Queue_Collection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Queue_Collection\obj\Debug\net5.0\Queue_Collection.AssemblyInfoInputs.cache
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Queue_Collection\obj\Debug\net5.0\Queue_Collection.AssemblyInfo.cs
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Queue_Collection\obj\Debug\net5.0\Queue_Collection.csproj.CoreCompileInputs.cache
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Queue_Collection\obj\Debug\net5.0\Queue_Collection.dll
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Queue_Collection\obj\Debug\net5.0\ref\Queue_Collection.dll
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Queue_Collection\obj\Debug\net5.0\Queue_Collection.pdb
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Queue_Collection\obj\Debug\net5.0\Queue_Collection.genruntimeconfig.cache
