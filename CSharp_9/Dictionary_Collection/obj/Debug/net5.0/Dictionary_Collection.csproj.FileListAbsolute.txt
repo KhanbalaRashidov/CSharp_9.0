@@ -1,0 +1,16 @@
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Dictionary_Collection\bin\Debug\net5.0\Dictionary_Collection.exe
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Dictionary_Collection\bin\Debug\net5.0\Dictionary_Collection.deps.json
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Dictionary_Collection\bin\Debug\net5.0\Dictionary_Collection.runtimeconfig.json
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Dictionary_Collection\bin\Debug\net5.0\Dictionary_Collection.runtimeconfig.dev.json
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Dictionary_Collection\bin\Debug\net5.0\Dictionary_Collection.dll
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Dictionary_Collection\bin\Debug\net5.0\ref\Dictionary_Collection.dll
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Dictionary_Collection\bin\Debug\net5.0\Dictionary_Collection.pdb
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Dictionary_Collection\obj\Debug\net5.0\Dictionary_Collection.csprojAssemblyReference.cache
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Dictionary_Collection\obj\Debug\net5.0\Dictionary_Collection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Dictionary_Collection\obj\Debug\net5.0\Dictionary_Collection.AssemblyInfoInputs.cache
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Dictionary_Collection\obj\Debug\net5.0\Dictionary_Collection.AssemblyInfo.cs
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Dictionary_Collection\obj\Debug\net5.0\Dictionary_Collection.csproj.CoreCompileInputs.cache
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Dictionary_Collection\obj\Debug\net5.0\Dictionary_Collection.dll
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Dictionary_Collection\obj\Debug\net5.0\ref\Dictionary_Collection.dll
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Dictionary_Collection\obj\Debug\net5.0\Dictionary_Collection.pdb
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Dictionary_Collection\obj\Debug\net5.0\Dictionary_Collection.genruntimeconfig.cache
