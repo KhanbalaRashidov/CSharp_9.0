@@ -133,33 +133,35 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AccesModifier_OOP", "AccesM
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Constructor_OOP", "Constructor_OOP\Constructor_OOP.csproj", "{584DF099-A510-4C3E-95C1-28D0DDE4F571}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prop_OOP", "Prop_OOP\Prop_OOP.csproj", "{A2B996E2-F0A7-497E-957A-4EF72B474789}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Prop_OOP", "Prop_OOP\Prop_OOP.csproj", "{A2B996E2-F0A7-497E-957A-4EF72B474789}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Indexer_OOP", "Indexer_OOP\Indexer_OOP.csproj", "{A56B4A16-EBFB-49BE-A242-3B0224B732CE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Indexer_OOP", "Indexer_OOP\Indexer_OOP.csproj", "{A56B4A16-EBFB-49BE-A242-3B0224B732CE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example_OOP", "Example_OOP\Example_OOP.csproj", "{6B1C0322-11CF-41CB-9E55-C52C901D8DF5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Example_OOP", "Example_OOP\Example_OOP.csproj", "{6B1C0322-11CF-41CB-9E55-C52C901D8DF5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Encapsulation_OOP", "Encapsulation_OOP\Encapsulation_OOP.csproj", "{28470C43-C1E0-462D-ABFF-30AB8D5FAD70}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Encapsulation_OOP", "Encapsulation_OOP\Encapsulation_OOP.csproj", "{28470C43-C1E0-462D-ABFF-30AB8D5FAD70}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodParametr_Class_and_Struct", "MethodParametr_Class_and_Struct\MethodParametr_Class_and_Struct.csproj", "{4AFF30E5-540F-4838-A710-1F5E362DAB35}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MethodParametr_Class_and_Struct", "MethodParametr_Class_and_Struct\MethodParametr_Class_and_Struct.csproj", "{4AFF30E5-540F-4838-A710-1F5E362DAB35}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Collection_OOP", "Collection_OOP\Collection_OOP.csproj", "{F759CFE3-E4E4-4CE7-AD5E-3B22311398B9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Collection_OOP", "Collection_OOP\Collection_OOP.csproj", "{F759CFE3-E4E4-4CE7-AD5E-3B22311398B9}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Collections", "Collections", "{67F1F836-60F6-4997-A4C9-B7BCFD320C2D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyArray_Example", "MyArray_Example\MyArray_Example.csproj", "{E59EB2D6-2569-4398-AE2F-1992A670E6B2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyArray_Example", "MyArray_Example\MyArray_Example.csproj", "{E59EB2D6-2569-4398-AE2F-1992A670E6B2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "List_Collection", "List_Collection\List_Collection.csproj", "{2EBF4C02-3BFD-45A3-B540-B47C7ED89C42}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "List_Collection", "List_Collection\List_Collection.csproj", "{2EBF4C02-3BFD-45A3-B540-B47C7ED89C42}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "List_Example", "List_Example\List_Example.csproj", "{1623CE75-152D-493F-AC25-CDB700F09CFB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "List_Example", "List_Example\List_Example.csproj", "{1623CE75-152D-493F-AC25-CDB700F09CFB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dictionary_Collection", "Dictionary_Collection\Dictionary_Collection.csproj", "{054CC8AC-4FA2-4E70-B83D-776EB8E7D1E5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dictionary_Collection", "Dictionary_Collection\Dictionary_Collection.csproj", "{054CC8AC-4FA2-4E70-B83D-776EB8E7D1E5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stack_Collection", "Stack_Collection\Stack_Collection.csproj", "{FFAD4272-2013-444E-824A-F726DC7E9CCB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Stack_Collection", "Stack_Collection\Stack_Collection.csproj", "{FFAD4272-2013-444E-824A-F726DC7E9CCB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Queue_Collection", "Queue_Collection\Queue_Collection.csproj", "{0FC88538-9447-4DB6-82EC-3A1887F50626}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Queue_Collection", "Queue_Collection\Queue_Collection.csproj", "{0FC88538-9447-4DB6-82EC-3A1887F50626}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HashSet_Collection", "HashSet_Collection\HashSet_Collection.csproj", "{B5683D8B-29A8-4D6D-8D5D-42FC04C086EA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HashSet_Collection", "HashSet_Collection\HashSet_Collection.csproj", "{B5683D8B-29A8-4D6D-8D5D-42FC04C086EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dictionary_Example", "Dictionary_Example\Dictionary_Example.csproj", "{10DBE479-D430-42F3-B2E8-3BB07EE6AC4E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -455,6 +457,10 @@ Global
 		{B5683D8B-29A8-4D6D-8D5D-42FC04C086EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B5683D8B-29A8-4D6D-8D5D-42FC04C086EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B5683D8B-29A8-4D6D-8D5D-42FC04C086EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10DBE479-D430-42F3-B2E8-3BB07EE6AC4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10DBE479-D430-42F3-B2E8-3BB07EE6AC4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10DBE479-D430-42F3-B2E8-3BB07EE6AC4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10DBE479-D430-42F3-B2E8-3BB07EE6AC4E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -517,6 +523,7 @@ Global
 		{FFAD4272-2013-444E-824A-F726DC7E9CCB} = {67F1F836-60F6-4997-A4C9-B7BCFD320C2D}
 		{0FC88538-9447-4DB6-82EC-3A1887F50626} = {67F1F836-60F6-4997-A4C9-B7BCFD320C2D}
 		{B5683D8B-29A8-4D6D-8D5D-42FC04C086EA} = {67F1F836-60F6-4997-A4C9-B7BCFD320C2D}
+		{10DBE479-D430-42F3-B2E8-3BB07EE6AC4E} = {67F1F836-60F6-4997-A4C9-B7BCFD320C2D}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {BC1AAF87-0C90-4FC0-88E2-732C9417AB94}
