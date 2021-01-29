@@ -63,20 +63,20 @@ namespace XML_Serialization
             Console.WriteLine("Welcome XML Serialization\n");
 
             #region Worker
-            //Worker worker = new Worker("Khanbala", "Rashidov", "Developer", "IT", 2000);
-            //WorkerSerialize(worker, @"_khanbala.xml");
+            Worker worker = new Worker("Khanbala", "Rashidov", "Developer", "IT", 2000);
+            WorkerSerialize(worker, @"_khanbala.xml");
 
-            //Console.WriteLine(worker.Print());
+            Console.WriteLine(worker.Print());
 
-            //Console.WriteLine(WorkerDeserialize(@"_khanbala.xml").Print());
+            Console.WriteLine(WorkerDeserialize(@"_khanbala.xml").Print());
             #endregion
             #region List Worker
-            //List<Worker> list = new List<Worker>();
-            //for (int i = 1; i <=5; i++)
-            //{
-            //    list.Add(new Worker($"FirstName{i}", $"LastName{i}", $"Positon{i}", $"Departament{i}", 1000 + i));
-            //}
-            //WorkerListSerialize(list, @"_listKhanbala.xml");
+            List<Worker> list = new List<Worker>();
+            for (int i = 1; i <= 5; i++)
+            {
+                list.Add(new Worker($"FirstName{i}", $"LastName{i}", $"Positon{i}", $"Departament{i}", 1000 + i));
+            }
+            WorkerListSerialize(list, @"_listKhanbala.xml");
 
             List<Worker> workers = WorkerListDeserialize(@"_listKhanbala.xml");
             foreach (var item in workers)

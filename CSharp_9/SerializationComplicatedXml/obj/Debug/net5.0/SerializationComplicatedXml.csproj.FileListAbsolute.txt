@@ -1,0 +1,16 @@
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\SerializationComplicatedXml\bin\Debug\net5.0\SerializationComplicatedXml.exe
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\SerializationComplicatedXml\bin\Debug\net5.0\SerializationComplicatedXml.deps.json
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\SerializationComplicatedXml\bin\Debug\net5.0\SerializationComplicatedXml.runtimeconfig.json
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\SerializationComplicatedXml\bin\Debug\net5.0\SerializationComplicatedXml.runtimeconfig.dev.json
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\SerializationComplicatedXml\bin\Debug\net5.0\SerializationComplicatedXml.dll
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\SerializationComplicatedXml\bin\Debug\net5.0\ref\SerializationComplicatedXml.dll
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\SerializationComplicatedXml\bin\Debug\net5.0\SerializationComplicatedXml.pdb
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\SerializationComplicatedXml\obj\Debug\net5.0\SerializationComplicatedXml.csprojAssemblyReference.cache
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\SerializationComplicatedXml\obj\Debug\net5.0\SerializationComplicatedXml.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\SerializationComplicatedXml\obj\Debug\net5.0\SerializationComplicatedXml.AssemblyInfoInputs.cache
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\SerializationComplicatedXml\obj\Debug\net5.0\SerializationComplicatedXml.AssemblyInfo.cs
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\SerializationComplicatedXml\obj\Debug\net5.0\SerializationComplicatedXml.csproj.CoreCompileInputs.cache
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\SerializationComplicatedXml\obj\Debug\net5.0\SerializationComplicatedXml.dll
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\SerializationComplicatedXml\obj\Debug\net5.0\ref\SerializationComplicatedXml.dll
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\SerializationComplicatedXml\obj\Debug\net5.0\SerializationComplicatedXml.pdb
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\SerializationComplicatedXml\obj\Debug\net5.0\SerializationComplicatedXml.genruntimeconfig.cache
