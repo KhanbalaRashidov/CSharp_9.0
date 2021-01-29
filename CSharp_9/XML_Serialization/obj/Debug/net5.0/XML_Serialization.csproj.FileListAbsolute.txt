@@ -1,0 +1,16 @@
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\XML_Serialization\bin\Debug\net5.0\XML_Serialization.exe
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\XML_Serialization\bin\Debug\net5.0\XML_Serialization.deps.json
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\XML_Serialization\bin\Debug\net5.0\XML_Serialization.runtimeconfig.json
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\XML_Serialization\bin\Debug\net5.0\XML_Serialization.runtimeconfig.dev.json
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\XML_Serialization\bin\Debug\net5.0\XML_Serialization.dll
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\XML_Serialization\bin\Debug\net5.0\ref\XML_Serialization.dll
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\XML_Serialization\bin\Debug\net5.0\XML_Serialization.pdb
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\XML_Serialization\obj\Debug\net5.0\XML_Serialization.csprojAssemblyReference.cache
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\XML_Serialization\obj\Debug\net5.0\XML_Serialization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\XML_Serialization\obj\Debug\net5.0\XML_Serialization.AssemblyInfoInputs.cache
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\XML_Serialization\obj\Debug\net5.0\XML_Serialization.AssemblyInfo.cs
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\XML_Serialization\obj\Debug\net5.0\XML_Serialization.csproj.CoreCompileInputs.cache
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\XML_Serialization\obj\Debug\net5.0\XML_Serialization.dll
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\XML_Serialization\obj\Debug\net5.0\ref\XML_Serialization.dll
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\XML_Serialization\obj\Debug\net5.0\XML_Serialization.pdb
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\XML_Serialization\obj\Debug\net5.0\XML_Serialization.genruntimeconfig.cache
