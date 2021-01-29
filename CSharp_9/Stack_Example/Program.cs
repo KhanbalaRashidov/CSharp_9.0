@@ -59,7 +59,7 @@ namespace Stack_Example
 
             foreach (var item in operations) Console.WriteLine(item);
 
-            Console.WriteLine($"Фактический результат: {numbers.Pop()}"); // The only item in the number stack is the answer
+            Console.WriteLine($"Result: {numbers.Pop()}"); // The only item in the number stack is the answer
 
         }
     }

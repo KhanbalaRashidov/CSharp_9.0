@@ -8,12 +8,13 @@ namespace HashSet_Collection
         {
             Console.WriteLine("Welcome HashSet!");
             //HashSet<T> -->Represents a set of values.
-            HashSet<int> hashset = new HashSet<int>(new int[] { 1, 2, 3, 4, 5, 6, 7, 8 ,9,10});
+            HashSet<int> hashset = new HashSet<int>(new int[] { 1,1, 2,2, 3, 4, 5,5, 6, 7,7, 8 ,9,9,10,10});
             foreach (var item in hashset)
             {
                 Console.WriteLine($"{item}");
             }
             // Add - Adds the specified element to a set.
+            Console.WriteLine("\nAdd element 11\n");
             hashset.Add(11);
             foreach (var item in hashset)
             {
@@ -21,6 +22,7 @@ namespace HashSet_Collection
             }
             Console.WriteLine();
             // Remove - Removes the specified element from a HashSet<T> object.
+            Console.WriteLine("\nRemove element 11\n");
             hashset.Remove(11);
             foreach (var item in hashset)
             {
@@ -29,7 +31,8 @@ namespace HashSet_Collection
             // Contains - Determines whether a HashSet<T> object contains the specified element.
             Console.WriteLine(hashset.Contains(1));
             // UnionWith - Modifies the current HashSet<T> object to contain all elements that are present in itself, the specified collection, or both.
-            hashset.UnionWith(new int[] { 2, 3, 4, 5, 6, 7, 8, 9, 10 });
+            Console.WriteLine("\nUnionWith Method\n");
+            hashset.UnionWith(new int[] { 11,12,13,14,15,16,17,18,19,19 });
             foreach (var item in hashset)
             {
                 Console.WriteLine($"{item}");
@@ -38,7 +41,7 @@ namespace HashSet_Collection
 
             // IntersectWith - Modifies the current HashSet<T> object to contain only elements that are present in that object and in the specified collection.
             Console.WriteLine("IntersecWith method");
-            hashset.IntersectWith(new int[] { 1, 2, 3, 3, 4, 4, 5, 6 });
+            hashset.IntersectWith(new int[] {1,2,3,4,5,6,7,8,9,10});
             foreach (var item in hashset)
             {
                 Console.WriteLine($"{item}");

@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-class Example
+class Program
 {
     public static void Main()
     {
@@ -55,5 +55,12 @@ class Example
         Console.WriteLine("\nqueueCopy.Clear()");
         queueCopy.Clear();
         Console.WriteLine("\nqueueCopy.Count = {0}", queueCopy.Count);
+
+       
+
+       
+
+
+       
     }
 }

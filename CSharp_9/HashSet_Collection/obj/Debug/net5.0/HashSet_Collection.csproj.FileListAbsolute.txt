@@ -1,0 +1,16 @@
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\HashSet_Collection\bin\Debug\net5.0\HashSet_Collection.exe
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\HashSet_Collection\bin\Debug\net5.0\HashSet_Collection.deps.json
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\HashSet_Collection\bin\Debug\net5.0\HashSet_Collection.runtimeconfig.json
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\HashSet_Collection\bin\Debug\net5.0\HashSet_Collection.runtimeconfig.dev.json
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\HashSet_Collection\bin\Debug\net5.0\HashSet_Collection.dll
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\HashSet_Collection\bin\Debug\net5.0\ref\HashSet_Collection.dll
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\HashSet_Collection\bin\Debug\net5.0\HashSet_Collection.pdb
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\HashSet_Collection\obj\Debug\net5.0\HashSet_Collection.csprojAssemblyReference.cache
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\HashSet_Collection\obj\Debug\net5.0\HashSet_Collection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\HashSet_Collection\obj\Debug\net5.0\HashSet_Collection.AssemblyInfoInputs.cache
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\HashSet_Collection\obj\Debug\net5.0\HashSet_Collection.AssemblyInfo.cs
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\HashSet_Collection\obj\Debug\net5.0\HashSet_Collection.csproj.CoreCompileInputs.cache
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\HashSet_Collection\obj\Debug\net5.0\HashSet_Collection.dll
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\HashSet_Collection\obj\Debug\net5.0\ref\HashSet_Collection.dll
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\HashSet_Collection\obj\Debug\net5.0\HashSet_Collection.pdb
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\HashSet_Collection\obj\Debug\net5.0\HashSet_Collection.genruntimeconfig.cache
