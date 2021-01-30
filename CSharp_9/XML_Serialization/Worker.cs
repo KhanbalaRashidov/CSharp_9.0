@@ -3,9 +3,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Xml.Serialization;
 
 namespace XML_Serialization
 {
+    
     public struct Worker
     {
         #region Constructor
@@ -21,6 +23,7 @@ namespace XML_Serialization
         #endregion
 
         #region Properties
+       
         public string FirstName
         {
 
@@ -33,6 +36,7 @@ namespace XML_Serialization
                 this.firstName = value;
             }
         }
+        
         public string LastName
         {
             get
@@ -44,6 +48,7 @@ namespace XML_Serialization
                 this.lastName = value;
             }
         }
+       
         public string Position
         {
             get
@@ -55,6 +60,7 @@ namespace XML_Serialization
                 this.position = value;
             }
         }
+       
         public string Departament
         {
             get
@@ -66,6 +72,7 @@ namespace XML_Serialization
                 this.departament = value;
             }
         }
+        
         public int Salary
         {
             get
@@ -98,14 +105,15 @@ namespace XML_Serialization
         #endregion
 
         #region field
+       
         public string firstName;
-
+        
         public string lastName;
-
+        
         public string position;
-
+        
         public string departament;
-
+       
         public int salary;
         #endregion
     }

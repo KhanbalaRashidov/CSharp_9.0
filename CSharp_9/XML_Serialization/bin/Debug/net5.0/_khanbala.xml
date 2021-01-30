@@ -10,4 +10,16 @@
   <Position>Developer</Position>
   <Departament>IT</Departament>
   <Salary>2000</Salary>
+</Worker><?xml version="1.0"?>
+<Worker xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <firstName>Khanbala</firstName>
+  <lastName>Rashidov</lastName>
+  <position>Developer</position>
+  <departament>IT</departament>
+  <salary>2000</salary>
+  <FirstName>Khanbala</FirstName>
+  <LastName>Rashidov</LastName>
+  <Position>Developer</Position>
+  <Departament>IT</Departament>
+  <Salary>2000</Salary>
 </Worker>

@@ -34,7 +34,7 @@ namespace JSON_Serialization
 
             foreach (var item in list)
             {
-                Console.Write($"{item.FirstName}\t");
+                Console.Write($"{item.Print()}\n");
             }
         }
     }
