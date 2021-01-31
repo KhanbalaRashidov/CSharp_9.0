@@ -3,6 +3,7 @@ using Newtonsoft.Json;
 using System.IO;
 using System.Collections.Generic;
 
+
 namespace JSON_Serialization
 {
     class Program
@@ -35,7 +36,12 @@ namespace JSON_Serialization
             foreach (var item in list)
             {
                 Console.Write($"{item.Print()}\n");
+                Console.WriteLine($"\n{item.firstName,15} {item.lastName,15} {item.position,15} {item.departament,15} {item.salary,10}\n");
             }
+
+            string name = "Khanbala";
+            Console.WriteLine(name.Substring(0,4));
+            
         }
     }
 }
