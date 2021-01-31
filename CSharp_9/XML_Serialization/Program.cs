@@ -10,9 +10,9 @@ namespace XML_Serialization
         static void WorkerSerialize(Worker CurrentWorker, string Path)
         {
             //Open or create stream
-            FileStream fileStream = new FileStream(Path, FileMode.Append, FileAccess.Write);
+            FileStream fileStream = new(Path, FileMode.Append, FileAccess.Write);
             //create serializer type
-            XmlSerializer xmlSerializer = new XmlSerializer(typeof(Worker));
+            XmlSerializer xmlSerializer = new (typeof(Worker));
             //serializer data
             xmlSerializer.Serialize(fileStream, CurrentWorker);
             //close stream
@@ -21,11 +21,11 @@ namespace XML_Serialization
         }
         static Worker WorkerDeserialize(string Path)
         {
-            Worker deserializerWororker = new Worker();
+            Worker deserializerWororker = new();
 
-            FileStream fileStream = new FileStream(Path, FileMode.Open, FileAccess.Read);
+            FileStream fileStream = new(Path, FileMode.Open, FileAccess.Read);
 
-            XmlSerializer xmlSerializer = new XmlSerializer(typeof(Worker));
+            XmlSerializer xmlSerializer = new(typeof(Worker));
 
             deserializerWororker = (Worker)xmlSerializer.Deserialize(fileStream) ;
             fileStream.Close();
@@ -36,9 +36,9 @@ namespace XML_Serialization
         static void WorkerListSerialize(List<Worker> CurrentWorkerList,string Path)
         {
             //Open or create stream
-            FileStream fileStream = new FileStream(Path, FileMode.Append, FileAccess.Write);
+            FileStream fileStream = new(Path, FileMode.Append, FileAccess.Write);
             //create serializer type
-            XmlSerializer xmlSerializer = new XmlSerializer(typeof(List<Worker>));
+            XmlSerializer xmlSerializer = new(typeof(List<Worker>));
             //serializer data
             xmlSerializer.Serialize(fileStream, CurrentWorkerList);
             //close stream
@@ -46,11 +46,11 @@ namespace XML_Serialization
         }
         static List<Worker> WorkerListDeserialize(string Path)
         {
-            List<Worker> deserializerWororkerList = new List<Worker>();
+            List<Worker> deserializerWororkerList = new();
 
-            FileStream fileStream = new FileStream(Path,FileMode.Open,FileAccess.Read);
+            FileStream fileStream = new(Path,FileMode.Open,FileAccess.Read);
 
-            XmlSerializer xmlSerializer = new XmlSerializer(typeof(List<Worker>));
+            XmlSerializer xmlSerializer = new(typeof(List<Worker>));
 
             deserializerWororkerList =(List<Worker>)xmlSerializer.Deserialize(fileStream);
             fileStream.Close();
@@ -63,7 +63,7 @@ namespace XML_Serialization
             Console.WriteLine("Welcome XML Serialization\n");
 
             #region Worker
-            Worker worker = new Worker("Khanbala", "Rashidov", "Developer", "IT", 2000);
+            Worker worker = new("Khanbala", "Rashidov", "Developer", "IT", 2000);
             WorkerSerialize(worker, @"_khanbala.xml");
 
             Console.WriteLine(worker.Print());
@@ -71,10 +71,10 @@ namespace XML_Serialization
             Console.WriteLine(WorkerDeserialize(@"_khanbala.xml").Print());
             #endregion
             #region List Worker
-            List<Worker> list = new List<Worker>();
+            List<Worker> list = new();
             for (int i = 1; i <= 5; i++)
             {
-                list.Add(new Worker($"FirstName{i}", $"LastName{i}", $"Positon{i}", $"Departament{i}", 1000 + i));
+                list.Add(new($"FirstName{i}", $"LastName{i}", $"Positon{i}", $"Departament{i}", 1000 + i));
             }
             WorkerListSerialize(list, @"_listKhanbala.xml");
 

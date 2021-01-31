@@ -61,18 +61,18 @@ namespace SerializationComplicatedXml
 
             #region XDocument.Create
 
-            XElement myMMWEATHER = new XElement("MMWEATHER");
-            XElement myTOWN = new XElement("TOWN");
-            XElement myFORECAST = new XElement("FORECAST");
-            XElement myTEMPERATURE = new XElement("TEMPERATURE");
+            XElement myMMWEATHER = new("MMWEATHER");
+            XElement myTOWN = new("TOWN");
+            XElement myFORECAST = new("FORECAST");
+            XElement myTEMPERATURE = new("TEMPERATURE");
 
-            XAttribute xAttributeMin = new XAttribute("min", 7);
-            XAttribute xAttributeMax = new XAttribute("max", 10);
+            XAttribute xAttributeMin = new("min", 7);
+            XAttribute xAttributeMax = new("max", 10);
 
             myTEMPERATURE.Add(xAttributeMin, xAttributeMax);
             myFORECAST.Add(myTEMPERATURE);
 
-            XAttribute xAttributeCityName = new XAttribute("sname", "Baku");
+            XAttribute xAttributeCityName = new("sname", "Baku");
 
 
             myTOWN.Add(myFORECAST, xAttributeCityName);

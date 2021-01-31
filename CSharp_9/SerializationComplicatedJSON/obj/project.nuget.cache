@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gfSS2RUQ9y3wMsojgwITTM9SwIZzzaR7R9495uepZnGYjd5O7JoEy7ffGXGfAIZiN8J7d6NrpFxqkFOyc/A2MQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Xanish\\Desktop\\Khanbala_Rashidov\\CSharp_9.0\\CSharp_9\\SerializationComplicatedJSON\\SerializationComplicatedJSON.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Xanish\\.nuget\\packages\\newtonsoft.json\\13.0.1-beta1\\newtonsoft.json.13.0.1-beta1.nupkg.sha512"
+  ],
+  "logs": []
+}

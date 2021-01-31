@@ -171,11 +171,13 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Serialization", "Serializat
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Serialization_Intro", "Serialization_Intro\Serialization_Intro.csproj", "{DF02D05B-88C6-49B5-8FBF-BB942B7EB4D7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XML_Serialization", "XML_Serialization\XML_Serialization.csproj", "{BA2CBEBB-34E8-4DE6-8F62-51910C9A42D8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "XML_Serialization", "XML_Serialization\XML_Serialization.csproj", "{BA2CBEBB-34E8-4DE6-8F62-51910C9A42D8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerializationComplicatedXml", "SerializationComplicatedXml\SerializationComplicatedXml.csproj", "{E838D2F1-7CBB-43B3-971F-B59C11DD0EB3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SerializationComplicatedXml", "SerializationComplicatedXml\SerializationComplicatedXml.csproj", "{E838D2F1-7CBB-43B3-971F-B59C11DD0EB3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JSON_Serialization", "JSON_Serialization\JSON_Serialization.csproj", "{B197B72A-F669-470C-ACFC-EAF52F495287}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JSON_Serialization", "JSON_Serialization\JSON_Serialization.csproj", "{B197B72A-F669-470C-ACFC-EAF52F495287}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerializationComplicatedJSON", "SerializationComplicatedJSON\SerializationComplicatedJSON.csproj", "{667501F2-8D98-46B6-B364-8348973CCDD5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -499,6 +501,10 @@ Global
 		{B197B72A-F669-470C-ACFC-EAF52F495287}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B197B72A-F669-470C-ACFC-EAF52F495287}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B197B72A-F669-470C-ACFC-EAF52F495287}.Release|Any CPU.Build.0 = Release|Any CPU
+		{667501F2-8D98-46B6-B364-8348973CCDD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{667501F2-8D98-46B6-B364-8348973CCDD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{667501F2-8D98-46B6-B364-8348973CCDD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{667501F2-8D98-46B6-B364-8348973CCDD5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -567,6 +573,7 @@ Global
 		{BA2CBEBB-34E8-4DE6-8F62-51910C9A42D8} = {D14D3E17-B271-4B43-8453-9C0704FE635E}
 		{E838D2F1-7CBB-43B3-971F-B59C11DD0EB3} = {D14D3E17-B271-4B43-8453-9C0704FE635E}
 		{B197B72A-F669-470C-ACFC-EAF52F495287} = {D14D3E17-B271-4B43-8453-9C0704FE635E}
+		{667501F2-8D98-46B6-B364-8348973CCDD5} = {D14D3E17-B271-4B43-8453-9C0704FE635E}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {BC1AAF87-0C90-4FC0-88E2-732C9417AB94}
