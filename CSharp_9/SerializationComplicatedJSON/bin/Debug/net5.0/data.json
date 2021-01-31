@@ -1,142 +1,142 @@
 {
   "data": [
     {
-      "First_Name": "FirstName_1",
-      "Last_Name": "LastName_1",
-      "Positon": "Position_1",
+      "FirstName": "FirstName_1",
+      "LastName": "LastName_1",
+      "Position": "Position_1",
       "Departament": "Departament_1",
       "Salary": 1000
     },
     {
-      "First_Name": "FirstName_2",
-      "Last_Name": "LastName_2",
-      "Positon": "Position_2",
+      "FirstName": "FirstName_2",
+      "LastName": "LastName_2",
+      "Position": "Position_2",
       "Departament": "Departament_2",
       "Salary": 2000
     },
     {
-      "First_Name": "FirstName_3",
-      "Last_Name": "LastName_3",
-      "Positon": "Position_3",
+      "FirstName": "FirstName_3",
+      "LastName": "LastName_3",
+      "Position": "Position_3",
       "Departament": "Departament_3",
       "Salary": 3000
     },
     {
-      "First_Name": "FirstName_4",
-      "Last_Name": "LastName_4",
-      "Positon": "Position_4",
+      "FirstName": "FirstName_4",
+      "LastName": "LastName_4",
+      "Position": "Position_4",
       "Departament": "Departament_4",
       "Salary": 4000
     },
     {
-      "First_Name": "FirstName_5",
-      "Last_Name": "LastName_5",
-      "Positon": "Position_5",
+      "FirstName": "FirstName_5",
+      "LastName": "LastName_5",
+      "Position": "Position_5",
       "Departament": "Departament_5",
       "Salary": 5000
     },
     {
-      "First_Name": "FirstName_6",
-      "Last_Name": "LastName_6",
-      "Positon": "Position_6",
+      "FirstName": "FirstName_6",
+      "LastName": "LastName_6",
+      "Position": "Position_6",
       "Departament": "Departament_6",
       "Salary": 6000
     },
     {
-      "First_Name": "FirstName_7",
-      "Last_Name": "LastName_7",
-      "Positon": "Position_7",
+      "FirstName": "FirstName_7",
+      "LastName": "LastName_7",
+      "Position": "Position_7",
       "Departament": "Departament_7",
       "Salary": 7000
     },
     {
-      "First_Name": "FirstName_8",
-      "Last_Name": "LastName_8",
-      "Positon": "Position_8",
+      "FirstName": "FirstName_8",
+      "LastName": "LastName_8",
+      "Position": "Position_8",
       "Departament": "Departament_8",
       "Salary": 8000
     },
     {
-      "First_Name": "FirstName_9",
-      "Last_Name": "LastName_9",
-      "Positon": "Position_9",
+      "FirstName": "FirstName_9",
+      "LastName": "LastName_9",
+      "Position": "Position_9",
       "Departament": "Departament_9",
       "Salary": 9000
     },
     {
-      "First_Name": "FirstName_10",
-      "Last_Name": "LastName_10",
-      "Positon": "Position_10",
+      "FirstName": "FirstName_10",
+      "LastName": "LastName_10",
+      "Position": "Position_10",
       "Departament": "Departament_10",
       "Salary": 10000
     },
     {
-      "First_Name": "FirstName_11",
-      "Last_Name": "LastName_11",
-      "Positon": "Position_11",
+      "FirstName": "FirstName_11",
+      "LastName": "LastName_11",
+      "Position": "Position_11",
       "Departament": "Departament_11",
       "Salary": 11000
     },
     {
-      "First_Name": "FirstName_12",
-      "Last_Name": "LastName_12",
-      "Positon": "Position_12",
+      "FirstName": "FirstName_12",
+      "LastName": "LastName_12",
+      "Position": "Position_12",
       "Departament": "Departament_12",
       "Salary": 12000
     },
     {
-      "First_Name": "FirstName_13",
-      "Last_Name": "LastName_13",
-      "Positon": "Position_13",
+      "FirstName": "FirstName_13",
+      "LastName": "LastName_13",
+      "Position": "Position_13",
       "Departament": "Departament_13",
       "Salary": 13000
     },
     {
-      "First_Name": "FirstName_14",
-      "Last_Name": "LastName_14",
-      "Positon": "Position_14",
+      "FirstName": "FirstName_14",
+      "LastName": "LastName_14",
+      "Position": "Position_14",
       "Departament": "Departament_14",
       "Salary": 14000
     },
     {
-      "First_Name": "FirstName_15",
-      "Last_Name": "LastName_15",
-      "Positon": "Position_15",
+      "FirstName": "FirstName_15",
+      "LastName": "LastName_15",
+      "Position": "Position_15",
       "Departament": "Departament_15",
       "Salary": 15000
     },
     {
-      "First_Name": "FirstName_16",
-      "Last_Name": "LastName_16",
-      "Positon": "Position_16",
+      "FirstName": "FirstName_16",
+      "LastName": "LastName_16",
+      "Position": "Position_16",
       "Departament": "Departament_16",
       "Salary": 16000
     },
     {
-      "First_Name": "FirstName_17",
-      "Last_Name": "LastName_17",
-      "Positon": "Position_17",
+      "FirstName": "FirstName_17",
+      "LastName": "LastName_17",
+      "Position": "Position_17",
       "Departament": "Departament_17",
       "Salary": 17000
     },
     {
-      "First_Name": "FirstName_18",
-      "Last_Name": "LastName_18",
-      "Positon": "Position_18",
+      "FirstName": "FirstName_18",
+      "LastName": "LastName_18",
+      "Position": "Position_18",
       "Departament": "Departament_18",
       "Salary": 18000
     },
     {
-      "First_Name": "FirstName_19",
-      "Last_Name": "LastName_19",
-      "Positon": "Position_19",
+      "FirstName": "FirstName_19",
+      "LastName": "LastName_19",
+      "Position": "Position_19",
       "Departament": "Departament_19",
       "Salary": 19000
     },
     {
-      "First_Name": "FirstName_20",
-      "Last_Name": "LastName_20",
-      "Positon": "Position_20",
+      "FirstName": "FirstName_20",
+      "LastName": "LastName_20",
+      "Position": "Position_20",
       "Departament": "Departament_20",
       "Salary": 20000
     }

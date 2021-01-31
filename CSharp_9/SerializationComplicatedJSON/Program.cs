@@ -64,9 +64,9 @@ namespace SerializationComplicatedJSON
             for (int i = 1; i <= 20; i++)
             {
                 JObject obj = new();
-                obj["First_Name"] = $"FirstName_{i}";
-                obj["Last_Name"] = $"LastName_{i}";
-                obj["Positon"] = $"Position_{i}";
+                obj["FirstName"] = $"FirstName_{i}";
+                obj["LastName"] = $"LastName_{i}";
+                obj["Position"] = $"Position_{i}";
                 obj["Departament"] = $"Departament_{i}";
                 obj["Salary"] = i * 1000;
                 jArray.Add(obj);
@@ -97,7 +97,14 @@ namespace SerializationComplicatedJSON
                 }
             }
 
-
+            Console.ReadKey(); Console.Clear();
+            Console.WriteLine("List<Worker>");
+            
+            list = jArray.ToObject<List<Worker>>();
+            foreach (var item in list)
+            {
+                Console.WriteLine(item.Print());
+            }
 
         }
     }
