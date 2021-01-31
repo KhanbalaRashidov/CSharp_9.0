@@ -13,7 +13,7 @@ namespace Method_returnType
         
         static string GetRandomHi()
         {
-            Random random = new Random();
+            Random random = new ();
             string text = string.Empty;
             switch (random.Next(4))
             {

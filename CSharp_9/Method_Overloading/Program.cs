@@ -8,7 +8,7 @@ namespace Method_Overloading
 
         static void Fill(int[] arr)
         {
-            Random random = new Random();
+            Random random = new ();
             for (int i = 0; i < arr.Length; i++)
             {
                 arr[i] = random.Next(10);
@@ -16,7 +16,7 @@ namespace Method_Overloading
         }
         static void Fill(int[] arr,int count)
         {
-            Random random = new Random();
+            Random random = new ();
             for (int i = 0; i < count; i++)
             {
                 arr[i] = random.Next(10);
@@ -24,7 +24,7 @@ namespace Method_Overloading
         }
         static void Fill(int[] arr, int bottomRange,int upperRange )
         {
-            Random random = new Random();
+            Random random = new ();
             for (int i = 0; i < arr.Length; i++)
             {
                 arr[i] = random.Next(bottomRange,upperRange);
@@ -32,7 +32,7 @@ namespace Method_Overloading
         }
         static void Fill(int[] arr,int count,int bottomRange,int upperRange)
         {
-            Random random = new Random();
+            Random random = new ();
             for (int i = 0; i < count; i++)
             {
                 arr[i] = random.Next(bottomRange,upperRange);

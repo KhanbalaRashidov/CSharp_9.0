@@ -32,7 +32,7 @@ namespace Method_returnType_Example
 
         static void Fill(int[] arr)
         {
-            Random random = new Random();
+            Random random = new ();
             for (int i = 0; i < arr.Length; i++)
             {
                 arr[i] = random.Next(10);
@@ -97,7 +97,7 @@ namespace Method_returnType_Example
             Console.WriteLine();
             #endregion
             #region Example 2
-            Random random = new Random();
+            Random random = new ();
             int n = random.Next(10, 21);
             int[] arrA = new int[n];
             Fill(arrA);

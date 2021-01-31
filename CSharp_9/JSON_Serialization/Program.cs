@@ -20,7 +20,7 @@ namespace JSON_Serialization
             var deserializeWorker = JsonConvert.DeserializeObject<Worker>(jsonDeserialize);
             Console.WriteLine(deserializeWorker.Print());
 
-            List<Worker> list = new List<Worker>();
+            List<Worker> list = new();
             for (int i = 1; i <= 5; i++)
             {
                 list.Add(new($"FirstName{i}", $"LastName{i}", $"Position{i}", $"Position{i}", 1000 + i));

@@ -34,7 +34,7 @@ namespace Example_OOP
 
         public void Load()
         {
-            using (StreamReader sr=new StreamReader(this.path))
+            using (StreamReader sr=new (this.path))
             {
                 titles = sr.ReadLine().Split(',');
 

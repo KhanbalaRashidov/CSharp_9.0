@@ -9,12 +9,12 @@ namespace Indexer_OOP
             Console.WriteLine("Welcome  Indexer\n");
 
             #region Repository1
-            Repository1 repository1 = new Repository1(
+            Repository1 repository1 = new (
 
-                new Worker("Name_1", "Position_1", 1000),
-                new Worker("Name_2", "Position_2", 1500),
-                new Worker("Name_3", "Position_3", 2000),
-                new Worker("Name_4", "Position_4", 2500)
+                new ("Name_1", "Position_1", 1000),
+                new ("Name_2", "Position_2", 1500),
+                new ("Name_3", "Position_3", 2000),
+                new ("Name_4", "Position_4", 2500)
                 );
             Console.WriteLine("Repository1 with indexer\n");
             Console.WriteLine(repository1.Workers[0].Print());
@@ -25,12 +25,12 @@ namespace Indexer_OOP
             #region Repository2
             Thread.Sleep(1000);  Console.Clear();
             Console.WriteLine("Repository2 with indexer\n");
-            Repository2 repository2 = new Repository2(
+            Repository2 repository2 = new (
 
-                new Worker("Name_1", "Position_1", 1000),
-                new Worker("Name_2", "Position_2", 1500),
-                new Worker("Name_3", "Position_3", 2000),
-                new Worker("Name_4", "Position_4", 2500)
+                new ("Name_1", "Position_1", 1000),
+                new ("Name_2", "Position_2", 1500),
+                new ("Name_3", "Position_3", 2000),
+                new ("Name_4", "Position_4", 2500)
                 );
             Console.WriteLine(repository2[0].Print());
             Console.WriteLine(repository2[1].Print());
@@ -56,12 +56,12 @@ namespace Indexer_OOP
             #region Repository4
             Thread.Sleep(1000); Console.Clear();
             Console.WriteLine("Repository3 with indexer\n");
-            Repository4 repository4 = new Repository4(
+            Repository4 repository4 = new (
 
-                new Worker("Name_1", "Position_1", 1000),
-                new Worker("Name_2", "Position_2", 1500),
-                new Worker("Name_3", "Position_3", 2000),
-                new Worker("Name_4", "Position_4", 2500)
+                new ("Name_1", "Position_1", 1000),
+                new ("Name_2", "Position_2", 1500),
+                new ("Name_3", "Position_3", 2000),
+                new ("Name_4", "Position_4", 2500)
                 );
             Console.WriteLine(repository4[0]);
             Console.WriteLine(repository4["+"]);
@@ -78,7 +78,7 @@ namespace Indexer_OOP
             Console.WriteLine("\nMatrix with indexer\t");
 
             int[] arr = { 1, 2, 3, 4, 5, 6, 7, 8, 9 };
-            Matrix matrix = new Matrix(arr);
+            Matrix matrix = new (arr);
             for (int i = 0; i < arr.Length; i++)
             {
                 Console.Write($"{matrix[i]}\t");

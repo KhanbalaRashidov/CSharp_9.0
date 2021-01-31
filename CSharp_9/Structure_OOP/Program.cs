@@ -7,7 +7,7 @@ namespace Structure_OOP
         static void Main(string[] args)
         {
             #region MonthlyReport
-            MonthlyReport report = new MonthlyReport();
+            MonthlyReport report = new ();
             report.Month = "Junuary";
             report.Income = 2_000;
             report.Consumption = 1_000;
@@ -20,7 +20,7 @@ namespace Structure_OOP
                 report.Arrived);
 
             MonthlyReport[] monthReport = new MonthlyReport[12];
-            monthReport[0] = new MonthlyReport
+            monthReport[0] = new ()
             {
                 Month = "Junuary",
                 Income = 1_500,
@@ -34,7 +34,7 @@ namespace Structure_OOP
                 monthReport[0].Consumption,
                 monthReport[0].Arrived);
 
-            monthReport[1] = new MonthlyReport();
+            monthReport[1] = new ();
             monthReport[1].Month = "February";
             monthReport[1].Income = 2_500;
             monthReport[1].Consumption = 1950;
@@ -49,7 +49,7 @@ namespace Structure_OOP
 
             #region Worker
             Console.ReadKey(); Console.Clear();
-            Worker worker = new Worker
+            Worker worker = new ()
             {
                 Position = "Engineer",
                 FirstName = "Khanbala",

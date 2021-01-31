@@ -23,7 +23,7 @@ namespace Method_Example
         }
         static void ApplauseAndOvations()
         {
-            Random rand = new Random();
+            Random rand = new ();
             for (int i = 0; i < rand.Next(30, 51); i++)
             {
                 int posX = rand.Next(Console.WindowWidth - 5);
@@ -34,7 +34,7 @@ namespace Method_Example
         }
         public static void ApplauseAndOvations(string text1,string text2,int count)
         {
-            Random rand = new Random();
+            Random rand = new ();
             for (int i = 0; i < count; i++)
             {
                 int posX = rand.Next(Console.WindowWidth - 5);

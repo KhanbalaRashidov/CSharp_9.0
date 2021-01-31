@@ -6,8 +6,8 @@ namespace MethodParametr_Class_and_Struct
     {
         static void Main(string[] args)
         {
-            TheClass theClass = new TheClass("Not Change");
-            TheStruct theStruct = new TheStruct("Not Change");
+            TheClass theClass = new ("Not Change");
+            TheStruct theStruct = new ("Not Change");
 
             Console.WriteLine($"Original TheClass field Name: {theClass.Name}");
             Console.WriteLine($"Original TheStruct field Name: {theStruct.Name}\n");

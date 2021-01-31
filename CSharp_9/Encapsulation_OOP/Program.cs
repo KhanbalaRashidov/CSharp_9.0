@@ -10,7 +10,7 @@ namespace Encapsulation_OOP
 
             #region Computer1
 
-            Computer1 computer1 = new Computer1("Computer_1");
+            Computer1 computer1 = new("Computer_1");
             computer1.ActivationBIOS();
             computer1.ActivationOS();
             computer1.Calculation();
@@ -21,14 +21,14 @@ namespace Encapsulation_OOP
 
             #region Computer2
             Console.ReadKey(); Console.Clear();
-            Computer2 computer2 = new Computer2("Computer_2");
+            Computer2 computer2 = new ("Computer_2");
             computer2.PowerOff();
             computer2.PowerOn();
             #endregion
 
             #region Computer3
             Console.ReadKey(); Console.Clear();
-            Computer3 computer3 = new Computer3("Computer_3");
+            Computer3 computer3 = new ("Computer_3");
             for (int i = 0; i < 5; i++)
             {
                 computer3.Power();
