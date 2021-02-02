@@ -1,0 +1,15 @@
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Network_ExampleStream\bin\Debug\net5.0\Network_ExampleStream.exe
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Network_ExampleStream\bin\Debug\net5.0\Network_ExampleStream.deps.json
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Network_ExampleStream\bin\Debug\net5.0\Network_ExampleStream.runtimeconfig.json
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Network_ExampleStream\bin\Debug\net5.0\Network_ExampleStream.runtimeconfig.dev.json
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Network_ExampleStream\bin\Debug\net5.0\Network_ExampleStream.dll
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Network_ExampleStream\bin\Debug\net5.0\ref\Network_ExampleStream.dll
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Network_ExampleStream\bin\Debug\net5.0\Network_ExampleStream.pdb
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Network_ExampleStream\obj\Debug\net5.0\Network_ExampleStream.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Network_ExampleStream\obj\Debug\net5.0\Network_ExampleStream.AssemblyInfoInputs.cache
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Network_ExampleStream\obj\Debug\net5.0\Network_ExampleStream.AssemblyInfo.cs
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Network_ExampleStream\obj\Debug\net5.0\Network_ExampleStream.csproj.CoreCompileInputs.cache
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Network_ExampleStream\obj\Debug\net5.0\Network_ExampleStream.dll
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Network_ExampleStream\obj\Debug\net5.0\ref\Network_ExampleStream.dll
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Network_ExampleStream\obj\Debug\net5.0\Network_ExampleStream.pdb
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Network_ExampleStream\obj\Debug\net5.0\Network_ExampleStream.genruntimeconfig.cache
