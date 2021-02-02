@@ -1,0 +1,16 @@
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Network_Intro\bin\Debug\net5.0\Network_Intro.exe
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Network_Intro\bin\Debug\net5.0\Network_Intro.deps.json
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Network_Intro\bin\Debug\net5.0\Network_Intro.runtimeconfig.json
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Network_Intro\bin\Debug\net5.0\Network_Intro.runtimeconfig.dev.json
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Network_Intro\bin\Debug\net5.0\Network_Intro.dll
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Network_Intro\bin\Debug\net5.0\ref\Network_Intro.dll
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Network_Intro\bin\Debug\net5.0\Network_Intro.pdb
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Network_Intro\obj\Debug\net5.0\Network_Intro.csprojAssemblyReference.cache
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Network_Intro\obj\Debug\net5.0\Network_Intro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Network_Intro\obj\Debug\net5.0\Network_Intro.AssemblyInfoInputs.cache
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Network_Intro\obj\Debug\net5.0\Network_Intro.AssemblyInfo.cs
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Network_Intro\obj\Debug\net5.0\Network_Intro.csproj.CoreCompileInputs.cache
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Network_Intro\obj\Debug\net5.0\Network_Intro.dll
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Network_Intro\obj\Debug\net5.0\ref\Network_Intro.dll
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Network_Intro\obj\Debug\net5.0\Network_Intro.pdb
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Network_Intro\obj\Debug\net5.0\Network_Intro.genruntimeconfig.cache

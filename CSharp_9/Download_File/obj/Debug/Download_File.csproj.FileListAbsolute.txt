@@ -1,0 +1,10 @@
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Download_File\bin\Debug\Download_File.exe.config
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Download_File\bin\Debug\Download_File.exe
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Download_File\bin\Debug\Download_File.pdb
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Download_File\obj\Debug\Download_File.csprojAssemblyReference.cache
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Download_File\obj\Debug\Download_File.Form1.resources
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Download_File\obj\Debug\Download_File.Properties.Resources.resources
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Download_File\obj\Debug\Download_File.csproj.GenerateResource.cache
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Download_File\obj\Debug\Download_File.csproj.CoreCompileInputs.cache
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Download_File\obj\Debug\Download_File.exe
+C:\Users\Xanish\Desktop\Khanbala_Rashidov\CSharp_9.0\CSharp_9\Download_File\obj\Debug\Download_File.pdb
