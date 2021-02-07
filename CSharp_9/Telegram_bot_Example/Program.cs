@@ -9,16 +9,20 @@ using Telegram.Bot.Args;
 
 namespace Telegram_bot_Example
 {
+
     class Program
     {
         static TelegramBotClient bot;
-
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <param name="args"></param>
         static void Main(string[] args)
         {
             string token = System.IO.File.ReadAllText(@"C:\Telegram_Bot\Token\token.txt");
             Console.WriteLine(token);
             #region Proxy
-
+            
             var proxy = new WebProxy()
             {
                 Address = new Uri($"http://77.87.240.74:3128"),
@@ -37,7 +41,11 @@ namespace Telegram_bot_Example
             Console.ReadKey();
 
         }
-
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private static void Bot_OnMessage(object sender, MessageEventArgs e)
         {
             string text = $"{DateTime.Now.ToLongTimeString()} {e.Message.Chat.FirstName} {e.Message.Chat.Id} {e.Message.Text}";
@@ -60,7 +68,11 @@ namespace Telegram_bot_Example
                 $"Hello {e.Message.Chat.Username} "+e.Message.Text);
             
         }
-
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <param name="fileId"></param>
+        /// <param name="path"></param>
         private static async void Download(string fileId, string path)
         {
             var file = await bot.GetFileAsync(fileId);
