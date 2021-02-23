@@ -50,6 +50,7 @@ namespace Matrix_Multiplication_example
         }
         public static float[,] Mult(float[,] arr1, float[,] arr2)
         {
+
             float[,] arr3 = new float[arr1.GetLongLength(0), arr2.GetLongLength(1)];
 
             for (int i = 0; i < arr3.GetLongLength(0); i++)
@@ -60,6 +61,7 @@ namespace Matrix_Multiplication_example
                     for (int k = 0; k < arr3.GetLongLength(1); k++)
                     {
                         arr3[i, j] += arr1[i, k] * arr2[k, j];
+                        //arr3[i,j]=arr3[i,j] +arr1[i, k] * arr2[k, j];
                     }
                 }
             }
