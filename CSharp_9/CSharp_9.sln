@@ -199,7 +199,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "OOP_Advanced", "OOP_Advance
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Example_1", "Example_1\Example_1.csproj", "{5B496F6D-1837-409A-A9D0-7AD05698508B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matrix_Multiplication_example", "Matrix_Multiplication_example\Matrix_Multiplication_example.csproj", "{9615DC39-8280-42F1-93D6-C494B0FB2387}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Matrix_Multiplication_example", "Matrix_Multiplication_example\Matrix_Multiplication_example.csproj", "{9615DC39-8280-42F1-93D6-C494B0FB2387}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
