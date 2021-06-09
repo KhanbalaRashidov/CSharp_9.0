@@ -4648,11 +4648,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Xanish\\Desktop\\Khanbala_Rashidov\\CSharp_9.0\\CSharp_9\\Telegram_bot_lib\\Telegram_bot_lib.csproj",
+      "projectUniqueName": "C:\\Users\\Xanish\\cSharp_9.0\\CSharp_9\\Telegram_bot_lib\\Telegram_bot_lib.csproj",
       "projectName": "Telegram_bot_lib",
-      "projectPath": "C:\\Users\\Xanish\\Desktop\\Khanbala_Rashidov\\CSharp_9.0\\CSharp_9\\Telegram_bot_lib\\Telegram_bot_lib.csproj",
+      "projectPath": "C:\\Users\\Xanish\\cSharp_9.0\\CSharp_9\\Telegram_bot_lib\\Telegram_bot_lib.csproj",
       "packagesPath": "C:\\Users\\Xanish\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Xanish\\Desktop\\Khanbala_Rashidov\\CSharp_9.0\\CSharp_9\\Telegram_bot_lib\\obj\\",
+      "outputPath": "C:\\Users\\Xanish\\cSharp_9.0\\CSharp_9\\Telegram_bot_lib\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -4704,7 +4704,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.204\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -30,6 +30,7 @@ namespace Array3D_Example
                 Console.WriteLine("\n");
             }
             Console.WriteLine("\n\n");
+            Console.ReadKey();
             int[,,,] matrix4D = new int[3, 4, 5, 6];
             Console.WriteLine($"matrix3D.Rank={matrix4D.Rank}");
 

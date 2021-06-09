@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Xanish\\Desktop\\Khanbala_Rashidov\\CSharp_9.0\\CSharp_9\\Method_returnType\\Method_returnType.csproj": {}
+    "C:\\Users\\Xanish\\cSharp_9.0\\CSharp_9\\Method_returnType\\Method_returnType.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Xanish\\Desktop\\Khanbala_Rashidov\\CSharp_9.0\\CSharp_9\\Method_returnType\\Method_returnType.csproj": {
+    "C:\\Users\\Xanish\\cSharp_9.0\\CSharp_9\\Method_returnType\\Method_returnType.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Xanish\\Desktop\\Khanbala_Rashidov\\CSharp_9.0\\CSharp_9\\Method_returnType\\Method_returnType.csproj",
+        "projectUniqueName": "C:\\Users\\Xanish\\cSharp_9.0\\CSharp_9\\Method_returnType\\Method_returnType.csproj",
         "projectName": "Method_returnType",
-        "projectPath": "C:\\Users\\Xanish\\Desktop\\Khanbala_Rashidov\\CSharp_9.0\\CSharp_9\\Method_returnType\\Method_returnType.csproj",
+        "projectPath": "C:\\Users\\Xanish\\cSharp_9.0\\CSharp_9\\Method_returnType\\Method_returnType.csproj",
         "packagesPath": "C:\\Users\\Xanish\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Xanish\\Desktop\\Khanbala_Rashidov\\CSharp_9.0\\CSharp_9\\Method_returnType\\obj\\",
+        "outputPath": "C:\\Users\\Xanish\\cSharp_9.0\\CSharp_9\\Method_returnType\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -57,7 +57,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.204\\RuntimeIdentifierGraph.json"
         }
       }
     }

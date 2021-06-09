@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2o2kxKL6+ZsPsQzfz0fQW+R1K5AXeWW6ysuiAGTQyi9a8p0lmAm2XAYlxBuXxpovp8P7jX84+mXJJpTi760pqQ==",
+  "dgSpecHash": "QLXVXOV1xaE5LLiVsMaqaLdEkWo6FKGNWNrcV6Tau013q8hTaCI52DVA9KIKnA7dREkMswR8cMR3ya6WiB0pvg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Xanish\\Desktop\\Khanbala_Rashidov\\CSharp_9.0\\CSharp_9\\Telegram_bot\\Telegram_bot.csproj",
+  "projectFilePath": "C:\\Users\\Xanish\\cSharp_9.0\\CSharp_9\\Telegram_bot\\Telegram_bot.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Xanish\\.nuget\\packages\\newtonsoft.json\\13.0.1-beta1\\newtonsoft.json.13.0.1-beta1.nupkg.sha512"
   ],

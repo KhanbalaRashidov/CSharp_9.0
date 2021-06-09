@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Xanish\\Desktop\\Khanbala_Rashidov\\CSharp_9.0\\CSharp_9\\Constructor_OOP\\Constructor_OOP.csproj",
+      "projectUniqueName": "C:\\Users\\Xanish\\cSharp_9.0\\CSharp_9\\Constructor_OOP\\Constructor_OOP.csproj",
       "projectName": "Constructor_OOP",
-      "projectPath": "C:\\Users\\Xanish\\Desktop\\Khanbala_Rashidov\\CSharp_9.0\\CSharp_9\\Constructor_OOP\\Constructor_OOP.csproj",
+      "projectPath": "C:\\Users\\Xanish\\cSharp_9.0\\CSharp_9\\Constructor_OOP\\Constructor_OOP.csproj",
       "packagesPath": "C:\\Users\\Xanish\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Xanish\\Desktop\\Khanbala_Rashidov\\CSharp_9.0\\CSharp_9\\Constructor_OOP\\obj\\",
+      "outputPath": "C:\\Users\\Xanish\\cSharp_9.0\\CSharp_9\\Constructor_OOP\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -64,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.204\\RuntimeIdentifierGraph.json"
       }
     }
   }

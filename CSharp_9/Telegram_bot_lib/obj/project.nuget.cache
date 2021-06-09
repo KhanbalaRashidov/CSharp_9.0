@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "saRJ65ZxwpS3pjY+t6mPEY5UODiH0w2hnNhpZbVBpJZYaRHWrwk+OGuyIxcm9+UWhgGDEg/mcrtqvAQqbvTPzQ==",
+  "dgSpecHash": "XueqstvTg83vXFkbwwJwKiBMqAqB0oP23fTL6MZL1pT8lxAC8N48TxMdZTSc3zFxdARPZ99s96mNMhHr/wGnQg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Xanish\\Desktop\\Khanbala_Rashidov\\CSharp_9.0\\CSharp_9\\Telegram_bot_lib\\Telegram_bot_lib.csproj",
+  "projectFilePath": "C:\\Users\\Xanish\\cSharp_9.0\\CSharp_9\\Telegram_bot_lib\\Telegram_bot_lib.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",

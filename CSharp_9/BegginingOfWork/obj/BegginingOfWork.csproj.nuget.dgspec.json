@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Xanish\\Desktop\\Khanbala_Rashidov\\CSharp_9.0\\CSharp_9\\BegginingOfWork\\BegginingOfWork.csproj": {}
+    "C:\\Users\\Xanish\\cSharp_9.0\\CSharp_9\\BegginingOfWork\\BegginingOfWork.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Xanish\\Desktop\\Khanbala_Rashidov\\CSharp_9.0\\CSharp_9\\BegginingOfWork\\BegginingOfWork.csproj": {
+    "C:\\Users\\Xanish\\cSharp_9.0\\CSharp_9\\BegginingOfWork\\BegginingOfWork.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Xanish\\Desktop\\Khanbala_Rashidov\\CSharp_9.0\\CSharp_9\\BegginingOfWork\\BegginingOfWork.csproj",
+        "projectUniqueName": "C:\\Users\\Xanish\\cSharp_9.0\\CSharp_9\\BegginingOfWork\\BegginingOfWork.csproj",
         "projectName": "BegginingOfWork",
-        "projectPath": "C:\\Users\\Xanish\\Desktop\\Khanbala_Rashidov\\CSharp_9.0\\CSharp_9\\BegginingOfWork\\BegginingOfWork.csproj",
+        "projectPath": "C:\\Users\\Xanish\\cSharp_9.0\\CSharp_9\\BegginingOfWork\\BegginingOfWork.csproj",
         "packagesPath": "C:\\Users\\Xanish\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Xanish\\Desktop\\Khanbala_Rashidov\\CSharp_9.0\\CSharp_9\\BegginingOfWork\\obj\\",
+        "outputPath": "C:\\Users\\Xanish\\cSharp_9.0\\CSharp_9\\BegginingOfWork\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -57,7 +57,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.204\\RuntimeIdentifierGraph.json"
         }
       }
     }

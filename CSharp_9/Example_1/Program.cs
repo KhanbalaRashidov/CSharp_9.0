@@ -16,7 +16,9 @@ namespace Example_1
             #endregion
             #region
             Robot robot = new Robot("NickName", "Discolation");
+           
             #endregion
+
         }
     }
 }
