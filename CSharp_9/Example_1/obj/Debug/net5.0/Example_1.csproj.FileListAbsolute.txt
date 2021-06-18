@@ -1,0 +1,16 @@
+C:\Users\Xanish\cSharp_9.0\CSharp_9\Example_1\bin\Debug\net5.0\Example_1.exe
+C:\Users\Xanish\cSharp_9.0\CSharp_9\Example_1\bin\Debug\net5.0\Example_1.deps.json
+C:\Users\Xanish\cSharp_9.0\CSharp_9\Example_1\bin\Debug\net5.0\Example_1.runtimeconfig.json
+C:\Users\Xanish\cSharp_9.0\CSharp_9\Example_1\bin\Debug\net5.0\Example_1.runtimeconfig.dev.json
+C:\Users\Xanish\cSharp_9.0\CSharp_9\Example_1\bin\Debug\net5.0\Example_1.dll
+C:\Users\Xanish\cSharp_9.0\CSharp_9\Example_1\bin\Debug\net5.0\ref\Example_1.dll
+C:\Users\Xanish\cSharp_9.0\CSharp_9\Example_1\bin\Debug\net5.0\Example_1.pdb
+C:\Users\Xanish\cSharp_9.0\CSharp_9\Example_1\obj\Debug\net5.0\Example_1.csprojAssemblyReference.cache
+C:\Users\Xanish\cSharp_9.0\CSharp_9\Example_1\obj\Debug\net5.0\Example_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Xanish\cSharp_9.0\CSharp_9\Example_1\obj\Debug\net5.0\Example_1.AssemblyInfoInputs.cache
+C:\Users\Xanish\cSharp_9.0\CSharp_9\Example_1\obj\Debug\net5.0\Example_1.AssemblyInfo.cs
+C:\Users\Xanish\cSharp_9.0\CSharp_9\Example_1\obj\Debug\net5.0\Example_1.csproj.CoreCompileInputs.cache
+C:\Users\Xanish\cSharp_9.0\CSharp_9\Example_1\obj\Debug\net5.0\Example_1.dll
+C:\Users\Xanish\cSharp_9.0\CSharp_9\Example_1\obj\Debug\net5.0\ref\Example_1.dll
+C:\Users\Xanish\cSharp_9.0\CSharp_9\Example_1\obj\Debug\net5.0\Example_1.pdb
+C:\Users\Xanish\cSharp_9.0\CSharp_9\Example_1\obj\Debug\net5.0\Example_1.genruntimeconfig.cache

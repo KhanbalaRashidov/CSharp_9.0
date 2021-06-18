@@ -4,32 +4,32 @@ namespace Okay
 {
     class Program
     {
-        public static int GetMaximumGenerated(int n)
-        {
-
-            int[] nums = new int[n + 1];
-            nums[0] = 0;
-            nums[1] = 1;
-            int max = 0;
-            for (int i = 1; i <=n; i++)
-            {
-                if (i * 2 >= 2 && i * 2 <= n)
-                {
-                    nums[i * 2] = nums[i];
-                }
-                if (((i * 2) + 1) >= 2 && ((i * 2) + 1) <= n)
-                {
-                    nums[i * 2 + 1] = nums[i] + nums[i + 1];
-                }
-            }
-            
-            max = nums[n];
-            return max;
-        }
         static void Main(string[] args)
         {
+            int eded, k = 0;
+            Console.WriteLine("Massivin olcusun daxil edin:");
             int n = int.Parse(Console.ReadLine());
-            Console.WriteLine(GetMaximumGenerated(n));
+            int[] array = new int[n];
+            for (int i = 0; i < n; i++)
+            {
+                array[i] = int.Parse(Console.ReadLine());
+            }
+            for (int i = 0; i < n; i++)
+            {
+                eded = array[i];
+                bool f = true;
+                while (eded != 0 && f)
+                {
+                    k = eded % 10;
+                    if (k % 2 == 0) f = false;
+                    eded /= 10;
+                }
+                if (f) Console.WriteLine(array[i]);
+
+            }
+
+
+            Console.ReadKey();
         }
     }
 }

@@ -1,0 +1,16 @@
+C:\Users\Xanish\cSharp_9.0\CSharp_9\OperatorOverloading\bin\Debug\net5.0\OperatorOverloading.exe
+C:\Users\Xanish\cSharp_9.0\CSharp_9\OperatorOverloading\bin\Debug\net5.0\OperatorOverloading.deps.json
+C:\Users\Xanish\cSharp_9.0\CSharp_9\OperatorOverloading\bin\Debug\net5.0\OperatorOverloading.runtimeconfig.json
+C:\Users\Xanish\cSharp_9.0\CSharp_9\OperatorOverloading\bin\Debug\net5.0\OperatorOverloading.runtimeconfig.dev.json
+C:\Users\Xanish\cSharp_9.0\CSharp_9\OperatorOverloading\bin\Debug\net5.0\OperatorOverloading.dll
+C:\Users\Xanish\cSharp_9.0\CSharp_9\OperatorOverloading\bin\Debug\net5.0\ref\OperatorOverloading.dll
+C:\Users\Xanish\cSharp_9.0\CSharp_9\OperatorOverloading\bin\Debug\net5.0\OperatorOverloading.pdb
+C:\Users\Xanish\cSharp_9.0\CSharp_9\OperatorOverloading\obj\Debug\net5.0\OperatorOverloading.csprojAssemblyReference.cache
+C:\Users\Xanish\cSharp_9.0\CSharp_9\OperatorOverloading\obj\Debug\net5.0\OperatorOverloading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Xanish\cSharp_9.0\CSharp_9\OperatorOverloading\obj\Debug\net5.0\OperatorOverloading.AssemblyInfoInputs.cache
+C:\Users\Xanish\cSharp_9.0\CSharp_9\OperatorOverloading\obj\Debug\net5.0\OperatorOverloading.AssemblyInfo.cs
+C:\Users\Xanish\cSharp_9.0\CSharp_9\OperatorOverloading\obj\Debug\net5.0\OperatorOverloading.csproj.CoreCompileInputs.cache
+C:\Users\Xanish\cSharp_9.0\CSharp_9\OperatorOverloading\obj\Debug\net5.0\OperatorOverloading.dll
+C:\Users\Xanish\cSharp_9.0\CSharp_9\OperatorOverloading\obj\Debug\net5.0\ref\OperatorOverloading.dll
+C:\Users\Xanish\cSharp_9.0\CSharp_9\OperatorOverloading\obj\Debug\net5.0\OperatorOverloading.pdb
+C:\Users\Xanish\cSharp_9.0\CSharp_9\OperatorOverloading\obj\Debug\net5.0\OperatorOverloading.genruntimeconfig.cache

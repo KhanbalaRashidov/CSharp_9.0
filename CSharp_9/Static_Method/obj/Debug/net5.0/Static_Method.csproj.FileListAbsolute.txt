@@ -1,0 +1,16 @@
+C:\Users\Xanish\cSharp_9.0\CSharp_9\Static_Method\bin\Debug\net5.0\Static_Method.exe
+C:\Users\Xanish\cSharp_9.0\CSharp_9\Static_Method\bin\Debug\net5.0\Static_Method.deps.json
+C:\Users\Xanish\cSharp_9.0\CSharp_9\Static_Method\bin\Debug\net5.0\Static_Method.runtimeconfig.json
+C:\Users\Xanish\cSharp_9.0\CSharp_9\Static_Method\bin\Debug\net5.0\Static_Method.runtimeconfig.dev.json
+C:\Users\Xanish\cSharp_9.0\CSharp_9\Static_Method\bin\Debug\net5.0\Static_Method.dll
+C:\Users\Xanish\cSharp_9.0\CSharp_9\Static_Method\bin\Debug\net5.0\ref\Static_Method.dll
+C:\Users\Xanish\cSharp_9.0\CSharp_9\Static_Method\bin\Debug\net5.0\Static_Method.pdb
+C:\Users\Xanish\cSharp_9.0\CSharp_9\Static_Method\obj\Debug\net5.0\Static_Method.csprojAssemblyReference.cache
+C:\Users\Xanish\cSharp_9.0\CSharp_9\Static_Method\obj\Debug\net5.0\Static_Method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Xanish\cSharp_9.0\CSharp_9\Static_Method\obj\Debug\net5.0\Static_Method.AssemblyInfoInputs.cache
+C:\Users\Xanish\cSharp_9.0\CSharp_9\Static_Method\obj\Debug\net5.0\Static_Method.AssemblyInfo.cs
+C:\Users\Xanish\cSharp_9.0\CSharp_9\Static_Method\obj\Debug\net5.0\Static_Method.csproj.CoreCompileInputs.cache
+C:\Users\Xanish\cSharp_9.0\CSharp_9\Static_Method\obj\Debug\net5.0\Static_Method.dll
+C:\Users\Xanish\cSharp_9.0\CSharp_9\Static_Method\obj\Debug\net5.0\ref\Static_Method.dll
+C:\Users\Xanish\cSharp_9.0\CSharp_9\Static_Method\obj\Debug\net5.0\Static_Method.pdb
+C:\Users\Xanish\cSharp_9.0\CSharp_9\Static_Method\obj\Debug\net5.0\Static_Method.genruntimeconfig.cache
